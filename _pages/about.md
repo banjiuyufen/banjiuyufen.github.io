@@ -19,26 +19,26 @@ redirect_from:
 
 # <span class="lang-switch" data-lang-en="👋 About Me" data-lang-zh="👋 个人简介">👋 About Me</span>
 
-<span class="lang-switch" data-lang-en="I am currently a PhD student jointly affiliated with the **State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)** at the **Institute of Automation, Chinese Academy of Sciences (CASIA)** and **Zhongguancun Academy**, under the supervision of Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN)." data-lang-zh="本人目前是中国科学院自动化研究所多模态人工智能系统国家重点实验室（MAIS）与中关村学院联合培养的博士研究生，师从[刘成林](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN)研究员。">I am currently a PhD student jointly affiliated with the **State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)** at the **Institute of Automation, Chinese Academy of Sciences (CASIA)** and **Zhongguancun Academy**, under the supervision of Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN).</span>
+<span class="lang-switch" data-lang-en="I am currently a PhD student jointly affiliated with the <strong>State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)</strong> at the <strong>Institute of Automation, Chinese Academy of Sciences (CASIA)</strong> and <strong>Zhongguancun Academy</strong>, under the supervision of Prof. <a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN'>Cheng-Lin Liu</a>." data-lang-zh="本人目前是中国科学院自动化研究所多模态人工智能系统国家重点实验室（MAIS）与中关村学院联合培养的博士研究生，师从<a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN'>刘成林</a>研究员。">I am currently a PhD student jointly affiliated with the **State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)** at the **Institute of Automation, Chinese Academy of Sciences (CASIA)** and **Zhongguancun Academy**, under the supervision of Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN).</span>
 
 ## <span class="lang-switch" data-lang-en="🎓 Education Background" data-lang-zh="🎓 教育背景">🎓 Education Background</span>
-- <span class="lang-switch" data-lang-en="**2024.09 - Present**: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS" data-lang-zh="**2024.09 - 至今**: 模式识别与智能系统博士，中科院自动化所-MAIS">**2024.09 - Present**: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS</span>
-- <span class="lang-switch" data-lang-en="**2021.09 - 2024.06**: M.S. in Electronic Information, NLPR, CASIA" data-lang-zh="**2021.09 - 2024.06**: 电子信息硕士，中科院自动化所-NLPR">**2021.09 - 2024.06**: M.S. in Electronic Information, NLPR, CASIA</span>
-- <span class="lang-switch" data-lang-en="**2017.09 - 2021.06**: B.E. in Space Science and Technology, Xidian University" data-lang-zh="**2017.09 - 2021.06**: 空间科学与技术学士，西安电子科技大学">**2017.09 - 2021.06**: B.E. in Space Science and Technology, Xidian University</span>
+- <span class="lang-switch" data-lang-en="<strong>2024.09 - Present</strong>: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS" data-lang-zh="<strong>2024.09 - 至今</strong>: 模式识别与智能系统博士，中科院自动化所-MAIS">**2024.09 - Present**: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS</span>
+- <span class="lang-switch" data-lang-en="<strong>2021.09 - 2024.06</strong>: M.S. in Electronic Information, NLPR, CASIA" data-lang-zh="<strong>2021.09 - 2024.06</strong>: 电子信息硕士，中科院自动化所-NLPR">**2021.09 - 2024.06**: M.S. in Electronic Information, NLPR, CASIA</span>
+- <span class="lang-switch" data-lang-en="<strong>2017.09 - 2021.06</strong>: B.E. in Space Science and Technology, Xidian University" data-lang-zh="<strong>2017.09 - 2021.06</strong>: 空间科学与技术学士，西安电子科技大学">**2017.09 - 2021.06**: B.E. in Space Science and Technology, Xidian University</span>
 
 ## <span class="lang-switch" data-lang-en="🔬 Research Focus" data-lang-zh="🔬 研究方向">🔬 Research Focus</span>
 <span class="lang-switch" data-lang-en="My Ph.D. research centers on:" data-lang-zh="博士研究方向主要包括：">My Ph.D. research centers on:</span>
 
-- <span class="lang-switch" data-lang-en="**🧬 AI for Science**: AI-driven vaccine adjuvant discovery and development" data-lang-zh="**🧬 AI for Science**: AI驱动的疫苗佐剂发现与开发">**🧬 AI for Science**: AI-driven vaccine adjuvant discovery and development</span>
-- <span class="lang-switch" data-lang-en="**🤖 Multimodal Large Language Models**: Reliable reasoning, inference acceleration, and vision token optimization" data-lang-zh="**🤖 多模态大语言模型**: 可靠推理、推理加速与视觉Token优化">**🤖 Multimodal Large Language Models**: Reliable reasoning, inference acceleration, and vision token optimization</span>
-- <span class="lang-switch" data-lang-en="**✍️ Handwritten Text Recognition & Generation**: Online Chinese text recognition and synthesis" data-lang-zh="**✍️ 手写文本识别与生成**: 联机中文文本识别与合成">**✍️ Handwritten Text Recognition & Generation**: Online Chinese text recognition and synthesis</span>
+- <span class="lang-switch" data-lang-en="<strong>🧬 AI for Science</strong>: AI-driven vaccine adjuvant discovery and development" data-lang-zh="<strong>🧬 AI for Science</strong>: AI驱动的疫苗佐剂发现与开发">**🧬 AI for Science**: AI-driven vaccine adjuvant discovery and development</span>
+- <span class="lang-switch" data-lang-en="<strong>🤖 Multimodal Large Language Models</strong>: Reliable reasoning, inference acceleration, and vision token optimization" data-lang-zh="<strong>🤖 多模态大语言模型</strong>: 可靠推理、推理加速与视觉Token优化">**🤖 Multimodal Large Language Models**: Reliable reasoning, inference acceleration, and vision token optimization</span>
+- <span class="lang-switch" data-lang-en="<strong>✍️ Handwritten Text Recognition & Generation</strong>: Online Chinese text recognition and synthesis" data-lang-zh="<strong>✍️ 手写文本识别与生成</strong>: 联机中文文本识别与合成">**✍️ Handwritten Text Recognition & Generation**: Online Chinese text recognition and synthesis</span>
 
 ## <span class="lang-switch" data-lang-en="📊 Academic Impact" data-lang-zh="📊 学术影响">📊 Academic Impact</span>
 <span class="lang-switch" data-lang-en="You can find my publications on <a href='https://scholar.google.com/citations?user=XoiT9wMAAAAJ&hl=zh-CN'>Google Scholar</a> and connect with me through various academic platforms listed in the sidebar." data-lang-zh="您可以在<a href='https://scholar.google.com/citations?user=XoiT9wMAAAAJ&hl=zh-CN'>Google Scholar</a>上查看我的论文，并通过侧边栏列出的各种学术平台与我联系。">You can find my publications on <a href='https://scholar.google.com/citations?user=XoiT9wMAAAAJ&hl=zh-CN'>Google Scholar</a> and connect with me through various academic platforms listed in the sidebar.</span>
 
 
 # <span class="lang-switch" data-lang-en="🔥 News" data-lang-zh="🔥 最新动态">🔥 News</span>
-- *2026.02*: &nbsp;🎉🎉 **Three papers accepted to CVPR 2026**! Including "MeteorPred" (meteorological multimodal model), "ChartAgent" (chart understanding framework), and "Fine-Grained Post-Training Quantization" (VLM optimization).
+- *2026.02*: &nbsp;🎉🎉 **Three papers accepted to CVPR 2026**! Including "MeteorPred" (meteorological multimodal model), "ChartAgent" (chart understanding framework), and "Fine-Grained Post-Training Quantization" (LVLM optimization).
 - *2026.01*: &nbsp;🎉🎉 **Three papers accepted to top-tier conferences**! Two papers to **ICLR 2026**: "An Open-Ended Benchmark for Adjuvant Research with MLLM" and "One Patch Doesn't Fit All" (adaptive patching for MLLMs). One paper to **ICRA 2026**: "RANGER" (monocular zero-shot semantic navigation).
 - *2025.11*: &nbsp;🎉🎉 **One paper accepted to AAAI 2026**! "VAGU & GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding" - a comprehensive framework for video anomaly detection and understanding. 
 
@@ -53,7 +53,7 @@ redirect_from:
 
 **ICLR 2026** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_1'></span></strong>
 - First benchmark dedicated to adjuvant research using multimodal large language models
-- First formal framework for representing adjuvant design principles and immune mechanisms
+- Formal framework for representing adjuvant design principles and immune mechanisms
 </div>
 </div>
 
@@ -137,9 +137,9 @@ redirect_from:
 
 # <span class="lang-switch" data-lang-en="🎖 Honors and Awards" data-lang-zh="🎖 荣誉奖项">🎖 Honors and Awards</span>
 
-- <span class="lang-switch" data-lang-en="*2025* **Academic Research Star**, National AI Academy Beijing Zhongguancun Academy" data-lang-zh="*2025* **学术科研之星**，国家人工智能学院北京中关村学院">*2025* **Academic Research Star**, National AI Academy Beijing Zhongguancun Academy</span>
-- <span class="lang-switch" data-lang-en="*2025* **Best Paper Award**, AIHCIR 2025 (for ManiNet: Manifold Network for Few-Shot Learning)" data-lang-zh="*2025* **最佳论文奖**，AIHCIR 2025（ManiNet: Manifold Network for Few-Shot Learning）">*2025* **Best Paper Award**, AIHCIR 2025 (for "ManiNet: Manifold Network for Few-Shot Learning")</span>
-- <span class="lang-switch" data-lang-en="*2024* **3rd Place**, ICDAR2024 Competition on Multi Font Group Recognition and OCR" data-lang-zh="*2024* **第三名**，ICDAR2024多字体组识别与OCR竞赛">*2024* **3rd Place**, ICDAR2024 Competition on Multi Font Group Recognition and OCR</span> 
+- <span class="lang-switch" data-lang-en="<em>2025</em> <strong>Academic Research Star</strong>, National AI Academy Beijing Zhongguancun Academy" data-lang-zh="<em>2025</em> <strong>学术科研之星</strong>，国家人工智能学院北京中关村学院">*2025* **Academic Research Star**, National AI Academy Beijing Zhongguancun Academy</span>
+- <span class="lang-switch" data-lang-en="<em>2025</em> <strong>Best Paper Award</strong>, AIHCIR 2025 (for ManiNet: Manifold Network for Few-Shot Learning)" data-lang-zh="<em>2025</em> <strong>最佳论文奖</strong>，AIHCIR 2025（ManiNet: Manifold Network for Few-Shot Learning）">*2025* **Best Paper Award**, AIHCIR 2025 (for "ManiNet: Manifold Network for Few-Shot Learning")</span>
+- <span class="lang-switch" data-lang-en="<em>2024</em> <strong>3rd Place</strong>, ICDAR2024 Competition on Multi Font Group Recognition and OCR" data-lang-zh="<em>2024</em> <strong>第三名</strong>，ICDAR2024多字体组识别与OCR竞赛">*2024* **3rd Place**, ICDAR2024 Competition on Multi Font Group Recognition and OCR</span> 
 
 # <span class="lang-switch" data-lang-en="📖 Education" data-lang-zh="📖 教育经历">📖 Education</span>
 - *2024.09 - Present*, **Ph.D. in Pattern Recognition and Intelligent Systems**  
