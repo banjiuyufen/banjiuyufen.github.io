@@ -105,7 +105,7 @@ redirect_from:
 
 - [Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients](https://arxiv.org/abs/2507.21649), Ziwen Xiang, Fanhu Zeng, Hongjian Fang, Rui-Qi Wang, Renxing Chen, **Yi Chen**, et al. **CVPR 2026**
 
-## <span class="lang-switch" data-lang-en="🧠 Machine Learning" data-lang-zh="🧠 机器学习理论">🧠 Machine Learning & Few-Shot Learning</span>
+## <span class="lang-switch" data-lang-en="🧠 Machine Learning" data-lang-zh="🧠 机器学习理论">🧠 Machine Learning</span>
 
 - [ManiNet: Manifold Network for Few-Shot Learning](https://arxiv.org/), Ruiqi Wang, Hengcan Shi, **Yi Chen**, YaoNan Wang. **AIHCIR 2025** (**Best Paper Award**)
 
