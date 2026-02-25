@@ -99,10 +99,241 @@ ul li {
   font-weight: 600;
 }
 
+/* GitHub link styling */
+.paper-links {
+  margin: 10px 0;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.github-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #24292e;
+  color: white !important;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none !important;
+  font-weight: 500;
+  font-size: 14px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.github-link:hover {
+  background: #2c3e50;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  color: white !important;
+}
+
+.github-link i {
+  font-size: 16px;
+}
+
+.inline-github-link {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 8px;
+  padding: 4px 8px;
+  background: #24292e;
+  color: white !important;
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-size: 12px;
+  transition: all 0.3s ease;
+  vertical-align: middle;
+}
+
+.inline-github-link:hover {
+  background: #2c3e50;
+  transform: scale(1.05);
+  color: white !important;
+}
+
+.inline-github-link i {
+  font-size: 14px;
+}
+
+/* Enhanced paper box styling for code links */
+.paper-box-text .paper-links {
+  margin-top: 12px;
+  border-top: 1px solid #e9ecef;
+  padding-top: 12px;
+}
+
+/* Open source contributions styling */
+.contribution-item {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-left: 4px solid #28a745;
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.contribution-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.contribution-details {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.contribution-details li {
+  color: #6c757d;
+  margin-bottom: 6px;
+}
+
+/* Research section styling */
+.research-section {
+  margin-bottom: 30px;
+}
+
+.research-section h2 {
+  position: relative;
+  padding-left: 15px;
+}
+
+.research-section h2::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 4px;
+  height: 20px;
+  background: linear-gradient(45deg, #007bff, #28a745);
+  border-radius: 2px;
+}
+
+/* Publication list styling */
+.publication-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.publication-list li {
+  background: #ffffff;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 12px;
+  transition: all 0.3s ease;
+  position: relative;
+  padding-left: 20px;
+}
+
+.publication-list li::before {
+  content: '📄';
+  position: absolute;
+  left: 8px;
+  top: 18px;
+  font-size: 14px;
+}
+
+.publication-list li:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transform: translateY(-1px);
+}
+
+/* Badge styling for conferences */
+.conference-badge {
+  display: inline-block;
+  background: #007bff;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 500;
+  margin-left: 8px;
+}
+
+.conference-badge.top-tier {
+  background: #dc3545;
+}
+
+.conference-badge.workshop {
+  background: #6c757d;
+}
+
+/* Hover animations and effects */
+.publication-list li {
+  border-left: 3px solid transparent;
+}
+
+.publication-list li:hover {
+  border-left-color: #007bff;
+}
+
+.research-section h2 {
+  transition: all 0.3s ease;
+}
+
+.research-section:hover h2 {
+  color: #007bff;
+}
+
+/* Icon animations */
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+.inline-github-link:hover i,
+.github-link:hover i {
+  animation: pulse 0.6s ease-in-out;
+}
+
+/* Smooth transitions for all interactive elements */
+* {
+  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease;
+}
+
 /* Responsive improvements */
 @media (max-width: 768px) {
   .paper-box {
     padding: 15px;
+  }
+  
+  .paper-links {
+    gap: 10px;
+  }
+  
+  .github-link {
+    padding: 6px 12px;
+    font-size: 13px;
+  }
+  
+  .contribution-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .publication-list li {
+    padding: 12px;
+    padding-left: 16px;
+  }
+  
+  .conference-badge {
+    display: block;
+    margin: 8px 0 4px 0;
+    width: fit-content;
+  }
+  
+  .inline-github-link {
+    display: block;
+    margin: 8px 0 0 0;
+    width: fit-content;
   }
 }
 </style>
