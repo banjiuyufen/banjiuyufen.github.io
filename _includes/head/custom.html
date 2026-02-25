@@ -193,93 +193,27 @@ ul li {
   margin-bottom: 6px;
 }
 
-/* Research section styling */
+/* Simplified research section styling */
 .research-section {
-  margin-bottom: 30px;
-}
-
-.research-section h2 {
-  position: relative;
-  padding-left: 15px;
-}
-
-.research-section h2::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 4px;
-  height: 20px;
-  background: linear-gradient(45deg, #007bff, #28a745);
-  border-radius: 2px;
-}
-
-/* Publication list styling */
-.publication-list {
-  list-style: none;
-  padding-left: 0;
-}
-
-.publication-list li {
-  background: #ffffff;
-  border: 1px solid #e9ecef;
-  border-radius: 6px;
-  padding: 16px;
-  margin-bottom: 12px;
-  transition: all 0.3s ease;
-  position: relative;
-  padding-left: 20px;
-}
-
-.publication-list li::before {
-  content: '📄';
-  position: absolute;
-  left: 8px;
-  top: 18px;
-  font-size: 14px;
-}
-
-.publication-list li:hover {
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  transform: translateY(-1px);
+  margin-bottom: 25px;
 }
 
 /* Badge styling for conferences */
 .conference-badge {
   display: inline-block;
-  background: #007bff;
+  background: #dc3545;
   color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 12px;
-  font-weight: 500;
-  margin-left: 8px;
+  padding: 3px 10px;
+  border-radius: 15px;
+  font-size: 11px;
+  font-weight: 600;
+  margin-left: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 .conference-badge.top-tier {
   background: #dc3545;
-}
-
-.conference-badge.workshop {
-  background: #6c757d;
-}
-
-/* Hover animations and effects */
-.publication-list li {
-  border-left: 3px solid transparent;
-}
-
-.publication-list li:hover {
-  border-left-color: #007bff;
-}
-
-.research-section h2 {
-  transition: all 0.3s ease;
-}
-
-.research-section:hover h2 {
-  color: #007bff;
 }
 
 /* Icon animations */
@@ -292,11 +226,6 @@ ul li {
 .inline-github-link:hover i,
 .github-link:hover i {
   animation: pulse 0.6s ease-in-out;
-}
-
-/* Smooth transitions for all interactive elements */
-* {
-  transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease;
 }
 
 /* Responsive improvements */
@@ -319,21 +248,14 @@ ul li {
     align-items: flex-start;
   }
   
-  .publication-list li {
-    padding: 12px;
-    padding-left: 16px;
-  }
-  
   .conference-badge {
-    display: block;
-    margin: 8px 0 4px 0;
-    width: fit-content;
+    display: inline-block;
+    margin: 4px 0;
   }
   
   .inline-github-link {
-    display: block;
-    margin: 8px 0 0 0;
-    width: fit-content;
+    display: inline-block;
+    margin: 4px 0 0 8px;
   }
 }
 </style>
