@@ -17,14 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 About Me
+# <span class="lang-switch" data-lang-en="👋 About Me" data-lang-zh="👋 个人简介">👋 About Me</span>
 
-I am currently a PhD student jointly affiliated with the **State Key Laboratory of Multimodal Artificial Intelligence Systems** at the **Institute of Automation, Chinese Academy of Sciences (CASIA)** and **Zhongguancun Academy**, under the supervision of Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN).
+I am currently a PhD student jointly affiliated with the **State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)** at the **Institute of Automation, Chinese Academy of Sciences (CASIA)** and **Zhongguancun Academy**, under the supervision of Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN).
 
-I received my B.E. degree from the **School of Space Science and Technology** at **Xidian University** in 2021. Subsequently, I earned my Master's degree in **Electronic Information** from the **National Laboratory of Pattern Recognition (NLPR), CASIA** in 2024, also advised by Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN).
+## <span class="lang-switch" data-lang-en="🎓 Education Background" data-lang-zh="🎓 教育背景">🎓 Education Background</span>
+- **2024.09 - Present**: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS
+- **2021.09 - 2024.06**: M.S. in Electronic Information, NLPR, CASIA  
+- **2017.09 - 2021.06**: B.E. in Space Science and Technology, Xidian University
 
-My Ph.D. research focuses on artificial intelligence and deep learning methodologies, specifically at the intersection of **Large Language Models (LLMs)** and **Adjuvant Science** (**AI for Adjuvant Discovery**). Additionally, I investigate the fundamental theories of **Multimodal Large Language Models (MLLMs)**, including reliable reasoning and inference acceleration.
+## <span class="lang-switch" data-lang-en="🔬 Research Focus" data-lang-zh="🔬 研究方向">🔬 Research Focus</span>
+My Ph.D. research centers on:
+- **🧬 AI for Science**: Intersection of Large Language Models and Adjuvant Discovery
+- **🤖 Multimodal Large Language Models**: Reliable reasoning and inference acceleration
+- **⚡ Model Optimization**: Vision token compression and recovery mechanisms
 
+## 📊 Academic Impact
 You can find my publications on <a href='https://scholar.google.com/citations?user=XoiT9wMAAAAJ&hl=zh-CN'>Google Scholar</a> and connect with me through various academic platforms listed in the sidebar.
 
 
