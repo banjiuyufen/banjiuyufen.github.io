@@ -38,7 +38,7 @@ redirect_from:
 
 
 # <span class="lang-switch" data-lang-en="🔥 News" data-lang-zh="🔥 最新动态">🔥 News</span>
-- *2026.02*: &nbsp;🎉🎉 **Three papers accepted to CVPR 2026**! Including "MeteorPred" (meteorological multimodal model), "ChartAgent" (chart understanding framework), and "Fine-Grained Post-Training Quantization" (LVLM optimization).
+- *2026.02*: &nbsp;🎉🎉 **Three papers accepted to CVPR 2026**! Including "MeteorPred" (meteorological multimodal model), "ChartAgent" (chart understanding framework), and "Fine-Grained Post-Training Quantization" (VLM optimization).
 - *2026.01*: &nbsp;🎉🎉 **Three papers accepted to top-tier conferences**! Two papers to **ICLR 2026**: "An Open-Ended Benchmark for Adjuvant Research with MLLM" and "One Patch Doesn't Fit All" (adaptive patching for MLLMs). One paper to **ICRA 2026**: "RANGER" (monocular zero-shot semantic navigation).
 - *2025.11*: &nbsp;🎉🎉 **One paper accepted to AAAI 2026**! "VAGU & GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding" - a comprehensive framework for video anomaly detection and understanding. 
 
@@ -77,7 +77,7 @@ redirect_from:
 
 **Yi Chen**, MingMing Yu, Jie Gu, Chu Tang, Jingmin Chen, Rui-Qi Wang
 
-**arXiv 2024** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_3'></span></strong>
+**arXiv 2026** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_3'></span></strong>
 - Dual-stream prompting mechanism for modeling visual scene structure
 - Achieves state-of-the-art 97.6% precision in mitigating visual hallucination
 </div>
@@ -87,15 +87,17 @@ redirect_from:
 
 - [An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://arxiv.org/), **Yi Chen\***, Yu Zhang\*, Jian Xu, et al. **ICLR 2026**
 
-- [An Efficient Strategy for Data-constrained Machine Learning in Materials Science](https://arxiv.org/), ChunTing Shao\*, **Yi Chen\***, ShanMan Song, et al. **arXiv 2024**
+- [An Efficient Strategy for Data-constrained Machine Learning in Materials Science](https://arxiv.org/), ChunTing Shao\*, **Yi Chen\***, ShanMan Song, et al. 
 
 - [MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction](https://arxiv.org/abs/2508.06859), Shuo Tang, Jian Xu, Jiadong Zhang, **Yi Chen**, et al. **CVPR 2026**
+
+- [The Hitchhiker's Guide to Scientific Agents: A Journey Through the Cosmos of Research Automation](https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents), Xinming Wang, Aslan Feng, Jian Xu, **Yi Chen**, et al. **TechRxiv 2024** | [**GitHub**](https://github.com/gudehhh666/Awesome_Scientific_Agent)
 
 ## <span class="lang-switch" data-lang-en="🔍 Multimodal Large Language Models" data-lang-zh="🔍 多模态大语言模型">🔍 Multimodal Large Language Models</span>
 
 - [Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](https://ojs.aaai.org/index.php/AAAI/article/view/32229), **Yi Chen**, Jian Xu, Xu-Yao Zhang, et al. **AAAI 2025** | [**Code**](https://github.com/banjiuyufen/Recoverable-Compression)
 
-- [VisTopo: Dynamic Spatial Topology Modeling for Fine-Grained Visual Prompting in Multimodal Reasoning](https://arxiv.org/abs/2409.01162), **Yi Chen**, MingMing Yu, Jie Gu, et al. **arXiv 2024**
+- [VisTopo: Dynamic Spatial Topology Modeling for Fine-Grained Visual Prompting in Multimodal Reasoning](https://arxiv.org/abs/2409.01162), **Yi Chen**, MingMing Yu, Jie Gu, et al. **arXiv 2026**
 
 - [Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models](https://arxiv.org/abs/2409.01162), **Yi Chen\***, Gao-Tong Yu\*, Jian Xu. **arXiv 2024**
 
@@ -103,15 +105,19 @@ redirect_from:
 
 - [Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients](https://arxiv.org/abs/2507.21649), Ziwen Xiang, Fanhu Zeng, Hongjian Fang, Rui-Qi Wang, Renxing Chen, **Yi Chen**, et al. **CVPR 2026**
 
-## <span class="lang-switch" data-lang-en="🧠 Machine Learning & Few-Shot Learning" data-lang-zh="🧠 机器学习与小样本学习">🧠 Machine Learning & Few-Shot Learning</span>
+## <span class="lang-switch" data-lang-en="🧠 Machine Learning" data-lang-zh="🧠 机器学习理论">🧠 Machine Learning & Few-Shot Learning</span>
 
 - [ManiNet: Manifold Network for Few-Shot Learning](https://arxiv.org/), Ruiqi Wang, Hengcan Shi, **Yi Chen**, YaoNan Wang. **AIHCIR 2025** (**Best Paper Award**)
 
-## <span class="lang-switch" data-lang-en="🎯 Computer Vision & Robotics" data-lang-zh="🎯 计算机视觉与机器人">🎯 Computer Vision & Robotics</span>
+## <span class="lang-switch" data-lang-en="🤖 Embodied Intelligence & Robotics" data-lang-zh="🤖 具身智能与机器人">🤖 Embodied Intelligence & Robotics</span>
 
 - [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation](https://arxiv.org/abs/2512.24212), Ming-Ming Yu, **Yi Chen**, Börje F. Karlsson, Wenjun Wu. **ICRA 2026**
 
-- [ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning](https://arxiv.org/abs/2512.14040), Boran Wang, Xinming Wang, **Yi Chen**, et al. **CVPR Finding 2026**
+## <span class="lang-switch" data-lang-en="🛠️ Intelligent Agents" data-lang-zh="🛠️ 智能体">🛠️ Intelligent Agents</span>
+
+- [ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning](https://arxiv.org/abs/2512.14040), Boran Wang, Xinming Wang, **Yi Chen**, et al. **CVPR Findings 2026**
+
+## <span class="lang-switch" data-lang-en="🔍 Video Analysis & Anomaly Detection" data-lang-zh="🔍 视频分析与异常检测">🔍 Video Analysis & Anomaly Detection</span>
 
 - [VAGU & GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding](https://arxiv.org/abs/2507.21507), Shibo Gao, Peipei Yang, **Yi Chen**, et al. **AAAI 2026**
 
@@ -119,11 +125,9 @@ redirect_from:
 
 ## <span class="lang-switch" data-lang-en="📊 NLP & Information Processing" data-lang-zh="📊 自然语言处理与信息处理">📊 NLP & Information Processing</span>
 
-- [ElementCheck: Long-Form Text Factuality Evaluation via Sentence-Level Fact Elements](https://arxiv.org/abs/2512.14040), Xinming Wang, Haoran Du, **Yi Chen**, et al. **arXiv 2024**
+- [ElementCheck: Long-Form Text Factuality Evaluation via Sentence-Level Fact Elements](https://arxiv.org/abs/2512.14040), Xinming Wang, Haoran Du, **Yi Chen**, et al. **arXiv 2026**
 
-- [MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models](https://arxiv.org/abs/2510.24794), Xinming Wang, Jian Xu, Bin Yu, Sheng Lian, Hongzhu Yi, **Yi Chen**, et al. **arXiv 2024**
-
-- [The Hitchhiker's Guide to Scientific Agents: A Journey Through the Cosmos of Research Automation](https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents), Xinming Wang, Aslan Feng, Jian Xu, **Yi Chen**, et al. **TechRxiv 2024** | [**GitHub**](https://github.com/gudehhh666/Awesome_Scientific_Agent)
+- [MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models](https://arxiv.org/abs/2510.24794), Xinming Wang, Jian Xu, Bin Yu, Sheng Lian, Hongzhu Yi, **Yi Chen**, et al. **arXiv 2025**
 
 ## <span class="lang-switch" data-lang-en="✍️ Handwritten Text Recognition & Generation" data-lang-zh="✍️ 手写文本识别与生成">✍️ Handwritten Text Recognition & Generation</span>
 
