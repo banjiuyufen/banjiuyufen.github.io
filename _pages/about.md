@@ -22,15 +22,7 @@ redirect_from:
 <span class="lang-switch" data-lang-en="I am currently a PhD student jointly affiliated with the **State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)** at the **Institute of Automation, Chinese Academy of Sciences (CASIA)** and **Zhongguancun Academy**, under the supervision of Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN)." data-lang-zh="本人目前是中国科学院自动化研究所多模态人工智能系统国家重点实验室（MAIS）与中关村学院联合培养的博士研究生，师从[刘成林](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN)研究员。">I am currently a PhD student jointly affiliated with the **State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)** at the **Institute of Automation, Chinese Academy of Sciences (CASIA)** and **Zhongguancun Academy**, under the supervision of Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN).</span>
 
 ## <span class="lang-switch" data-lang-en="🎓 Education Background" data-lang-zh="🎓 教育背景">🎓 Education Background</span>
-<div class="lang-switch" data-lang-en="
-- **2024.09 - Present**: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS
-- **2021.09 - 2024.06**: M.S. in Electronic Information, NLPR, CASIA
-- **2017.09 - 2021.06**: B.E. in Space Science and Technology, Xidian University
-" data-lang-zh="
-- **2024.09 - 至今**: 模式识别与智能系统博士，中科院自动化所-MAIS
-- **2021.09 - 2024.06**: 电子信息硕士，中科院自动化所-NLPR
-- **2017.09 - 2021.06**: 空间科学与技术学士，西安电子科技大学
-">
+<div class="lang-switch" data-lang-en="<ul><li><strong>2024.09 - Present</strong>: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS</li><li><strong>2021.09 - 2024.06</strong>: M.S. in Electronic Information, NLPR, CASIA</li><li><strong>2017.09 - 2021.06</strong>: B.E. in Space Science and Technology, Xidian University</li></ul>" data-lang-zh="<ul><li><strong>2024.09 - 至今</strong>: 模式识别与智能系统博士，中科院自动化所-MAIS</li><li><strong>2021.09 - 2024.06</strong>: 电子信息硕士，中科院自动化所-NLPR</li><li><strong>2017.09 - 2021.06</strong>: 空间科学与技术学士，西安电子科技大学</li></ul>">
 - **2024.09 - Present**: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS
 - **2021.09 - 2024.06**: M.S. in Electronic Information, NLPR, CASIA
 - **2017.09 - 2021.06**: B.E. in Space Science and Technology, Xidian University
@@ -39,15 +31,7 @@ redirect_from:
 ## <span class="lang-switch" data-lang-en="🔬 Research Focus" data-lang-zh="🔬 研究方向">🔬 Research Focus</span>
 <span class="lang-switch" data-lang-en="My Ph.D. research centers on:" data-lang-zh="博士研究方向主要包括：">My Ph.D. research centers on:</span>
 
-<div class="lang-switch" data-lang-en="
-- **🧬 AI for Science**: AI-driven vaccine adjuvant discovery and development
-- **🤖 Multimodal Large Language Models**: Reliable reasoning, inference acceleration, and vision token optimization
-- **✍️ Handwritten Text Recognition & Generation**: Online Chinese text recognition and synthesis
-" data-lang-zh="
-- **🧬 AI for Science**: AI驱动的疫苗佐剂发现与开发
-- **🤖 多模态大语言模型**: 可靠推理、推理加速与视觉Token优化
-- **✍️ 手写文本识别与生成**: 联机中文文本识别与合成
-">
+<div class="lang-switch" data-lang-en="<ul><li><strong>🧬 AI for Science</strong>: AI-driven vaccine adjuvant discovery and development</li><li><strong>🤖 Multimodal Large Language Models</strong>: Reliable reasoning, inference acceleration, and vision token optimization</li><li><strong>✍️ Handwritten Text Recognition & Generation</strong>: Online Chinese text recognition and synthesis</li></ul>" data-lang-zh="<ul><li><strong>🧬 AI for Science</strong>: AI驱动的疫苗佐剂发现与开发</li><li><strong>🤖 多模态大语言模型</strong>: 可靠推理、推理加速与视觉Token优化</li><li><strong>✍️ 手写文本识别与生成</strong>: 联机中文文本识别与合成</li></ul>">
 - **🧬 AI for Science**: AI-driven vaccine adjuvant discovery and development
 - **🤖 Multimodal Large Language Models**: Reliable reasoning, inference acceleration, and vision token optimization
 - **✍️ Handwritten Text Recognition & Generation**: Online Chinese text recognition and synthesis
@@ -157,15 +141,7 @@ redirect_from:
 
 # <span class="lang-switch" data-lang-en="🎖 Honors and Awards" data-lang-zh="🎖 荣誉奖项">🎖 Honors and Awards</span>
 
-<div class="lang-switch" data-lang-en="
-- *2025* **Academic Research Star**, National AI Academy Beijing Zhongguancun Academy
-- *2025* **Best Paper Award**, AIHCIR 2025 (for 'ManiNet: Manifold Network for Few-Shot Learning')
-- *2024* **3rd Place**, ICDAR2024 Competition on Multi Font Group Recognition and OCR
-" data-lang-zh="
-- *2025* **学术科研之星**，国家人工智能学院北京中关村学院
-- *2025* **最佳论文奖**，AIHCIR 2025（ManiNet: Manifold Network for Few-Shot Learning）
-- *2024* **第三名**，ICDAR2024多字体组识别与OCR竞赛
-">
+<div class="lang-switch" data-lang-en="<ul><li><em>2025</em> <strong>Academic Research Star</strong>, National AI Academy Beijing Zhongguancun Academy</li><li><em>2025</em> <strong>Best Paper Award</strong>, AIHCIR 2025 (for ManiNet: Manifold Network for Few-Shot Learning)</li><li><em>2024</em> <strong>3rd Place</strong>, ICDAR2024 Competition on Multi Font Group Recognition and OCR</li></ul>" data-lang-zh="<ul><li><em>2025</em> <strong>学术科研之星</strong>，国家人工智能学院北京中关村学院</li><li><em>2025</em> <strong>最佳论文奖</strong>，AIHCIR 2025（ManiNet: Manifold Network for Few-Shot Learning）</li><li><em>2024</em> <strong>第三名</strong>，ICDAR2024多字体组识别与OCR竞赛</li></ul>">
 - *2025* **Academic Research Star**, National AI Academy Beijing Zhongguancun Academy
 - *2025* **Best Paper Award**, AIHCIR 2025 (for "ManiNet: Manifold Network for Few-Shot Learning")
 - *2024* **3rd Place**, ICDAR2024 Competition on Multi Font Group Recognition and OCR
