@@ -107,11 +107,39 @@ ul li {
 }
 </style>
 
-<!-- Language toggle functionality (basic structure) -->
+<!-- Language toggle functionality -->
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  // Language toggle functionality can be added here
-  // This is a placeholder for future multilingual support
+  let currentLang = localStorage.getItem('lang') || 'en';
+  const langToggle = document.getElementById('langToggle');
+  
+  // Update button text
+  function updateLangButton() {
+    if (langToggle) {
+      langToggle.textContent = currentLang === 'en' ? 'EN' : '中文';
+    }
+  }
+  
+  // Toggle language
+  function toggleLanguage() {
+    currentLang = currentLang === 'en' ? 'zh' : 'en';
+    localStorage.setItem('lang', currentLang);
+    updateLangButton();
+    
+    // Update content based on language
+    document.querySelectorAll('.lang-switch').forEach(el => {
+      const text = el.getAttribute(`data-lang-${currentLang}`);
+      if (text) el.innerHTML = text;
+    });
+  }
+  
+  // Initialize
+  updateLangButton();
+  
+  // Add event listener
+  if (langToggle) {
+    langToggle.addEventListener('click', toggleLanguage);
+  }
 });
 </script>
 
