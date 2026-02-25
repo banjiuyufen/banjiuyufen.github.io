@@ -38,7 +38,7 @@ redirect_from:
 
 
 # <span class="lang-switch" data-lang-en="🔥 News" data-lang-zh="🔥 最新动态">🔥 News</span>
-- *2026.02*: &nbsp;🎉🎉 **Three papers accepted to CVPR 2026**! Including "MeteorPred" (meteorological multimodal model), "ChartAgent" (chart understanding framework), and "Fine-Grained Post-Training Quantization" (LVLM optimization).
+- *2026.02*: &nbsp;🎉🎉 **Three papers accepted to CVPR 2026**! Including "MeteorPred" (meteorological multimodal model), "ChartAgent" (chart understanding framework), and "Fine-Grained Post-Training Quantization" (VLM optimization).
 - *2026.01*: &nbsp;🎉🎉 **Three papers accepted to top-tier conferences**! Two papers to **ICLR 2026**: "An Open-Ended Benchmark for Adjuvant Research with MLLM" and "One Patch Doesn't Fit All" (adaptive patching for MLLMs). One paper to **ICRA 2026**: "RANGER" (monocular zero-shot semantic navigation).
 - *2025.11*: &nbsp;🎉🎉 **One paper accepted to AAAI 2026**! "VAGU & GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding" - a comprehensive framework for video anomaly detection and understanding. 
 
@@ -53,7 +53,7 @@ redirect_from:
 
 **ICLR 2026** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_1'></span></strong>
 - First benchmark dedicated to adjuvant research using multimodal large language models
-- Formal framework for representing adjuvant design principles and immune mechanisms
+- First formal framework for representing adjuvant design principles and immune mechanisms
 </div>
 </div>
 
