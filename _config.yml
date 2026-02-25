@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yi Chen - Academic Homepage"
-description              : "PhD Candidate at CASIA-MAIS | AI for Science | Multimodal Large Language Models"
+description              : "AI for Science | Multimodal Large Language Models | Handwritten Text Recognition"
 repository               : "banjiuyufen/banjiuyufen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi Chen"
   avatar           : "images/ychen.jpg"
-  bio              : "PhD Candidate at CASIA-MAIS"
+  bio              : "PhD Candidate at CASIA-MAIS & Zhongguancun Academy"
   location         : "Beijing, China"
   employer         : "CASIA"
   pubmed           : 
