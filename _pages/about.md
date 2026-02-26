@@ -22,7 +22,7 @@ redirect_from:
 <span class="lang-switch" data-lang-en="I am currently a PhD student jointly affiliated with the <strong>State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)</strong> at the <strong>Institute of Automation, Chinese Academy of Sciences (CASIA)</strong> and <strong>Zhongguancun Academy</strong>, under the supervision of Prof. <a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN'>Cheng-Lin Liu</a>." data-lang-zh="本人目前是中国科学院自动化研究所多模态人工智能系统国家重点实验室（MAIS）与中关村学院联合培养的博士研究生，师从<a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN'>刘成林</a>研究员。">I am currently a PhD student jointly affiliated with the **State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)** at the **Institute of Automation, Chinese Academy of Sciences (CASIA)** and **Zhongguancun Academy**, under the supervision of Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN).</span>
 
 ## <span class="lang-switch" data-lang-en="🎓 Education Background" data-lang-zh="🎓 教育背景">🎓 Education Background</span>
-- <span class="lang-switch" data-lang-en="<strong>2024.09 - Present</strong>: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS & ZGCA" data-lang-zh="<strong>2024.09 - 至今</strong>: 模式识别与智能系统博士，中科院自动化所-MAIS & 北京中关村学院">**2024.09 - Present**: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS & ZGCA</span>
+- <span class="lang-switch" data-lang-en="<strong>2024.09 - Present</strong>: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS & ZGCA" data-lang-zh="<strong>2024.09 - 至今</strong>: 模式识别与智能系统博士，中科院自动化所-MAIS & 北京中关村学院">**2024.09 - Present**: Ph.D. Candidate in Pattern Recognition and Intelligent Systems, CASIA-MAIS & ZGCA</span>
 - <span class="lang-switch" data-lang-en="<strong>2021.09 - 2024.06</strong>: M.S. in Electronic Information, NLPR, CASIA" data-lang-zh="<strong>2021.09 - 2024.06</strong>: 电子信息硕士，中科院自动化所-NLPR">**2021.09 - 2024.06**: M.S. in Electronic Information, NLPR, CASIA</span>
 - <span class="lang-switch" data-lang-en="<strong>2017.09 - 2021.06</strong>: B.E. in Space Science and Technology, Xidian University" data-lang-zh="<strong>2017.09 - 2021.06</strong>: 空间科学与技术学士，西安电子科技大学">**2017.09 - 2021.06**: B.E. in Space Science and Technology, Xidian University</span>
 
@@ -155,7 +155,7 @@ redirect_from:
 - <span class="lang-switch" data-lang-en="<em>2024</em> <strong>3rd Place</strong>, ICDAR2024 Competition on Multi Font Group Recognition and OCR" data-lang-zh="<em>2024</em> <strong>第三名</strong>，ICDAR2024多字体组识别与OCR竞赛">*2024* **3rd Place**, ICDAR2024 Competition on Multi Font Group Recognition and OCR</span> 
 
 # <span class="lang-switch" data-lang-en="📖 Education" data-lang-zh="📖 教育经历">📖 Education</span>
-- *2024.09 - Present*, **Ph.D. in Pattern Recognition and Intelligent Systems**  
+- *2024.09 - Present*, **Ph.D. Candidate in Pattern Recognition and Intelligent Systems**  
   State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences & Zhongguancun Academy  
   Supervisor: Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN)
 
