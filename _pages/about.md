@@ -94,41 +94,41 @@ redirect_from:
 
 ## <span class="lang-switch" data-lang-en="🤖 AI for Science & Scientific Computing" data-lang-zh="🤖 AI for Science 与科学计算">🤖 AI for Science & Scientific Computing</span>
 
-- [An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://openreview.net/forum?id=moeOrHkDg2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Yi Chen\***, Yu Zhang\*, Jian Xu, et al. **ICLR 2026** <span class="conference-badge top-tier">Top Tier</span>
+- [An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://openreview.net/forum?id=moeOrHkDg2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Yi Chen\***, Yu Zhang\*, Jian Xu, et al. <span class="conference-badge top-tier">**ICLR 2026**</span>
 
 - [An Efficient Strategy for Data-constrained Machine Learning in Materials Science](https://arxiv.org/), ChunTing Shao\*, **Yi Chen\***, ShanMan Song, et al.
 
-- [MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction](https://arxiv.org/abs/2508.06859), Shuo Tang, Jian Xu, Jiadong Zhang, **Yi Chen**, et al. **CVPR 2026** <span class="conference-badge top-tier">Top Tier</span>
+- [MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction](https://arxiv.org/abs/2508.06859), Shuo Tang, Jian Xu, Jiadong Zhang, **Yi Chen**, et al.  <span class="conference-badge top-tier">**CVPR 2026**r</span>
 
 - [The Hitchhiker's Guide to Scientific Agents: A Journey Through the Cosmos of Research Automation](https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents), Xinming Wang, Aslan Feng, Jian Xu, **Yi Chen**, et al. **TechRxiv 2024** <a href="https://github.com/gudehhh666/Awesome_Scientific_Agent" class="inline-github-link"><i class="fab fa-github"></i></a>
 
 ## <span class="lang-switch" data-lang-en="🔍 Multimodal Large Language Models" data-lang-zh="🔍 多模态大语言模型">🔍 Multimodal Large Language Models</span>
 
-- [Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](https://ojs.aaai.org/index.php/AAAI/article/view/32229), **Yi Chen**, Jian Xu, Xu-Yao Zhang, et al. **AAAI 2025** <span class="conference-badge top-tier">Top Tier</span> <a href="https://github.com/banjiuyufen/Recoverable-Compression" class="inline-github-link"><i class="fab fa-github"></i></a>
+- [Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](https://ojs.aaai.org/index.php/AAAI/article/view/32229), **Yi Chen**, Jian Xu, Xu-Yao Zhang, et al. <span class="conference-badge top-tier">**AAAI 2025**</span> <a href="https://github.com/banjiuyufen/Recoverable-Compression" class="inline-github-link"><i class="fab fa-github"></i></a>
 
 - [VisTopo: Dynamic Spatial Topology Modeling for Fine-Grained Visual Prompting in Multimodal Reasoning](https://arxiv.org/abs/2409.01162), **Yi Chen**, MingMing Yu, Jie Gu, et al. **arXiv 2026**
 
 - [Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models](https://arxiv.org/abs/2409.01162), **Yi Chen\***, Gao-Tong Yu\*, Jian Xu. **arXiv 2024**
 
-- [One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models](https://openreview.net/forum?id=six75YUGgS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), Wenzhuo Liu, Weijie Yin, Fei Zhu, Shijie Ma, Haiyang Guo, **Yi Chen**, et al. **ICLR 2026** <span class="conference-badge top-tier">Top Tier</span>
+- [One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models](https://openreview.net/forum?id=six75YUGgS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), Wenzhuo Liu, Weijie Yin, Fei Zhu, Shijie Ma, Haiyang Guo, **Yi Chen**, et al. <span class="conference-badge top-tier">**ICLR 2026**</span>
 
-- [Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients](https://arxiv.org/abs/2507.21649), Ziwen Xiang, Fanhu Zeng, Hongjian Fang, Rui-Qi Wang, Renxing Chen, **Yi Chen**, et al. **CVPR 2026** <span class="conference-badge top-tier">Top Tier</span>
+- [Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients](https://arxiv.org/abs/2507.21649), Ziwen Xiang, Fanhu Zeng, Hongjian Fang, Rui-Qi Wang, Renxing Chen, **Yi Chen**, et al. <span class="conference-badge top-tier">**CVPR 2026**</span>
 
 ## <span class="lang-switch" data-lang-en="🧠 Machine Learning" data-lang-zh="🧠 机器学习理论">🧠 Machine Learning</span>
 
-- [ManiNet: Manifold Network for Few-Shot Learning](https://arxiv.org/), Ruiqi Wang, Hengcan Shi, **Yi Chen**, YaoNan Wang. **AIHCIR 2025** <span class="highlight">🏆 Best Paper Award</span>
+- [ManiNet: Manifold Network for Few-Shot Learning](https://arxiv.org/), Ruiqi Wang, Hengcan Shi, **Yi Chen**, YaoNan Wang. <span class="conference-badge top-tier">**AIHCIR 2025**</span> <span class="highlight">🏆 Best Paper Award</span>
 
 ## <span class="lang-switch" data-lang-en="🤖 Embodied Intelligence & Robotics" data-lang-zh="🤖 具身智能与机器人">🤖 Embodied Intelligence & Robotics</span>
 
-- [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation](https://arxiv.org/abs/2512.24212), Ming-Ming Yu, **Yi Chen**, Börje F. Karlsson, Wenjun Wu. **ICRA 2026** <span class="conference-badge top-tier">Top Tier</span>
+- [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation](https://arxiv.org/abs/2512.24212), Ming-Ming Yu, **Yi Chen**, Börje F. Karlsson, Wenjun Wu. <span class="conference-badge top-tier">**ICRA 2026**</span>
 
 ## <span class="lang-switch" data-lang-en="🛠️ Intelligent Agents" data-lang-zh="🛠️ 智能体">🛠️ Intelligent Agents</span>
 
-- [ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning](https://arxiv.org/abs/2512.14040), Boran Wang, Xinming Wang, **Yi Chen**, et al. **CVPR Findings 2026**
+- [ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning](https://arxiv.org/abs/2512.14040), Boran Wang, Xinming Wang, **Yi Chen**, et al. <span class="conference-badge top-tier">**CVPR Findings 2026**</span>
 
 ## <span class="lang-switch" data-lang-en="🔍 Video Analysis & Anomaly Detection" data-lang-zh="🔍 视频分析与异常检测">🔍 Video Analysis & Anomaly Detection</span>
 
-- [VAGU & GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding](https://arxiv.org/abs/2507.21507), Shibo Gao, Peipei Yang, **Yi Chen**, et al. **AAAI 2026** <span class="conference-badge top-tier">Top Tier</span>
+- [VAGU & GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding](https://arxiv.org/abs/2507.21507), Shibo Gao, Peipei Yang, **Yi Chen**, et al. <span class="conference-badge top-tier">**AAAI 2026**</span>
 
 - [The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM](https://arxiv.org/abs/2507.21649), Shibo Gao, Peipei Yang, Haiyang Guo, Yangyang Liu, **Yi Chen**, et al. **arXiv 2024**
 
@@ -140,13 +140,13 @@ redirect_from:
 
 ## <span class="lang-switch" data-lang-en="✍️ Handwritten Text Recognition & Generation" data-lang-zh="✍️ 手写文本识别与生成">✍️ Handwritten Text Recognition & Generation</span>
 
-- [Recognition of Online Handwritten Chinese Texts in Any Writing Direction via Stroke Classification Based Over-Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-78183-4_24), **Yi Chen**, Heng Zhang, Min-Si Ren, Cheng-Lin Liu. **ICPR 2024**
+- [Recognition of Online Handwritten Chinese Texts in Any Writing Direction via Stroke Classification Based Over-Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-78183-4_24), **Yi Chen**, Heng Zhang, Min-Si Ren, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICPR 2024**</span>
 
-- [Improved Learning for Online Handwritten Chinese Text Recognition with Convolutional Prototype Network](https://link.springer.com/chapter/10.1007/978-3-031-41685-9_3), **Yi Chen**, Heng Zhang, Cheng-Lin Liu. **ICDAR 2023**
+- [Improved Learning for Online Handwritten Chinese Text Recognition with Convolutional Prototype Network](https://link.springer.com/chapter/10.1007/978-3-031-41685-9_3), **Yi Chen**, Heng Zhang, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICDAR 2023**</span>
 
-- [Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_9), Yang-Yang Liu, **Yi Chen**, Fei Yin, Cheng-Lin Liu. **ICDAR 2024**
+- [Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_9), Yang-Yang Liu, **Yi Chen**, Fei Yin, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICDAR 2024**</span>
 
-- [Decoupling Layout from Glyph in Online Chinese Handwriting Generation](https://arxiv.org/abs/2410.02309), Min-Si Ren, Yan-Ming Zhang, **Yi Chen**. **ICLR 2025** <span class="conference-badge top-tier">Top Tier</span> <a href="https://github.com/singularityrms/OLHWG" class="inline-github-link"><i class="fab fa-github"></i></a>
+- [Decoupling Layout from Glyph in Online Chinese Handwriting Generation](https://arxiv.org/abs/2410.02309), Min-Si Ren, Yan-Ming Zhang, **Yi Chen**. <span class="conference-badge top-tier">**ICLR 2025**</span> <a href="https://github.com/singularityrms/OLHWG" class="inline-github-link"><i class="fab fa-github"></i></a>
 
 # <span class="lang-switch" data-lang-en="🎖 Honors and Awards" data-lang-zh="🎖 荣誉奖项">🎖 Honors and Awards</span>
 
