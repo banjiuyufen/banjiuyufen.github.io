@@ -49,7 +49,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/adj_bench.png' alt="adjuvant framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://arxiv.org/)
+[An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://openreview.net/forum?id=moeOrHkDg2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
 
 **Yi Chen\***, Yu Zhang\*, Jian Xu, Xu-Yao Zhang, Hua Yue, Xinming Wang, Zequan Lyu, Wei Wei, Cheng-Lin Liu
 
@@ -82,7 +82,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/VisTopo.png' alt="vistopo framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VisTopo: Dynamic Spatial Topology Modeling for Fine-Grained Visual Prompting in Multimodal Reasoning](https://arxiv.org/abs/2409.01162)
+[VisTopo: Dynamic Spatial Topology Modeling for Fine-Grained Visual Prompting in Multimodal Reasoning](https://arxiv.org)
 
 **Yi Chen**, MingMing Yu, Jie Gu, Chu Tang, Jingmin Chen, Rui-Qi Wang
 
@@ -94,7 +94,7 @@ redirect_from:
 
 ## <span class="lang-switch" data-lang-en="🤖 AI for Science & Scientific Computing" data-lang-zh="🤖 AI for Science 与科学计算">🤖 AI for Science & Scientific Computing</span>
 
-- [An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://arxiv.org/), **Yi Chen\***, Yu Zhang\*, Jian Xu, et al. **ICLR 2026** <span class="conference-badge top-tier">Top Tier</span>
+- [An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://openreview.net/forum?id=moeOrHkDg2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Yi Chen\***, Yu Zhang\*, Jian Xu, et al. **ICLR 2026** <span class="conference-badge top-tier">Top Tier</span>
 
 - [An Efficient Strategy for Data-constrained Machine Learning in Materials Science](https://arxiv.org/), ChunTing Shao\*, **Yi Chen\***, ShanMan Song, et al.
 
@@ -110,7 +110,7 @@ redirect_from:
 
 - [Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models](https://arxiv.org/abs/2409.01162), **Yi Chen\***, Gao-Tong Yu\*, Jian Xu. **arXiv 2024**
 
-- [One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models](https://arxiv.org/), Wenzhuo Liu, Weijie Yin, Fei Zhu, Shijie Ma, Haiyang Guo, **Yi Chen**, et al. **ICLR 2026** <span class="conference-badge top-tier">Top Tier</span>
+- [One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models](https://openreview.net/forum?id=six75YUGgS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), Wenzhuo Liu, Weijie Yin, Fei Zhu, Shijie Ma, Haiyang Guo, **Yi Chen**, et al. **ICLR 2026** <span class="conference-badge top-tier">Top Tier</span>
 
 - [Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients](https://arxiv.org/abs/2507.21649), Ziwen Xiang, Fanhu Zeng, Hongjian Fang, Rui-Qi Wang, Renxing Chen, **Yi Chen**, et al. **CVPR 2026** <span class="conference-badge top-tier">Top Tier</span>
 
