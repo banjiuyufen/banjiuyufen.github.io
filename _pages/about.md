@@ -163,7 +163,7 @@ redirect_from:
   National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences  
   Supervisor: Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN)
 
-- *2017.09 - 2021.06*, **B.E. in Space Science and Technology**  
+- *2017.09 - 2021.06*, **B.E. in Detection Guidance and Control Technology**  
   School of Space Science and Technology, Xidian University 
 
 <span class='anchor' id='research-interests'></span>
