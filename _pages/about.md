@@ -92,7 +92,7 @@ redirect_from:
 </div>
 </div>
 
-## <span class="lang-switch" data-lang-en="🤖 AI for Science & Scientific Computing" data-lang-zh="🤖 AI for Science 与科学计算">🤖 AI for Science & Scientific Computing</span>
+## <span class="lang-switch" data-lang-en="🧬 AI for Science & Scientific Computing" data-lang-zh="🧬 AI for Science 与科学计算">🧬 AI for Science & Scientific Computing</span>
 
 - [An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://openreview.net/forum?id=moeOrHkDg2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Yi Chen\***, Yu Zhang\*, Jian Xu, et al. <span class="conference-badge top-tier">**ICLR 2026**</span>
 
@@ -102,7 +102,7 @@ redirect_from:
 
 - [The Hitchhiker's Guide to Scientific Agents: A Journey Through the Cosmos of Research Automation](https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents), Xinming Wang, Aslan Feng, Jian Xu, **Yi Chen**, et al. **TechRxiv 2024** <a href="https://github.com/gudehhh666/Awesome_Scientific_Agent" class="inline-github-link"><i class="fab fa-github"></i></a>
 
-## <span class="lang-switch" data-lang-en="🔍 Multimodal Large Language Models" data-lang-zh="🔍 多模态大语言模型">🔍 Multimodal Large Language Models</span>
+## <span class="lang-switch" data-lang-en="🤖 Multimodal Large Language Models" data-lang-zh="🤖 多模态大语言模型">🤖 Multimodal Large Language Models</span>
 
 - [Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](https://ojs.aaai.org/index.php/AAAI/article/view/32229), **Yi Chen**, Jian Xu, Xu-Yao Zhang, et al. <span class="conference-badge top-tier">**AAAI 2025**</span> <a href="https://github.com/banjiuyufen/Recoverable-Compression" class="inline-github-link"><i class="fab fa-github"></i></a>
 
@@ -118,7 +118,7 @@ redirect_from:
 
 - [ManiNet: Manifold Network for Few-Shot Learning](https://arxiv.org/), Ruiqi Wang, Hengcan Shi, **Yi Chen**, YaoNan Wang. <span class="conference-badge top-tier">**AIHCIR 2025**</span> <span class="highlight">🏆 Best Paper Award</span>
 
-## <span class="lang-switch" data-lang-en="🤖 Embodied Intelligence & Robotics" data-lang-zh="🤖 具身智能与机器人">🤖 Embodied Intelligence & Robotics</span>
+## <span class="lang-switch" data-lang-en="🦿 Embodied Intelligence & Robotics" data-lang-zh="🦿 具身智能与机器人">🦿 Embodied Intelligence & Robotics</span>
 
 - [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation](https://arxiv.org/abs/2512.24212), Ming-Ming Yu, **Yi Chen**, Börje F. Karlsson, Wenjun Wu. <span class="conference-badge top-tier">**ICRA 2026**</span>
 
