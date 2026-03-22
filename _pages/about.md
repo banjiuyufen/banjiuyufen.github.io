@@ -178,7 +178,9 @@ redirect_from:
 
 # <span class="lang-switch" data-lang-en="🤝 Academic Service" data-lang-zh="🤝 学术服务">🤝 Academic Service</span>
 - **Program Committee Member**: AAAI 2026
-- **Reviewer**: ICLR 2026, CVPR 2026, ICML 2026, ECCV 2026
+- **Conference Reviewer**: ICLR 2026, CVPR 2026, ICML 2026, ECCV 2026
+- **Journal Reviewer**: IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
+
 
 <span class='anchor' id='open-source-contributions'></span>
 
