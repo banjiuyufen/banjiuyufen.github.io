@@ -38,6 +38,7 @@ redirect_from:
 
 
 # <span class="lang-switch" data-lang-en="🔥 News" data-lang-zh="🔥 最新动态">🔥 News</span>
+- *2026.03*：&nbsp;🎉🎉 **Our paper accepted to Materials Genome Engineering Advances** : An Efficient Strategy for Data-constrained Machine Learning in Materials Science.
 - *2026.02*: &nbsp;🎉🎉 **Three papers accepted to CVPR 2026**! Including "MeteorPred" (meteorological multimodal model), "ChartAgent" (chart understanding framework), and "Fine-Grained Post-Training Quantization" (VLM optimization).
 - *2026.01*: &nbsp;🎉🎉 **Three papers accepted to top-tier conferences**! Two papers to **ICLR 2026**: "An Open-Ended Benchmark for Adjuvant Research with MLLM" and "One Patch Doesn't Fit All" (adaptive patching for MLLMs). One paper to **ICRA 2026**: "RANGER" (monocular zero-shot semantic navigation).
 - *2025.11*: &nbsp;🎉🎉 **One paper accepted to AAAI 2026**! "VAGU & GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding" - a comprehensive framework for video anomaly detection and understanding. 
