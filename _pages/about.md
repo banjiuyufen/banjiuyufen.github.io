@@ -138,7 +138,7 @@ redirect_from:
 
 - [ElementCheck: Long-Form Text Factuality Evaluation via Sentence-Level Fact Elements](https://arxiv.org/abs/2512.14040), Xinming Wang, Haoran Du, **Yi Chen**, et al. **arXiv 2026**
 
-- [MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models](https://arxiv.org/abs/2510.24794), Xinming Wang, Jian Xu, Bin Yu, Sheng Lian, Hongzhu Yi, **Yi Chen**, et al. **ACL 2026 Findings**
+- [MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models](https://arxiv.org/abs/2510.24794), Xinming Wang, Jian Xu, Bin Yu, Sheng Lian, Hongzhu Yi, **Yi Chen**, et al. <span class="conference-badge top-tier">**ACL 2026 Findings**</span>
 
 ## <span class="lang-switch" data-lang-en="✍️ Handwritten Text Recognition & Generation" data-lang-zh="✍️ 手写文本识别与生成">✍️ Handwritten Text Recognition & Generation</span>
 
