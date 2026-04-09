@@ -100,7 +100,7 @@ redirect_from:
 
 - [An Efficient Strategy for Data-constrained Machine Learning in Materials Science](https://arxiv.org/), ChunTing Shao\*, **Yi Chen\***, ShanMan Song, et al.<span class="conference-badge top-tier">**Materials Genome Engineering Advances**</span>
 
-- [MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction](https://arxiv.org/abs/2508.06859), Shuo Tang, Jian Xu, Jiadong Zhang, **Yi Chen**, et al.  <span class="conference-badge top-tier">**CVPR 2026**r</span>
+- [MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction](https://arxiv.org/abs/2508.06859), Shuo Tang, Jian Xu, Jiadong Zhang, **Yi Chen**, et al.  <span class="conference-badge top-tier">**CVPR 2026**r</span> <span class="highlight">💡 Highlight</span>
 
 - [The Hitchhiker's Guide to Scientific Agents: A Journey Through the Cosmos of Research Automation](https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents), Xinming Wang, Aslan Feng, Jian Xu, **Yi Chen**, et al. **TechRxiv 2024** <a href="https://github.com/gudehhh666/Awesome_Scientific_Agent" class="inline-github-link"><i class="fab fa-github"></i></a>
 
