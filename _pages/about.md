@@ -124,7 +124,7 @@ redirect_from:
 
 ## <span class="lang-switch" data-lang-en="🦿 Embodied Intelligence & Robotics" data-lang-zh="🦿 具身智能与机器人">🦿 Embodied Intelligence & Robotics</span>
 
-- [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation](https://arxiv.org/abs/2512.24212), Ming-Ming Yu, **Yi Chen**, Börje F. Karlsson, Wenjun Wu. <span class="conference-badge top-tier">**ICRA 2026**</span>
+- [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation](https://arxiv.org/abs/2512.24212), Ming-Ming Yu, **Yi Chen**, Börje F. Karlsson, Wenjun Wu. <span class="conference-badge top-tier">**ICRA 2026**</span><span class="highlight">🗣 Oral</span>
 
 ## <span class="lang-switch" data-lang-en="🛠️ Intelligent Agents" data-lang-zh="🛠️ 智能体">🛠️ Intelligent Agents</span>
 
