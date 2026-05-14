@@ -153,7 +153,7 @@ redirect_from:
 - [Decoupling Layout from Glyph in Online Chinese Handwriting Generation](https://arxiv.org/abs/2410.02309), Min-Si Ren, Yan-Ming Zhang, **Yi Chen**. <span class="conference-badge top-tier">**ICLR 2025**</span> <a href="https://github.com/singularityrms/OLHWG" class="inline-github-link"><i class="fab fa-github"></i></a>
 
 # <span class="lang-switch" data-lang-en="🎖 Honors and Awards" data-lang-zh="🎖 荣誉奖项">🎖 Honors and Awards</span>
-
+- <span class="lang-switch" data-lang-en="<em>2026</em> <strong>ICML 2026 Gold Reviewer</strong>" data-lang-zh="<em>2025</em> <strong>ICML 2026 金牌审稿人</strong>">*2026* **ICML 2026 Gold Reviewer**</span>
 - <span class="lang-switch" data-lang-en="<em>2025</em> <strong>Academic Research Star</strong>, National AI Academy Beijing Zhongguancun Academy" data-lang-zh="<em>2025</em> <strong>学术科研之星</strong>，国家人工智能学院北京中关村学院">*2025* **Academic Research Star**, National AI Academy Beijing Zhongguancun Academy</span>
 - <span class="lang-switch" data-lang-en="<em>2025</em> <strong>Best Paper Award</strong>, AIHCIR 2025 (for ManiNet: Manifold Network for Few-Shot Learning)" data-lang-zh="<em>2025</em> <strong>最佳论文奖</strong>，AIHCIR 2025（ManiNet: Manifold Network for Few-Shot Learning）">*2025* **Best Paper Award**, AIHCIR 2025 (for "ManiNet: Manifold Network for Few-Shot Learning")</span>
 - <span class="lang-switch" data-lang-en="<em>2024</em> <strong>3rd Place</strong>, ICDAR2024 Competition on Multi Font Group Recognition and OCR" data-lang-zh="<em>2024</em> <strong>第三名</strong>，ICDAR2024多字体组识别与OCR竞赛">*2024* **3rd Place**, ICDAR2024 Competition on Multi Font Group Recognition and OCR</span> 
