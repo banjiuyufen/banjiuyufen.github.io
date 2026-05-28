@@ -48,7 +48,7 @@ redirect_from:
 
 # <span class="lang-switch" data-lang-en="📝 Publications" data-lang-zh="📝 学术论文">📝 Publications</span> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/SAVANT.png' alt="adjuvant framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/SAVANT.png' alt="adjuvant framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design](https://arxiv.org)
@@ -63,7 +63,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/VisTopo.png' alt="vistopo framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/VisTopo.png' alt="vistopo framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners](https://arxiv.org)
