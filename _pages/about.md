@@ -68,7 +68,7 @@ redirect_from:
 
 [SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design](https://arxiv.org)
 
-**Yi Chen\***, Yu Zhang\*, Jian Xu, Xu-Yao Zhang, Hua Yue, Xinming Wang, Zequan Lyu, Boran Wang, Hongyi Liu, Yan Wang, Peiyuan Cao, Wei Wei, Cheng-Lin Liu
+**Yi Chen**, Yu Zhang, Jian Xu, Xu-Yao Zhang, Hua Yue, Xinming Wang, Zequan Lyu, Boran Wang, Hongyi Liu, Yan Wang, Peiyuan Cao, Wei Wei, Cheng-Lin Liu
 
 **arXiv 2026** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_1'></span></strong>
 - First proposed a neuro-symbolic verification framework for LLM-generated adjuvant designs.
@@ -128,6 +128,7 @@ redirect_from:
 
 
 ## <span class="lang-switch" data-lang-en="🧬 AI for Science & Scientific Computing" data-lang-zh="🧬 AI for Science 与科学计算">🧬 AI for Science & Scientific Computing</span>
+- [SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design](https://arxiv.org/), **Yi Chen**, Yu Zhang, Jian Xu, et al. <span class="conference-badge top-tier">**arXiv 20266**</span>
 
 - [An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://openreview.net/forum?id=moeOrHkDg2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Yi Chen\***, Yu Zhang\*, Jian Xu, et al. <span class="conference-badge top-tier">**ICLR 2026**</span>
 
