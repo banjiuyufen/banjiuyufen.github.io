@@ -48,6 +48,36 @@ redirect_from:
 
 # <span class="lang-switch" data-lang-en="📝 Publications" data-lang-zh="📝 学术论文">📝 Publications</span> 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/SAVANT.png' alt="adjuvant framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design](https://arxiv.org)
+
+**Yi Chen\***, Yu Zhang\*, Jian Xu, Xu-Yao Zhang, Hua Yue, Xinming Wang, Zequan Lyu, Boran Wang, Hongyi Liu, Yan Wang, Peiyuan Cao, Wei Wei, Cheng-Lin Liu
+
+**arXiv 2026** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_1'></span></strong>
+- First proposed a neuro-symbolic verification framework for LLM-generated adjuvant designs.
+- First formalized adjuvant design verification as literature-grounded mechanistic proof checking.
+- First introduced a three-stage verification pipeline covering precedent, immune outcome, and mechanism chain.
+- Enabled interpretable identification of supported mechanisms, weak evidence, and knowledge gaps.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/VisTopo.png' alt="vistopo framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners](https://arxiv.org)
+
+**Yi Chen**, MingMing Yu, Boran Wang, Jie Gu, Chu Tang, Jingmin Chen, Rui-Qi Wang
+
+**arXiv 2026** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_3'></span></strong>
+- First formulated MLLM spatial failures as a referent-relation language grounding problem.
+- First proposed VisTopo, a topology-aware prompting method for explicit referent-relation modeling.
+- Introduced region-anchor tokens and relation-prefix tokens to expose spatial structure before answer generation.
+- Enabled weakly supervised spatial grounding using only standard VQA supervision, without external spatial annotations or perception backbones.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/adj_bench.png' alt="adjuvant framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,18 +111,6 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/VisTopo.png' alt="vistopo framework" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[VisTopo: Dynamic Spatial Topology Modeling for Fine-Grained Visual Prompting in Multimodal Reasoning](https://arxiv.org)
-
-**Yi Chen**, MingMing Yu, Jie Gu, Chu Tang, Jingmin Chen, Rui-Qi Wang
-
-**arXiv 2026** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_3'></span></strong>
-- Dual-stream prompting mechanism for modeling visual scene structure
-- Achieves state-of-the-art 97.6% precision in mitigating visual hallucination
-</div>
-</div>
 
 ## <span class="lang-switch" data-lang-en="🧬 AI for Science & Scientific Computing" data-lang-zh="🧬 AI for Science 与科学计算">🧬 AI for Science & Scientific Computing</span>
 
@@ -151,6 +169,8 @@ redirect_from:
 - [Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_9), Yang-Yang Liu, **Yi Chen**, Fei Yin, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICDAR 2024**</span>
 
 - [Decoupling Layout from Glyph in Online Chinese Handwriting Generation](https://arxiv.org/abs/2410.02309), Min-Si Ren, Yan-Ming Zhang, **Yi Chen**. <span class="conference-badge top-tier">**ICLR 2025**</span> <a href="https://github.com/singularityrms/OLHWG" class="inline-github-link"><i class="fab fa-github"></i></a>
+
+- [CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild](https://arxiv.org), Haijie Yuan, Yiming Zhang, Dekang Ran, **Yi Chen**, et al. <span class="conference-badge top-tier">**arXiv 2026**
 
 # <span class="lang-switch" data-lang-en="🎖 Honors and Awards" data-lang-zh="🎖 荣誉奖项">🎖 Honors and Awards</span>
 - <span class="lang-switch" data-lang-en="<em>2026</em> <strong>ICML 2026 Gold Reviewer</strong>" data-lang-zh="<em>2025</em> <strong>ICML 2026 金牌审稿人</strong>">*2026* **ICML 2026 Gold Reviewer**</span>
