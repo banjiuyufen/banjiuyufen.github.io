@@ -26,8 +26,23 @@ redirect_from:
 - <span class="lang-switch" data-lang-en="<strong>2021.09 - 2024.06</strong>: M.S. in Electronic Information, NLPR, CASIA" data-lang-zh="<strong>2021.09 - 2024.06</strong>: 电子信息硕士，中科院自动化所-NLPR">**2021.09 - 2024.06**: M.S. in Electronic Information, NLPR, CASIA</span>
 - <span class="lang-switch" data-lang-en="<strong>2017.09 - 2021.06</strong>: B.E. in Space Science and Technology, Xidian University" data-lang-zh="<strong>2017.09 - 2021.06</strong>: 空间科学与技术学士，西安电子科技大学">**2017.09 - 2021.06**: B.E. in Space Science and Technology, Xidian University</span>
 
-## <span class="lang-switch" data-lang-en="🔬 Research Focus" data-lang-zh="🔬 研究方向">🔬 Research Focus</span>
-<span class="lang-switch" data-lang-en=""My research centers on data modeling — developing structured representations and learning frameworks that bridge perception, language, scientific knowledge, and physical interaction. Specifically, it includes the following directions:" data-lang-zh="我的研究集中在数据建模上——开发结构化的表示和学习框架，将感知、语言、科学知识和物理交互联系起来。具体而言，包括以下方向：">My research centers on data modeling — developing structured representations and learning frameworks that bridge perception, language, scientific knowledge, and physical interaction. Specifically, it includes the following directions:</span>
+<h2>
+  <span class="lang-switch" 
+        data-lang-en="🔬 Research Focus" 
+        data-lang-zh="🔬 研究方向">
+    🔬 Research Focus
+  </span>
+</h2>
+
+<p>
+  <strong>
+    <span class="lang-switch"
+          data-lang-en="My research centers on data modeling — developing structured representations and learning frameworks that bridge perception, language, scientific knowledge, and physical interaction. Specifically, it includes the following directions:"
+          data-lang-zh="我的研究集中在数据建模上——开发结构化的表示和学习框架，将感知、语言、科学知识和物理交互联系起来。具体而言，包括以下方向：">
+      My research centers on data modeling — developing structured representations and learning frameworks that bridge perception, language, scientific knowledge, and physical interaction. Specifically, it includes the following directions:
+    </span>
+  </strong>
+</p>
 
 - <span class="lang-switch" data-lang-en="<strong>🧬 Scientific & Physical Process </strong>: AI-driven vaccine adjuvant discovery and development" data-lang-zh="<strong>🧬 科学与物理过程建模</strong>: AI驱动的疫苗佐剂发现与开发">**🧬 AI for Science**: AI-driven vaccine adjuvant discovery and development</span>
 - <span class="lang-switch" data-lang-en="<strong>🤖 Multimodal Semantic</strong>: Reliable reasoning, inference acceleration, vision token optimization and Embodied Intelligence" data-lang-zh="<strong>🤖 多模态语义建模</strong>: 可靠推理、推理加速、视觉Token优化和具身智能">**🤖 Multimodal Large Language Models**: Reliable reasoning, inference acceleration, and vision token optimization</span>
