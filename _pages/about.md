@@ -45,7 +45,8 @@ redirect_from:
 </p>
 
 - <span class="lang-switch" data-lang-en="<strong>🧬 Scientific & Physical Process </strong>: AI-driven vaccine adjuvant discovery and development" data-lang-zh="<strong>🧬 科学与物理过程建模</strong>: AI驱动的疫苗佐剂发现与开发">**🧬 AI for Science**: AI-driven vaccine adjuvant discovery and development</span>
-- <span class="lang-switch" data-lang-en="<strong>🤖 Multimodal Semantic</strong>: Reliable reasoning, inference acceleration, vision token optimization and Embodied Intelligence" data-lang-zh="<strong>🤖 多模态语义建模</strong>: 可靠推理、推理加速、视觉Token优化和具身智能">**🤖 Multimodal Large Language Models**: Reliable reasoning, inference acceleration, and vision token optimization</span>
+- <span class="lang-switch" data-lang-en="<strong>🗃️ Multimodal Semantic</strong>: Reliable reasoning, inference acceleration, vision token optimization, video understanding and streaming models" data-lang-zh="<strong>🗃️ 多模态语义建模</strong>: 可靠推理、推理加速、视觉Token优化、视频理解和流式模型">**🗃️ Multimodal Large Language Models**: Reliable reasoning, inference acceleration, vision token optimization, video understanding and streaming models</span>
+- <span class="lang-switch" data-lang-en="<strong>🤖 State and Action</strong>: Visual Language Navigation and Visual Language Action Model" data-lang-zh="<strong>🤖 状态和动作建模</strong>: 视觉语言导航和视觉语言动作模型、">**🤖 State and Action**: Visual Language Navigation and Visual Language Action Model</span>
 - <span class="lang-switch" data-lang-en="<strong>✍️ Structured Sequential</strong>: Online Chinese text recognition and synthesis" data-lang-zh="<strong>✍️ 结构化顺序建模</strong>: 联机中文文本识别与合成">**✍️ Handwritten Text Recognition & Generation**: Online Chinese text recognition and synthesis</span>
 
 ## <span class="lang-switch" data-lang-en="📊 Academic Impact" data-lang-zh="📊 学术影响">📊 Academic Impact</span>
@@ -138,7 +139,7 @@ redirect_from:
 
 - [The Hitchhiker's Guide to Scientific Agents: A Journey Through the Cosmos of Research Automation](https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents), Xinming Wang, Aslan Feng, Jian Xu, **Yi Chen**, et al. **TechRxiv 2024** <a href="https://github.com/gudehhh666/Awesome_Scientific_Agent" class="inline-github-link"><i class="fab fa-github"></i></a>
 
-## <span class="lang-switch" data-lang-en="🤖 Multimodal Large Language Models" data-lang-zh="🤖 多模态大语言模型">🤖 Multimodal Large Language Models</span>
+## <span class="lang-switch" data-lang-en="🗃️ Multimodal Large Language Models" data-lang-zh="🗃️ 多模态大语言模型">🗃️ Multimodal Large Language Models</span>
 
 - [VisTopo: Dynamic Spatial Topology Modeling for Fine-Grained Visual Prompting in Multimodal Reasoning](https://arxiv.org/abs/2409.01162), **Yi Chen**, MingMing Yu, Jie Gu, et al. **arXiv 2026**
 
@@ -157,7 +158,7 @@ redirect_from:
 
 - [ManiNet: Manifold Network for Few-Shot Learning](https://arxiv.org/), Ruiqi Wang, Hengcan Shi, **Yi Chen**, YaoNan Wang. <span class="conference-badge top-tier">**AIHCIR 2025**</span> <span class="highlight">🏆 Best Paper Award</span>
 
-## <span class="lang-switch" data-lang-en="🦿 Embodied Intelligence & Robotics" data-lang-zh="🦿 具身智能与机器人">🦿 Embodied Intelligence & Robotics</span>
+## <span class="lang-switch" data-lang-en="🤖 Embodied Intelligence & Robotics" data-lang-zh="🤖 具身智能与机器人">🤖 Embodied Intelligence & Robotics</span>
 
 - [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation](https://arxiv.org/abs/2512.24212), Ming-Ming Yu, **Yi Chen**, Börje F. Karlsson, Wenjun Wu. <span class="conference-badge top-tier">**ICRA 2026**</span><span class="highlight"> 🗣 Oral</span>
 
