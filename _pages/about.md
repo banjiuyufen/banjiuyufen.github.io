@@ -140,8 +140,6 @@ redirect_from:
 
 ## <span class="lang-switch" data-lang-en="🤖 Multimodal Large Language Models" data-lang-zh="🤖 多模态大语言模型">🤖 Multimodal Large Language Models</span>
 
-- [Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](https://ojs.aaai.org/index.php/AAAI/article/view/32229), **Yi Chen**, Jian Xu, Xu-Yao Zhang, et al. <span class="conference-badge top-tier">**AAAI 2025**</span> <a href="https://github.com/banjiuyufen/Recoverable-Compression" class="inline-github-link"><i class="fab fa-github"></i></a>
-
 - [VisTopo: Dynamic Spatial Topology Modeling for Fine-Grained Visual Prompting in Multimodal Reasoning](https://arxiv.org/abs/2409.01162), **Yi Chen**, MingMing Yu, Jie Gu, et al. **arXiv 2026**
 
 - [Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models](https://arxiv.org/abs/2601.08209), Rongji Li, Jian Xu, **Yi Chen**, et al. **arXiv 2026**
@@ -149,6 +147,8 @@ redirect_from:
 - [One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models](https://openreview.net/forum?id=six75YUGgS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), Wenzhuo Liu, Weijie Yin, Fei Zhu, Shijie Ma, Haiyang Guo, **Yi Chen**, et al. <span class="conference-badge top-tier">**ICLR 2026**</span>
 
 - [Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients](https://arxiv.org/abs/2507.21649), Ziwen Xiang, Fanhu Zeng, Hongjian Fang, Rui-Qi Wang, Renxing Chen, **Yi Chen**, et al. <span class="conference-badge top-tier">**CVPR 2026**</span>
+
+- [Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](https://ojs.aaai.org/index.php/AAAI/article/view/32229), **Yi Chen**, Jian Xu, Xu-Yao Zhang, et al. <span class="conference-badge top-tier">**AAAI 2025**</span> <a href="https://github.com/banjiuyufen/Recoverable-Compression" class="inline-github-link"><i class="fab fa-github"></i></a>
 
 - [Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models](https://arxiv.org/abs/2409.01162), **Yi Chen\***, Gao-Tong Yu\*, Jian Xu. **arXiv 2024**
 
