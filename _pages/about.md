@@ -141,7 +141,7 @@ redirect_from:
 
 ## <span class="lang-switch" data-lang-en="🗃️ Multimodal Large Language Models" data-lang-zh="🗃️ 多模态大语言模型">🗃️ Multimodal Large Language Models</span>
 
-- [VisTopo: Dynamic Spatial Topology Modeling for Fine-Grained Visual Prompting in Multimodal Reasoning](https://arxiv.org/abs/2409.01162), **Yi Chen**, MingMing Yu, Jie Gu, et al. **arXiv 2026**
+- [Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners](https://arxiv.org/abs/2409.01162), **Yi Chen**, MingMing Yu, Boran Wang, Jie Gu, et al. **arXiv 2026**
 
 - [Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models](https://arxiv.org/abs/2601.08209), Rongji Li, Jian Xu, **Yi Chen**, et al. **arXiv 2026**
 
