@@ -122,13 +122,13 @@ redirect_from:
 </div>
 
 - Text-guided dynamic visual token recovery mechanism for multimodal models
-- Achieves comparable performance while compressing visual tokens to 10% of original quantity
+- Achieves comparable performance while compressing visual tokens to 10% of the original quantity
 </div>
 </div>
 
 
 ## <span class="lang-switch" data-lang-en="🧬 AI for Science & Scientific Computing" data-lang-zh="🧬 AI for Science 与科学计算">🧬 AI for Science & Scientific Computing</span>
-- [SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design](https://arxiv.org/), **Yi Chen**, Yu Zhang, Jian Xu, et al. <span class="conference-badge top-tier">**arXiv 20266**</span>
+- [SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design](https://arxiv.org/), **Yi Chen**, Yu Zhang, Jian Xu, et al. **arXiv 20266**
 
 - [An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://openreview.net/forum?id=moeOrHkDg2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Yi Chen\***, Yu Zhang\*, Jian Xu, et al. <span class="conference-badge top-tier">**ICLR 2026**</span>
 
@@ -144,13 +144,14 @@ redirect_from:
 
 - [VisTopo: Dynamic Spatial Topology Modeling for Fine-Grained Visual Prompting in Multimodal Reasoning](https://arxiv.org/abs/2409.01162), **Yi Chen**, MingMing Yu, Jie Gu, et al. **arXiv 2026**
 
-- [Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models](https://arxiv.org/abs/2409.01162), **Yi Chen\***, Gao-Tong Yu\*, Jian Xu. **arXiv 2024**
+- [Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models](https://arxiv.org/abs/2601.08209), Rongji Li, Jian Xu, **Yi Chen**, et al. **arXiv 2026**
 
 - [One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models](https://openreview.net/forum?id=six75YUGgS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), Wenzhuo Liu, Weijie Yin, Fei Zhu, Shijie Ma, Haiyang Guo, **Yi Chen**, et al. <span class="conference-badge top-tier">**ICLR 2026**</span>
 
 - [Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients](https://arxiv.org/abs/2507.21649), Ziwen Xiang, Fanhu Zeng, Hongjian Fang, Rui-Qi Wang, Renxing Chen, **Yi Chen**, et al. <span class="conference-badge top-tier">**CVPR 2026**</span>
 
-- [Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models](https://arxiv.org/abs/2601.08209), Rongji Li, Jian Xu, **Yi Chen**, et al. **arXiv 2026**
+- [Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models](https://arxiv.org/abs/2409.01162), **Yi Chen\***, Gao-Tong Yu\*, Jian Xu. **arXiv 2024**
+
 
 ## <span class="lang-switch" data-lang-en="🧠 Machine Learning" data-lang-zh="🧠 机器学习理论">🧠 Machine Learning</span>
 
@@ -178,15 +179,16 @@ redirect_from:
 
 ## <span class="lang-switch" data-lang-en="✍️ Handwritten Text Recognition & Generation" data-lang-zh="✍️ 手写文本识别与生成">✍️ Handwritten Text Recognition & Generation</span>
 
-- [Recognition of Online Handwritten Chinese Texts in Any Writing Direction via Stroke Classification Based Over-Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-78183-4_24), **Yi Chen**, Heng Zhang, Min-Si Ren, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICPR 2024**</span>
-
-- [Improved Learning for Online Handwritten Chinese Text Recognition with Convolutional Prototype Network](https://link.springer.com/chapter/10.1007/978-3-031-41685-9_3), **Yi Chen**, Heng Zhang, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICDAR 2023**</span>
-
-- [Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_9), Yang-Yang Liu, **Yi Chen**, Fei Yin, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICDAR 2024**</span>
+- [CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild](https://arxiv.org), Haijie Yuan, Yiming Zhang, Dekang Ran, **Yi Chen**, et al. <span class="conference-badge top-tier">**arXiv 2026**
 
 - [Decoupling Layout from Glyph in Online Chinese Handwriting Generation](https://arxiv.org/abs/2410.02309), Min-Si Ren, Yan-Ming Zhang, **Yi Chen**. <span class="conference-badge top-tier">**ICLR 2025**</span> <a href="https://github.com/singularityrms/OLHWG" class="inline-github-link"><i class="fab fa-github"></i></a>
 
-- [CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild](https://arxiv.org), Haijie Yuan, Yiming Zhang, Dekang Ran, **Yi Chen**, et al. <span class="conference-badge top-tier">**arXiv 2026**
+- [Recognition of Online Handwritten Chinese Texts in Any Writing Direction via Stroke Classification Based Over-Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-78183-4_24), **Yi Chen**, Heng Zhang, Min-Si Ren, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICPR 2024**</span>
+
+- [Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_9), Yang-Yang Liu, **Yi Chen**, Fei Yin, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICDAR 2024**</span>
+
+- [Improved Learning for Online Handwritten Chinese Text Recognition with Convolutional Prototype Network](https://link.springer.com/chapter/10.1007/978-3-031-41685-9_3), **Yi Chen**, Heng Zhang, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICDAR 2023**</span>
+
 
 # <span class="lang-switch" data-lang-en="🎖 Honors and Awards" data-lang-zh="🎖 荣誉奖项">🎖 Honors and Awards</span>
 - <span class="lang-switch" data-lang-en="<em>2026</em> <strong>ICML 2026 Gold Reviewer</strong>" data-lang-zh="<em>2025</em> <strong>ICML 2026 金牌审稿人</strong>">*2026* **ICML 2026 Gold Reviewer**</span>
