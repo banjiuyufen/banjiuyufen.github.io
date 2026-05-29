@@ -179,7 +179,7 @@ redirect_from:
 
 ## <span class="lang-switch" data-lang-en="✍️ Handwritten Text Recognition & Generation" data-lang-zh="✍️ 手写文本识别与生成">✍️ Handwritten Text Recognition & Generation</span>
 
-- [CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild](https://arxiv.org), Haijie Yuan, Yiming Zhang, Dekang Ran, **Yi Chen**, et al. <span class="conference-badge top-tier">**arXiv 2026**
+- [CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild](https://arxiv.org), Haijie Yuan, Yiming Zhang, Dekang Ran, **Yi Chen**, et al. **arXiv 2026**
 
 - [Decoupling Layout from Glyph in Online Chinese Handwriting Generation](https://arxiv.org/abs/2410.02309), Min-Si Ren, Yan-Ming Zhang, **Yi Chen**. <span class="conference-badge top-tier">**ICLR 2025**</span> <a href="https://github.com/singularityrms/OLHWG" class="inline-github-link"><i class="fab fa-github"></i></a>
 
