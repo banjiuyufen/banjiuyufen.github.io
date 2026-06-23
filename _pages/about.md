@@ -221,7 +221,7 @@ redirect_from:
 
 # <span class="lang-switch" data-lang-en="🤝 Academic Service" data-lang-zh="🤝 学术服务">🤝 Academic Service</span>
 - **Journal Reviewer**: IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Transactions on Machine Learning Research (TMLR)
-- **Program Committee Member**: AAAI 2026
+- **Program Committee Member**: AAAI 2026, AAAI 2027
 - **Conference Reviewer**: ICLR 2026, CVPR 2026, ICML 2026, ECCV 2026
 
 
