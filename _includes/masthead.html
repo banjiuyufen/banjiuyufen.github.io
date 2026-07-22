@@ -1,19 +1,19 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        <button type="button" aria-label="Open navigation menu" aria-expanded="false"><span class="navicon" aria-hidden="true"></span></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/#overview">Yi Chen</a></li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
-      <div class="lang-toggle-container" style="position: absolute; right: 20px; top: 50%; transform: translateY(-50%);">
-        <button id="langToggle" class="lang-toggle-btn" style="background: transparent; border: 1px solid #ccc; padding: 5px 10px; border-radius: 3px; cursor: pointer; font-size: 0.8rem;">
-          EN
+      <div class="lang-toggle-container">
+        <button id="langToggle" class="lang-toggle-btn" type="button" aria-label="Switch page language">
+          中文
         </button>
       </div>
     </div>

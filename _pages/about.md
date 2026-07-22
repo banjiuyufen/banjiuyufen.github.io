@@ -1,252 +1,298 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "AI for adjuvant design, structured multimodal modeling, and reliable scientific reasoning."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-# <span class="lang-switch" data-lang-en="👋 About Me" data-lang-zh="👋 个人简介">👋 About Me</span>
-
-<span class="lang-switch" data-lang-en="I am currently a PhD student jointly affiliated with the <strong>State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)</strong> at the <strong>Institute of Automation, Chinese Academy of Sciences (CASIA)</strong>, under the supervision of Prof. <a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN'>Cheng-Lin Liu</a>." data-lang-zh="本人目前是中国科学院自动化研究所多模态人工智能系统国家重点实验室（MAIS）的博士研究生，师从<a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN'>刘成林</a>研究员。">I am currently a PhD student jointly affiliated with the **State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)** at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, under the supervision of Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN).</span>
-
-## <span class="lang-switch" data-lang-en="🎓 Education Background" data-lang-zh="🎓 教育背景">🎓 Education Background</span>
-- <span class="lang-switch" data-lang-en="<strong>2024.09 - Present</strong>: Ph.D. in Pattern Recognition and Intelligent Systems, CASIA-MAIS " data-lang-zh="<strong>2024.09 - 至今</strong>: 模式识别与智能系统博士，中科院自动化所-MAIS">**2024.09 - Present**: Ph.D. Candidate in Pattern Recognition and Intelligent Systems, CASIA-MAIS </span>
-- <span class="lang-switch" data-lang-en="<strong>2021.09 - 2024.06</strong>: M.S. in Electronic Information, NLPR, CASIA" data-lang-zh="<strong>2021.09 - 2024.06</strong>: 电子信息硕士，中科院自动化所-NLPR">**2021.09 - 2024.06**: M.S. in Electronic Information, NLPR, CASIA</span>
-- <span class="lang-switch" data-lang-en="<strong>2017.09 - 2021.06</strong>: B.E. in Space Science and Technology, Xidian University" data-lang-zh="<strong>2017.09 - 2021.06</strong>: 空间科学与技术学士，西安电子科技大学">**2017.09 - 2021.06**: B.E. in Space Science and Technology, Xidian University</span>
-
-<h2>
-  <span class="lang-switch" 
-        data-lang-en="🔬 Research Focus" 
-        data-lang-zh="🔬 研究方向">
-    🔬 Research Focus
-  </span>
-</h2>
-
-<p>
-  <strong>
-    <span class="lang-switch"
-          data-lang-en="My research centers on data modeling — developing structured representations and learning frameworks that bridge perception, language, scientific knowledge, and physical interaction. Specifically, it includes the following directions:"
-          data-lang-zh="我的研究集中在数据建模上——开发结构化的表示和学习框架，将感知、语言、科学知识和物理交互联系起来。具体而言，包括以下方向：">
-      My research centers on data modeling — developing structured representations and learning frameworks that bridge perception, language, scientific knowledge, and physical interaction. Specifically, it includes the following directions:
-    </span>
-  </strong>
-</p>
-
-- <span class="lang-switch" data-lang-en="<strong>🧬 Scientific & Physical Process </strong>: AI-driven vaccine adjuvant discovery and development" data-lang-zh="<strong>🧬 科学与物理过程建模</strong>: AI驱动的疫苗佐剂发现与开发">**🧬 AI for Science**: AI-driven vaccine adjuvant discovery and development</span>
-- <span class="lang-switch" data-lang-en="<strong>🗃️ Multimodal Semantic</strong>: Reliable reasoning, inference acceleration, vision token optimization, video understanding and streaming models" data-lang-zh="<strong>🗃️ 多模态语义建模</strong>: 可靠推理、推理加速、视觉Token优化、视频理解和流式模型">**🗃️ Multimodal Large Language Models**: Reliable reasoning, inference acceleration, vision token optimization, video understanding and streaming models</span>
-- <span class="lang-switch" data-lang-en="<strong>🤖 State and Action</strong>: Visual Language Navigation and Visual Language Action Model" data-lang-zh="<strong>🤖 状态和动作建模</strong>: 视觉语言导航和视觉语言动作模型、">**🤖 State and Action**: Visual Language Navigation and Visual Language Action Model</span>
-- <span class="lang-switch" data-lang-en="<strong>✍️ Structured Sequential</strong>: Online Chinese text recognition and synthesis" data-lang-zh="<strong>✍️ 结构化顺序建模</strong>: 联机中文文本识别与合成">**✍️ Handwritten Text Recognition & Generation**: Online Chinese text recognition and synthesis</span>
-
-## <span class="lang-switch" data-lang-en="📊 Academic Impact" data-lang-zh="📊 学术影响">📊 Academic Impact</span>
-<span class="lang-switch" data-lang-en="You can find my publications on <a href='https://scholar.google.com/citations?user=XoiT9wMAAAAJ&hl=zh-CN'>Google Scholar</a> and connect with me through various academic platforms listed in the sidebar." data-lang-zh="您可以在<a href='https://scholar.google.com/citations?user=XoiT9wMAAAAJ&hl=zh-CN'>Google Scholar</a>上查看我的论文，并通过侧边栏列出的各种学术平台与我联系。">You can find my publications on <a href='https://scholar.google.com/citations?user=XoiT9wMAAAAJ&hl=zh-CN'>Google Scholar</a> and connect with me through various academic platforms listed in the sidebar.</span>
-
-
-# <span class="lang-switch" data-lang-en="🔥 News" data-lang-zh="🔥 最新动态">🔥 News</span>
-- *2026.04*: &nbsp;🎉🎉 **Our paper accepted to ACL 2026 Findings**: MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models.
-- *2026.03*: &nbsp;🎉🎉 **Our paper accepted to Materials Genome Engineering Advances**: An Efficient Strategy for Data-constrained Machine Learning in Materials Science.
-- *2026.02*: &nbsp;🎉🎉 **Three papers accepted to CVPR 2026**! Including "MeteorPred" (meteorological multimodal model), "ChartAgent" (chart understanding framework), and "Fine-Grained Post-Training Quantization" (VLM optimization).
-- *2026.01*: &nbsp;🎉🎉 **Three papers accepted to top-tier conferences**! Two papers to **ICLR 2026**: "An Open-Ended Benchmark for Adjuvant Research with MLLM" and "One Patch Doesn't Fit All" (adaptive patching for MLLMs). One paper to **ICRA 2026**: "RANGER" (monocular zero-shot semantic navigation).
-- *2025.11*: &nbsp;🎉🎉 **One paper accepted to AAAI 2026**! "VAGU & GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding" - a comprehensive framework for video anomaly detection and understanding. 
-
-<span class='anchor' id='selected-publications'></span>
-
-# <span class="lang-switch" data-lang-en="📝 Publications" data-lang-zh="📝 学术论文">📝 Publications</span> 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/SAVANT.png' alt="adjuvant framework" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design](https://arxiv.org)
-
-**Yi Chen**, Yu Zhang, Jian Xu, Xu-Yao Zhang, Hua Yue, Xinming Wang, Zequan Lyu, Boran Wang, Hongyi Liu, Yan Wang, Peiyuan Cao, Wei Wei, Cheng-Lin Liu
-
-**arXiv 2026** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_1'></span></strong>
-- First proposed a neuro-symbolic verification framework for LLM-generated adjuvant designs.
-- First formalized adjuvant design verification as literature-grounded mechanistic proof checking.
-- First introduced a three-stage verification pipeline covering precedent, immune outcome, and mechanism chain.
-- Enabled interpretable identification of supported mechanisms, weak evidence, and knowledge gaps.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/VisTopo.png' alt="vistopo framework" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners](https://arxiv.org)
-
-**Yi Chen**, MingMing Yu, Boran Wang, Jie Gu, Chu Tang, Jingmin Chen, Rui-Qi Wang
-
-**arXiv 2026** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_3'></span></strong>
-- First formulated MLLM spatial failures as a referent-relation language grounding problem.
-- First proposed VisTopo, a topology-aware prompting method for explicit referent-relation modeling.
-- Introduced region-anchor tokens and relation-prefix tokens to expose spatial structure before answer generation.
-- Enabled weakly supervised spatial grounding using only standard VQA supervision, without external spatial annotations or perception backbones.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/adj_bench.png' alt="adjuvant framework" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://openreview.net/forum?id=moeOrHkDg2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))
-
-**Yi Chen\***, Yu Zhang\*, Jian Xu, Xu-Yao Zhang, Hua Yue, Xinming Wang, Zequan Lyu, Wei Wei, Cheng-Lin Liu
-
-**ICLR 2026** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_1'></span></strong>
-- First benchmark dedicated to adjuvant research using multimodal large language models
-- Formal framework for representing adjuvant design principles and immune mechanisms
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/Recoverable Compression.png' alt="recoverable compression" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](https://ojs.aaai.org/index.php/AAAI/article/view/32229)
-
-**Yi Chen**, Jian Xu, Xu-Yao Zhang, Wen-Zhuo Liu, Yang-Yang Liu, Cheng-Lin Liu
-
-**AAAI 2025** <strong><span class='show_paper_citations' data='XoiT9wMAAAAJ:PAPER_ID_2'></span></strong>
-
-<div class="paper-links">
-  <a href="https://github.com/banjiuyufen/Recoverable-Compression" class="github-link">
-    <i class="fab fa-github"></i> Code
-  </a>
-</div>
-
-- Text-guided dynamic visual token recovery mechanism for multimodal models
-- Achieves comparable performance while compressing visual tokens to 10% of the original quantity
-</div>
-</div>
-
-
-## <span class="lang-switch" data-lang-en="🧬 AI for Science & Scientific Computing" data-lang-zh="🧬 AI for Science 与科学计算">🧬 AI for Science & Scientific Computing</span>
-- [SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design](https://arxiv.org/), **Yi Chen**, Yu Zhang, Jian Xu, et al. **arXiv 20266**
-
-- [An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM](https://openreview.net/forum?id=moeOrHkDg2&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), **Yi Chen\***, Yu Zhang\*, Jian Xu, et al. <span class="conference-badge top-tier">**ICLR 2026**</span>
-
-- [An Efficient Strategy for Data-constrained Machine Learning in Materials Science](https://arxiv.org/), ChunTing Shao\*, **Yi Chen\***, ShanMan Song, et al.<span class="conference-badge top-tier">**Materials Genome Engineering Advances**</span>
-
-- [MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction](https://arxiv.org/abs/2508.06859), Shuo Tang, Jian Xu, Jiadong Zhang, **Yi Chen**, et al.  <span class="conference-badge top-tier">**CVPR 2026**</span> <span class="highlight">💡 Highlight</span>
-
-- [The Hitchhiker's Guide to Scientific Agents: A Journey Through the Cosmos of Research Automation](https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents), Xinming Wang, Aslan Feng, Jian Xu, **Yi Chen**, et al. **TechRxiv 2024** <a href="https://github.com/gudehhh666/Awesome_Scientific_Agent" class="inline-github-link"><i class="fab fa-github"></i></a>
-
-## <span class="lang-switch" data-lang-en="🗃️ Multimodal Large Language Models" data-lang-zh="🗃️ 多模态大语言模型">🗃️ Multimodal Large Language Models</span>
-
-- [Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners](https://arxiv.org/abs/2409.01162), **Yi Chen**, MingMing Yu, Boran Wang, Jie Gu, et al. **arXiv 2026**
-
-- [Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models](https://arxiv.org/abs/2601.08209), Rongji Li, Jian Xu, **Yi Chen**, et al. **arXiv 2026**
-
-- [One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models](https://openreview.net/forum?id=six75YUGgS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)), Wenzhuo Liu, Weijie Yin, Fei Zhu, Shijie Ma, Haiyang Guo, **Yi Chen**, et al. <span class="conference-badge top-tier">**ICLR 2026**</span>
-
-- [Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients](https://arxiv.org/abs/2507.21649), Ziwen Xiang, Fanhu Zeng, Hongjian Fang, Rui-Qi Wang, Renxing Chen, **Yi Chen**, et al. <span class="conference-badge top-tier">**CVPR 2026**</span>
-
-- [Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information](https://ojs.aaai.org/index.php/AAAI/article/view/32229), **Yi Chen**, Jian Xu, Xu-Yao Zhang, et al. <span class="conference-badge top-tier">**AAAI 2025**</span> <a href="https://github.com/banjiuyufen/Recoverable-Compression" class="inline-github-link"><i class="fab fa-github"></i></a>
-
-- [Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models](https://arxiv.org/abs/2409.01162), **Yi Chen\***, Gao-Tong Yu\*, Jian Xu. **arXiv 2024**
-
-
-## <span class="lang-switch" data-lang-en="🧠 Machine Learning" data-lang-zh="🧠 机器学习理论">🧠 Machine Learning</span>
-
-- [ManiNet: Manifold Network for Few-Shot Learning](https://arxiv.org/), Ruiqi Wang, Hengcan Shi, **Yi Chen**, YaoNan Wang. <span class="conference-badge top-tier">**AIHCIR 2025**</span> <span class="highlight">🏆 Best Paper Award</span>
-
-## <span class="lang-switch" data-lang-en="🤖 Embodied Intelligence & Robotics" data-lang-zh="🤖 具身智能与机器人">🤖 Embodied Intelligence & Robotics</span>
-
-- [RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation](https://arxiv.org/abs/2512.24212), Ming-Ming Yu, **Yi Chen**, Börje F. Karlsson, Wenjun Wu. <span class="conference-badge top-tier">**ICRA 2026**</span><span class="highlight"> 🗣 Oral</span>
-
-## <span class="lang-switch" data-lang-en="🛠️ Intelligent Agents" data-lang-zh="🛠️ 智能体">🛠️ Intelligent Agents</span>
-
-- [ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning](https://arxiv.org/abs/2512.14040), Boran Wang, Xinming Wang, **Yi Chen**, et al. <span class="conference-badge top-tier">**CVPR 2026 Findings**</span>
-
-## <span class="lang-switch" data-lang-en="🔍 Video Analysis & Anomaly Detection" data-lang-zh="🔍 视频分析与异常检测">🔍 Video Analysis & Anomaly Detection</span>
-
-- [VAGU & GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding](https://arxiv.org/abs/2507.21507), Shibo Gao, Peipei Yang, **Yi Chen**, et al. <span class="conference-badge top-tier">**AAAI 2026**</span>
-
-- [The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM](https://arxiv.org/abs/2507.21649), Shibo Gao, Peipei Yang, Haiyang Guo, Yangyang Liu, **Yi Chen**, et al. **arXiv 2024**
-
-## <span class="lang-switch" data-lang-en="📊 NLP & Information Processing" data-lang-zh="📊 自然语言处理与信息处理">📊 NLP & Information Processing</span>
-
-- [ElementCheck: Long-Form Text Factuality Evaluation via Sentence-Level Fact Elements](https://arxiv.org/abs/2512.14040), Xinming Wang, Haoran Du, **Yi Chen**, et al. **arXiv 2026**
-
-- [MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models](https://arxiv.org/abs/2510.24794), Xinming Wang, Jian Xu, Bin Yu, Sheng Lian, Hongzhu Yi, **Yi Chen**, et al. <span class="conference-badge top-tier">**ACL 2026 Findings**</span>
-
-## <span class="lang-switch" data-lang-en="✍️ Handwritten Text Recognition & Generation" data-lang-zh="✍️ 手写文本识别与生成">✍️ Handwritten Text Recognition & Generation</span>
-
-- [CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild](https://arxiv.org), Haijie Yuan, Yiming Zhang, Dekang Ran, **Yi Chen**, et al. **arXiv 2026**
-
-- [Decoupling Layout from Glyph in Online Chinese Handwriting Generation](https://arxiv.org/abs/2410.02309), Min-Si Ren, Yan-Ming Zhang, **Yi Chen**. <span class="conference-badge top-tier">**ICLR 2025**</span> <a href="https://github.com/singularityrms/OLHWG" class="inline-github-link"><i class="fab fa-github"></i></a>
-
-- [Recognition of Online Handwritten Chinese Texts in Any Writing Direction via Stroke Classification Based Over-Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-78183-4_24), **Yi Chen**, Heng Zhang, Min-Si Ren, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICPR 2024**</span>
-
-- [Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_9), Yang-Yang Liu, **Yi Chen**, Fei Yin, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICDAR 2024**</span>
-
-- [Improved Learning for Online Handwritten Chinese Text Recognition with Convolutional Prototype Network](https://link.springer.com/chapter/10.1007/978-3-031-41685-9_3), **Yi Chen**, Heng Zhang, Cheng-Lin Liu. <span class="conference-badge top-tier">**ICDAR 2023**</span>
-
-
-# <span class="lang-switch" data-lang-en="🎖 Honors and Awards" data-lang-zh="🎖 荣誉奖项">🎖 Honors and Awards</span>
-- <span class="lang-switch" data-lang-en="<em>2026</em> <strong>ICML 2026 Gold Reviewer</strong>" data-lang-zh="<em>2025</em> <strong>ICML 2026 金牌审稿人</strong>">*2026* **ICML 2026 Gold Reviewer**</span>
-- <span class="lang-switch" data-lang-en="<em>2025</em> <strong>Academic Research Star</strong>, National AI Academy Beijing Zhongguancun Academy" data-lang-zh="<em>2025</em> <strong>学术科研之星</strong>，国家人工智能学院北京中关村学院">*2025* **Academic Research Star**, National AI Academy Beijing Zhongguancun Academy</span>
-- <span class="lang-switch" data-lang-en="<em>2025</em> <strong>Best Paper Award</strong>, AIHCIR 2025 (for ManiNet: Manifold Network for Few-Shot Learning)" data-lang-zh="<em>2025</em> <strong>最佳论文奖</strong>，AIHCIR 2025（ManiNet: Manifold Network for Few-Shot Learning）">*2025* **Best Paper Award**, AIHCIR 2025 (for "ManiNet: Manifold Network for Few-Shot Learning")</span>
-- <span class="lang-switch" data-lang-en="<em>2024</em> <strong>3rd Place</strong>, ICDAR2024 Competition on Multi Font Group Recognition and OCR" data-lang-zh="<em>2024</em> <strong>第三名</strong>，ICDAR2024多字体组识别与OCR竞赛">*2024* **3rd Place**, ICDAR2024 Competition on Multi Font Group Recognition and OCR</span> 
-
-# <span class="lang-switch" data-lang-en="📖 Education" data-lang-zh="📖 教育经历">📖 Education</span>
-- *2024.09 - Present*, **Ph.D. Candidate in Pattern Recognition and Intelligent Systems**  
-  State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences & Zhongguancun Academy  
-  Supervisor: Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN)
-
-- *2021.09 - 2024.06*, **M.S. in Electronic Information**  
-  National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences  
-  Supervisor: Prof. [Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN)
-
-- *2017.09 - 2021.06*, **B.E. in Detection Guidance and Control Technology**  
-  School of Space Science and Technology, Xidian University 
-
-<span class='anchor' id='research-interests'></span>
-
-# <span class="lang-switch" data-lang-en="🔬 Research Interests" data-lang-zh="🔬 研究兴趣">🔬 Research Interests</span>
-- **AI for Science**: Applying artificial intelligence to scientific discovery, particularly in adjuvant research and materials science
-- **Multimodal Large Language Models (MLLMs)**: Developing robust and efficient multimodal AI systems
-- **Online Handwritten Text Recognition**: Recognition and generation of handwritten Chinese text
-- **Computer Vision**: Image understanding, visual reasoning, and multimodal perception
-
-<span class='anchor' id='academic-service'></span>
-
-# <span class="lang-switch" data-lang-en="🤝 Academic Service" data-lang-zh="🤝 学术服务">🤝 Academic Service</span>
-- **Journal Reviewer**: IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Transactions on Machine Learning Research (TMLR)
-- **Program Committee Member**: AAAI 2026, AAAI 2027
-- **Conference Reviewer**: ICLR 2026, CVPR 2026, ICML 2026, ECCV 2026
-
-
-<span class='anchor' id='open-source-contributions'></span>
-
-# <span class="lang-switch" data-lang-en="🌟 Open Source Contributions" data-lang-zh="🌟 开源贡献">🌟 Open Source Contributions</span>
-
-<div class="contribution-item">
-  <div class="contribution-header">
-    <strong>PaddleScience Contributor</strong>: Integrated Crystal Graph CNN (CGCNN) model for materials chemistry applications
-    <a href="https://github.com/PaddlePaddle/PaddleScience/pull/977" class="github-link">
-      <i class="fab fa-github"></i> PR #977
-    </a>
+<span class="anchor" id="overview"></span>
+
+<section class="research-hero" aria-labelledby="research-hero-title">
+  <p class="hero-eyebrow"><span class="lang-switch" data-lang-en="Research agenda" data-lang-zh="研究议程">Research agenda</span></p>
+  <h1 id="research-hero-title">AI for Adjuvant Design</h1>
+  <p class="hero-lede">
+    <span class="lang-switch" data-lang-en="I develop structured, knowledge-grounded AI systems that formalize adjuvant research, evaluate scientific reasoning, and verify generated designs against evidence and mechanism." data-lang-zh="我致力于构建结构化、知识驱动的佐剂人工智能系统，将佐剂研究形式化，评估科学推理，并依据证据与机制验证生成的设计。">I develop structured, knowledge-grounded AI systems that formalize adjuvant research, evaluate scientific reasoning, and verify generated designs against evidence and mechanism.</span>
+  </p>
+  <div class="hero-tags" aria-label="Research themes">
+    <span>Benchmarking</span>
+    <span>Knowledge modeling</span>
+    <span>Verifiable reasoning</span>
   </div>
-  <ul class="contribution-details">
-    <li>Implemented full pipeline for crystal structure data processing and graph neural network training</li>
-    <li>Code merged into official repository and featured as an official case study</li>
-  </ul>
-</div>
+  <div class="hero-actions">
+    <a class="button button--primary" href="/adjuvant/"><span class="lang-switch" data-lang-en="Adjuvant program" data-lang-zh="佐剂研究计划">Adjuvant program</span></a>
+    <a class="button button--secondary" href="#selected-work">Selected work</a>
+    <a class="button button--text" href="https://scholar.google.com/citations?user=XoiT9wMAAAAJ&hl=en">Google Scholar <span aria-hidden="true">↗</span></a>
+  </div>
+</section>
 
-# <span class="lang-switch" data-lang-en="📧 Contact" data-lang-zh="📧 联系方式">📧 Contact</span>
-- **Email**: yi.chen@nlpr.ia.ac.cn
-- **Office**: State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences
-- **Address**: Beijing 100190, China
+<section class="intro-section" aria-labelledby="about-heading">
+  <div class="section-heading section-heading--compact">
+    <p class="section-kicker"><span class="lang-switch" data-lang-en="About" data-lang-zh="简介">About</span></p>
+    <h2 id="about-heading"><span class="lang-switch" data-lang-en="Building scientific AI from structured data" data-lang-zh="以结构化数据构建科学人工智能">Building scientific AI from structured data</span></h2>
+  </div>
+  <p class="intro-copy">
+    <span class="lang-switch" data-lang-en="I am a PhD candidate in Pattern Recognition and Intelligent Systems at the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), jointly trained with Zhongguancun Academy. I am advised by Prof. <a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=en'>Cheng-Lin Liu</a>." data-lang-zh="我是中国科学院自动化研究所多模态人工智能系统全国重点实验室（MAIS）与中关村学院联合培养的模式识别与智能系统博士研究生，导师为<a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN'>刘成林</a>研究员。">I am a PhD candidate in Pattern Recognition and Intelligent Systems at the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), jointly trained with Zhongguancun Academy. I am advised by Prof. <a href="https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=en">Cheng-Lin Liu</a>.</span>
+  </p>
+  <p class="intro-copy intro-copy--secondary">
+    <span class="lang-switch" data-lang-en="My broader work on reliable and efficient multimodal models, embodied reasoning, scientific agents, and handwriting intelligence provides a wide technical base for this agenda. The unifying method is structured data modeling across perception, language, scientific knowledge, and action." data-lang-zh="我在可靠高效的多模态模型、具身推理、科学智能体和手写智能方面的研究，为这一议程提供了广泛的技术基础。贯穿这些工作的共同方法是对感知、语言、科学知识与动作进行结构化数据建模。">My broader work on reliable and efficient multimodal models, embodied reasoning, scientific agents, and handwriting intelligence provides a wide technical base for this agenda. The unifying method is structured data modeling across perception, language, scientific knowledge, and action.</span>
+  </p>
+</section>
 
----
+<span class="anchor" id="research-agenda"></span>
 
-*Open to collaboration and academic exchange. Please feel free to contact me via email.*
+<section aria-labelledby="agenda-heading">
+  <div class="section-heading">
+    <p class="section-kicker"><span class="lang-switch" data-lang-en="Research" data-lang-zh="研究方向">Research</span></p>
+    <h2 id="agenda-heading"><span class="lang-switch" data-lang-en="One core agenda, multiple technical foundations" data-lang-zh="一条核心议程，多项技术基础">One core agenda, multiple technical foundations</span></h2>
+    <p><span class="lang-switch" data-lang-en="The hierarchy below reflects how the projects relate; it does not reduce the breadth of the work." data-lang-zh="以下层级用于说明不同项目之间的关系，并不缩减研究广度。">The hierarchy below reflects how the projects relate; it does not reduce the breadth of the work.</span></p>
+  </div>
+
+  <div class="agenda-grid">
+    <article class="agenda-card agenda-card--primary">
+      <span class="agenda-label"><span class="lang-switch" data-lang-en="Primary agenda" data-lang-zh="核心议程">Primary agenda</span></span>
+      <h3>AI for Adjuvant Design</h3>
+      <p><span class="lang-switch" data-lang-en="Formalizing adjuvant knowledge, benchmarking open-ended scientific reasoning, and verifying generated designs through literature-grounded mechanism chains." data-lang-zh="形式化佐剂知识，评测开放式科学推理，并通过文献证据支持的机制链验证生成设计。">Formalizing adjuvant knowledge, benchmarking open-ended scientific reasoning, and verifying generated designs through literature-grounded mechanism chains.</span></p>
+    </article>
+    <article class="agenda-card">
+      <span class="agenda-label"><span class="lang-switch" data-lang-en="Technical foundation" data-lang-zh="技术基础">Technical foundation</span></span>
+      <h3>Structured Multimodal Modeling</h3>
+      <p><span class="lang-switch" data-lang-en="Reliable reasoning, spatial grounding, adaptive visual representations, token efficiency, and factuality alignment for multimodal systems." data-lang-zh="面向多模态系统的可靠推理、空间定位、自适应视觉表示、Token效率与事实性对齐。">Reliable reasoning, spatial grounding, adaptive visual representations, token efficiency, and factuality alignment for multimodal systems.</span></p>
+    </article>
+    <article class="agenda-card">
+      <span class="agenda-label"><span class="lang-switch" data-lang-en="Broader capabilities" data-lang-zh="拓展能力">Broader capabilities</span></span>
+      <h3>Science, Action &amp; Sequential Data</h3>
+      <p><span class="lang-switch" data-lang-en="Scientific agents, materials and weather applications, embodied navigation, video understanding, and online Chinese handwriting." data-lang-zh="涵盖科学智能体、材料与气象应用、具身导航、视频理解及联机中文手写。">Scientific agents, materials and weather applications, embodied navigation, video understanding, and online Chinese handwriting.</span></p>
+    </article>
+  </div>
+
+  <div class="research-path" aria-label="AI for adjuvant design research path">
+    <div class="path-step">
+      <span class="path-number">01</span>
+      <h3>Formalize</h3>
+      <p>Represent adjuvant design principles and immune mechanisms.</p>
+    </div>
+    <div class="path-arrow" aria-hidden="true">→</div>
+    <div class="path-step">
+      <span class="path-number">02</span>
+      <h3>Benchmark</h3>
+      <p>Evaluate open-ended, multimodal scientific reasoning.</p>
+    </div>
+    <div class="path-arrow" aria-hidden="true">→</div>
+    <div class="path-step">
+      <span class="path-number">03</span>
+      <h3>Verify</h3>
+      <p>Check proposed designs against precedent, outcomes, and mechanisms.</p>
+    </div>
+  </div>
+</section>
+
+<span class="anchor" id="news"></span>
+
+<section aria-labelledby="news-heading">
+  <div class="section-heading section-heading--row">
+    <div>
+      <p class="section-kicker"><span class="lang-switch" data-lang-en="Updates" data-lang-zh="最新动态">Updates</span></p>
+      <h2 id="news-heading"><span class="lang-switch" data-lang-en="Research milestones" data-lang-zh="研究进展">Research milestones</span></h2>
+    </div>
+  </div>
+  <ol class="news-list">
+    <li><time datetime="2026-04">2026.04</time><div><strong>MR-ALIGN</strong> was accepted to ACL 2026 Findings, extending our work on factuality alignment for reasoning models.</div></li>
+    <li><time datetime="2026-03">2026.03</time><div><strong>Data-constrained machine learning for materials science</strong> was accepted to Materials Genome Engineering Advances.</div></li>
+    <li><time datetime="2026-02">2026.02</time><div><strong>MeteorPred, ChartAgent, and fine-grained VLM quantization</strong> were accepted to CVPR 2026.</div></li>
+    <li><time datetime="2026-01">2026.01</time><div>Our <strong>adjuvant benchmark</strong> was accepted to ICLR 2026, alongside work on adaptive patching; <strong>RANGER</strong> was accepted to ICRA 2026.</div></li>
+  </ol>
+</section>
+
+<span class="anchor" id="selected-work"></span>
+
+<section aria-labelledby="selected-heading">
+  <div class="section-heading">
+    <p class="section-kicker"><span class="lang-switch" data-lang-en="Selected work" data-lang-zh="代表工作">Selected work</span></p>
+    <h2 id="selected-heading"><span class="lang-switch" data-lang-en="From problem definition to verifiable design" data-lang-zh="从问题定义到可验证设计">From problem definition to verifiable design</span></h2>
+    <p><span class="lang-switch" data-lang-en="The first two projects form a continuous research program in AI for adjuvant design." data-lang-zh="前两个项目共同构成AI for adjuvant design的连续研究计划。">The first two projects form a continuous research program in AI for adjuvant design.</span></p>
+  </div>
+
+  <h3 class="work-group-title">AI for Adjuvant Design</h3>
+
+  <article class="paper-card paper-card--primary">
+    <div class="paper-card__media">
+      <span class="paper-badge">ICLR 2026</span>
+      <img src="images/adj_bench.png" alt="Overview of the open-ended benchmark and formal framework for adjuvant research" loading="lazy">
+    </div>
+    <div class="paper-card__body">
+      <p class="paper-stage">01 · Problem definition &amp; benchmarking</p>
+      <h4><a href="https://openreview.net/forum?id=moeOrHkDg2">An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM</a></h4>
+      <p class="paper-authors"><strong>Yi Chen*</strong>, Yu Zhang*, Jian Xu, Xu-Yao Zhang, Hua Yue, Xinming Wang, Zequan Lyu, Wei Wei, Cheng-Lin Liu</p>
+      <ul class="paper-contributions">
+        <li>Introduces an open-ended benchmark dedicated to multimodal adjuvant research.</li>
+        <li>Formalizes adjuvant design principles and immune mechanisms for evaluation.</li>
+      </ul>
+      <div class="paper-actions"><a href="https://openreview.net/forum?id=moeOrHkDg2">Paper <span aria-hidden="true">↗</span></a></div>
+    </div>
+  </article>
+
+  <article class="paper-card paper-card--primary">
+    <div class="paper-card__media">
+      <span class="paper-badge">Preprint · 2026</span>
+      <img src="images/SAVANT.png" alt="SAVANT neuro-symbolic verification framework" loading="lazy">
+    </div>
+    <div class="paper-card__body">
+      <p class="paper-stage">02 · Design generation &amp; verification</p>
+      <h4>SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</h4>
+      <p class="paper-authors"><strong>Yi Chen</strong>, Yu Zhang, Jian Xu, Xu-Yao Zhang, Hua Yue, Xinming Wang, Zequan Lyu, Boran Wang, Hongyi Liu, Yan Wang, Peiyuan Cao, Wei Wei, Cheng-Lin Liu</p>
+      <ul class="paper-contributions">
+        <li>Frames adjuvant design verification as literature-grounded mechanistic proof checking.</li>
+        <li>Checks precedent, immune outcomes, and mechanism chains while exposing evidence gaps.</li>
+      </ul>
+    </div>
+  </article>
+
+  <h3 class="work-group-title work-group-title--secondary">Selected Technical Foundations</h3>
+
+  <div class="paper-card-grid">
+    <article class="paper-card paper-card--compact">
+      <div class="paper-card__media">
+        <span class="paper-badge">Preprint · 2026</span>
+        <img src="images/VisTopo.png" alt="VisTopo topology-aware spatial grounding framework" loading="lazy">
+      </div>
+      <div class="paper-card__body">
+        <h4>Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners</h4>
+        <p class="paper-authors"><strong>Yi Chen</strong>, MingMing Yu, Boran Wang, Jie Gu, Chu Tang, Jingmin Chen, Rui-Qi Wang</p>
+        <p>Uses explicit referent-relation modeling and topology-aware prompting for weakly supervised spatial grounding.</p>
+      </div>
+    </article>
+
+    <article class="paper-card paper-card--compact">
+      <div class="paper-card__media">
+        <span class="paper-badge">AAAI 2025</span>
+        <img src="images/Recoverable Compression.png" alt="Recoverable Compression visual token recovery mechanism" loading="lazy">
+      </div>
+      <div class="paper-card__body">
+        <h4><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32229">Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information</a></h4>
+        <p class="paper-authors"><strong>Yi Chen</strong>, Jian Xu, Xu-Yao Zhang, Wen-Zhuo Liu, Yang-Yang Liu, Cheng-Lin Liu</p>
+        <p>Recovers task-relevant visual tokens with text guidance while compressing the visual token sequence.</p>
+        <div class="paper-actions">
+          <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32229">Paper <span aria-hidden="true">↗</span></a>
+          <a href="https://github.com/banjiuyufen/RecoverableCompression"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
+
+<span class="anchor" id="publications"></span>
+
+<section aria-labelledby="publications-heading">
+  <div class="section-heading">
+    <p class="section-kicker"><span class="lang-switch" data-lang-en="Publications" data-lang-zh="学术论文">Publications</span></p>
+    <h2 id="publications-heading"><span class="lang-switch" data-lang-en="Research portfolio" data-lang-zh="研究成果">Research portfolio</span></h2>
+    <p><span class="lang-switch" data-lang-en="Grouped by research role rather than as many parallel directions. * denotes equal contribution." data-lang-zh="按研究角色分组，避免将多个方向简单平铺。*表示同等贡献。">Grouped by research role rather than as many parallel directions. * denotes equal contribution.</span></p>
+  </div>
+
+  <div class="publication-group publication-group--primary">
+    <div class="publication-group__heading">
+      <span class="publication-index">01</span>
+      <div><p>Core research agenda</p><h3>AI for Adjuvant Design</h3></div>
+    </div>
+    <ul class="publication-list">
+      <li><a href="https://openreview.net/forum?id=moeOrHkDg2">An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM</a>, <strong>Yi Chen*</strong>, Yu Zhang*, Jian Xu, et al. <span class="venue">ICLR 2026</span></li>
+      <li><span class="publication-title">SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</span>, <strong>Yi Chen</strong>, Yu Zhang, Jian Xu, et al. <span class="venue venue--neutral">Preprint 2026</span></li>
+    </ul>
+  </div>
+
+  <div class="publication-group">
+    <div class="publication-group__heading">
+      <span class="publication-index">02</span>
+      <div><p>Technical foundations</p><h3>Structured Multimodal Modeling &amp; Reasoning</h3></div>
+    </div>
+    <ul class="publication-list">
+      <li><span class="publication-title">Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners</span>, <strong>Yi Chen</strong>, MingMing Yu, Boran Wang, et al. <span class="venue venue--neutral">Preprint 2026</span></li>
+      <li><a href="https://arxiv.org/abs/2601.08209">Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models</a>, Rongji Li, Jian Xu, <strong>Yi Chen</strong>, et al. <span class="venue venue--neutral">Preprint 2026</span></li>
+      <li><a href="https://openreview.net/forum?id=six75YUGgS">One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models</a>, Wenzhuo Liu, Weijie Yin, Fei Zhu, et al., <strong>Yi Chen</strong>. <span class="venue">ICLR 2026</span></li>
+      <li><span class="publication-title">Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients</span>, Ziwen Xiang, Fanhu Zeng, Hongjian Fang, et al., <strong>Yi Chen</strong>. <span class="venue">CVPR 2026</span></li>
+      <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32229">Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information</a>, <strong>Yi Chen</strong>, Jian Xu, Xu-Yao Zhang, et al. <span class="venue">AAAI 2025</span> <a class="icon-link" href="https://github.com/banjiuyufen/RecoverableCompression" aria-label="Recoverable Compression code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a></li>
+      <li><a href="https://arxiv.org/abs/2409.01162">Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models</a>, <strong>Yi Chen*</strong>, Gao-Tong Yu*, Jian Xu. <span class="venue venue--neutral">Preprint 2024</span></li>
+      <li><a href="https://arxiv.org/abs/2510.24794">MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models</a>, Xinming Wang, Jian Xu, Bin Yu, et al., <strong>Yi Chen</strong>. <span class="venue">ACL 2026 Findings</span></li>
+      <li><span class="publication-title">ElementCheck: Long-Form Text Factuality Evaluation via Sentence-Level Fact Elements</span>, Xinming Wang, Haoran Du, <strong>Yi Chen</strong>, et al. <span class="venue venue--neutral">Preprint 2026</span></li>
+    </ul>
+  </div>
+
+  <div class="publication-group">
+    <div class="publication-group__heading">
+      <span class="publication-index">03</span>
+      <div><p>Broader capabilities</p><h3>Scientific, Embodied &amp; Domain Work</h3></div>
+    </div>
+    <ul class="publication-list">
+      <li><span class="topic-label">Science</span><span class="publication-title">An Efficient Strategy for Data-Constrained Machine Learning in Materials Science</span>, ChunTing Shao*, <strong>Yi Chen*</strong>, ShanMan Song, et al. <span class="venue">MGE Advances</span></li>
+      <li><span class="topic-label">Science</span><a href="https://arxiv.org/abs/2508.06859">MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction</a>, Shuo Tang, Jian Xu, Jiadong Zhang, <strong>Yi Chen</strong>, et al. <span class="venue">CVPR 2026</span></li>
+      <li><span class="topic-label">Science</span><a href="https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents">The Hitchhiker's Guide to Scientific Agents: A Journey Through the Cosmos of Research Automation</a>, Xinming Wang, Aslan Feng, Jian Xu, <strong>Yi Chen</strong>, et al. <span class="venue venue--neutral">TechRxiv 2024</span></li>
+      <li><span class="topic-label">Embodied</span><a href="https://arxiv.org/abs/2512.24212">RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation</a>, Ming-Ming Yu, <strong>Yi Chen</strong>, Börje F. Karlsson, Wenjun Wu. <span class="venue">ICRA 2026 · Oral</span></li>
+      <li><span class="topic-label">Agents</span><a href="https://arxiv.org/abs/2512.14040">ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning</a>, Boran Wang, Xinming Wang, <strong>Yi Chen</strong>, et al. <span class="venue">CVPR 2026</span></li>
+      <li><span class="topic-label">Video</span><a href="https://arxiv.org/abs/2507.21507">VAGU &amp; GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding</a>, Shibo Gao, Peipei Yang, <strong>Yi Chen</strong>, et al. <span class="venue">AAAI 2026</span></li>
+      <li><span class="topic-label">Video</span><a href="https://arxiv.org/abs/2507.21649">The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM</a>, Shibo Gao, Peipei Yang, Haiyang Guo, et al., <strong>Yi Chen</strong>. <span class="venue venue--neutral">Preprint 2025</span></li>
+      <li><span class="topic-label">Learning</span><a href="https://doi.org/10.1109/AIHCIR67580.2025.11405062">ManiNet: Manifold Network for Few-Shot Learning</a>, Ruiqi Wang, Hengcan Shi, <strong>Yi Chen</strong>, YaoNan Wang. <span class="venue">AIHCIR 2025 · Best Paper</span></li>
+      <li><span class="topic-label">Handwriting</span><span class="publication-title">CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild</span>, Haijie Yuan, Yiming Zhang, Dekang Ran, <strong>Yi Chen</strong>, et al. <span class="venue venue--neutral">Preprint 2026</span></li>
+      <li><span class="topic-label">Handwriting</span><a href="https://arxiv.org/abs/2410.02309">Decoupling Layout from Glyph in Online Chinese Handwriting Generation</a>, Min-Si Ren, Yan-Ming Zhang, <strong>Yi Chen</strong>. <span class="venue">ICLR 2025</span></li>
+      <li><span class="topic-label">Handwriting</span><a href="https://link.springer.com/chapter/10.1007/978-3-031-78183-4_24">Recognition of Online Handwritten Chinese Texts in Any Writing Direction via Stroke Classification Based Over-Segmentation</a>, <strong>Yi Chen</strong>, Heng Zhang, Min-Si Ren, Cheng-Lin Liu. <span class="venue">ICPR 2024</span></li>
+      <li><span class="topic-label">Handwriting</span><a href="https://link.springer.com/chapter/10.1007/978-3-031-70533-5_9">Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition</a>, Yang-Yang Liu, <strong>Yi Chen</strong>, Fei Yin, Cheng-Lin Liu. <span class="venue">ICDAR 2024</span></li>
+      <li><span class="topic-label">Handwriting</span><a href="https://link.springer.com/chapter/10.1007/978-3-031-41685-9_3">Improved Learning for Online Handwritten Chinese Text Recognition with Convolutional Prototype Network</a>, <strong>Yi Chen</strong>, Heng Zhang, Cheng-Lin Liu. <span class="venue">ICDAR 2023</span></li>
+    </ul>
+  </div>
+</section>
+
+<span class="anchor" id="service-contact"></span>
+
+<section aria-labelledby="service-heading">
+  <div class="section-heading">
+    <p class="section-kicker"><span class="lang-switch" data-lang-en="Background" data-lang-zh="学术经历">Background</span></p>
+    <h2 id="service-heading"><span class="lang-switch" data-lang-en="Education, recognition &amp; service" data-lang-zh="教育、荣誉与学术服务">Education, recognition &amp; service</span></h2>
+  </div>
+
+  <div class="profile-grid">
+    <section class="profile-panel" aria-labelledby="education-heading">
+      <h3 id="education-heading">Education</h3>
+      <ol class="timeline-list">
+        <li><time>2024–Present</time><div><strong>PhD Candidate, Pattern Recognition and Intelligent Systems</strong><span>CASIA-MAIS &amp; Zhongguancun Academy</span></div></li>
+        <li><time>2021–2024</time><div><strong>MS, Electronic Information</strong><span>NLPR, CASIA</span></div></li>
+        <li><time>2017–2021</time><div><strong>Bachelor of Engineering</strong><span>School of Space Science and Technology, Xidian University</span></div></li>
+      </ol>
+    </section>
+
+    <section class="profile-panel" aria-labelledby="honors-heading">
+      <h3 id="honors-heading">Selected Honors</h3>
+      <ul class="detail-list">
+        <li><span>2026</span><strong>ICML Gold Reviewer</strong></li>
+        <li><span>2025</span><strong>Academic Research Star, Zhongguancun Academy</strong></li>
+        <li><span>2025</span><strong>Best Paper Award, AIHCIR</strong></li>
+        <li><span>2024</span><strong>3rd Place, ICDAR Multi-Font Group Recognition &amp; OCR Competition</strong></li>
+      </ul>
+    </section>
+
+    <section class="profile-panel" aria-labelledby="service-list-heading">
+      <h3 id="service-list-heading">Academic Service</h3>
+      <ul class="detail-list detail-list--stacked">
+        <li><span>Journals</span><strong>IEEE TCSVT, TMLR</strong></li>
+        <li><span>Program committee</span><strong>AAAI 2026, AAAI 2027</strong></li>
+        <li><span>Conference reviewer</span><strong>ICLR, CVPR, ICML, ECCV</strong></li>
+      </ul>
+    </section>
+
+    <section class="profile-panel" aria-labelledby="open-source-heading">
+      <h3 id="open-source-heading">Open Source</h3>
+      <p><strong>PaddleScience contributor.</strong> Integrated Crystal Graph CNN for materials chemistry, including crystal data processing and graph-network training.</p>
+      <a class="text-link" href="https://github.com/PaddlePaddle/PaddleScience/pull/977"><i class="fab fa-github" aria-hidden="true"></i> View merged PR #977 <span aria-hidden="true">↗</span></a>
+    </section>
+  </div>
+</section>
+
+<section class="contact-banner" aria-labelledby="contact-heading">
+  <div>
+    <p class="section-kicker"><span class="lang-switch" data-lang-en="Contact" data-lang-zh="联系方式">Contact</span></p>
+    <h2 id="contact-heading"><span class="lang-switch" data-lang-en="Open to research collaboration" data-lang-zh="期待研究合作与交流">Open to research collaboration</span></h2>
+    <p>State Key Laboratory of Multimodal Artificial Intelligence Systems, CASIA · Beijing, China</p>
+  </div>
+  <a class="button button--light" href="mailto:yi.chen@nlpr.ia.ac.cn">yi.chen@nlpr.ia.ac.cn</a>
+</section>

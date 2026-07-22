@@ -1,16 +1,16 @@
-# main links links
+# Primary single-page navigation
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Adjuvant"
+    url: "/adjuvant/"
+
+  - title: "Research"
+    url: "/#research-agenda"
+
+  - title: "Selected Work"
+    url: "/#selected-work"
 
   - title: "Publications"
-    url: "/#selected-publications"
+    url: "/#publications"
 
-  - title: "Research Interests"
-    url: "/#research-interests"
-
-  - title: "Academic Service"
-    url: "/#academic-service"
-
-  - title: "Open Source"
-    url: "/#open-source-contributions"
+  - title: "Background"
+    url: "/#service-contact"

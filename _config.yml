@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Chen - Academic Homepage"
-description              : "AI for Science | Multimodal Large Language Models | Handwritten Text Recognition"
+title                    : "Yi Chen | AI for Adjuvant Design"
+description              : "Yi Chen develops structured, knowledge-grounded AI systems for adjuvant design, multimodal reasoning, and scientific discovery."
 repository               : "banjiuyufen/banjiuyufen.github.io"
 google_scholar_stats_use_cdn : true
 
