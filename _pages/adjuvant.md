@@ -1,7 +1,7 @@
 ---
 permalink: /adjuvant/
 title: "AI for Adjuvant Design"
-excerpt: "A four-stage research program spanning benchmarks, domain models, neuro-symbolic verification, and autonomous scientific agents."
+excerpt: "Research on benchmarks, domain models, neuro-symbolic verification, and scientific agents for adjuvant design."
 author_profile: false
 body_class: adjuvant-program
 ---
@@ -12,7 +12,7 @@ body_class: adjuvant-program
     <p class="hero-eyebrow"><span class="lang-switch" data-lang-en="Research program" data-lang-zh="研究计划">Research program</span></p>
     <h1 id="adjuvant-title">AI for Adjuvant Design</h1>
     <p class="adjuvant-program-lede">
-      <span class="lang-switch" data-lang-en="A four-stage effort to build the infrastructure, models, verification systems, and agents needed for trustworthy AI-assisted adjuvant research." data-lang-zh="围绕可信AI辅助佐剂研究，逐步构建基础设施、领域模型、验证系统与自主智能体。">A four-stage effort to build the infrastructure, models, verification systems, and agents needed for trustworthy AI-assisted adjuvant research.</span>
+      <span class="lang-switch" data-lang-en="This program studies four components of AI-assisted adjuvant research: infrastructure, domain models, neuro-symbolic verification, and scientific agents." data-lang-zh="这一研究计划关注AI辅助佐剂研究的四个组成部分：基础设施、领域模型、神经符号验证与科学智能体。">This program studies four components of AI-assisted adjuvant research: infrastructure, domain models, neuro-symbolic verification, and scientific agents.</span>
     </p>
   </section>
 
@@ -21,7 +21,7 @@ body_class: adjuvant-program
       <source srcset="/images/adjuvant-roadmap.webp" type="image/webp">
       <img src="/images/adjuvant-roadmap.png" width="1672" height="941" alt="Four-stage visual roadmap progressing from adjuvant research infrastructure to a domain model, neuro-symbolic verification, and an autonomous research agent">
     </picture>
-    <figcaption><span class="lang-switch" data-lang-en="One connected program: structure the field, build domain intelligence, verify scientific claims, and close the loop with autonomous agents." data-lang-zh="一条连续研究路线：结构化领域、构建领域智能、验证科学结论，并以自主智能体形成闭环。">One connected program: structure the field, build domain intelligence, verify scientific claims, and close the loop with autonomous agents.</span></figcaption>
+    <figcaption><span class="lang-switch" data-lang-en="The program proceeds from problem formulation and data infrastructure to domain modeling, verification, and agent-based research workflows." data-lang-zh="研究路线从问题形式化与数据基础设施出发，延伸至领域建模、科学验证与智能体研究流程。">The program proceeds from problem formulation and data infrastructure to domain modeling, verification, and agent-based research workflows.</span></figcaption>
   </figure>
 
   <section class="program-stages" aria-labelledby="program-stages-title">
@@ -41,7 +41,7 @@ body_class: adjuvant-program
       <article class="program-stage-card program-stage-card--model">
         <div class="stage-card-meta"><span class="stage-number">02</span><span class="stage-state"><span class="lang-switch" data-lang-en="Model building" data-lang-zh="模型构建">Model building</span></span></div>
         <h3><span class="lang-switch" data-lang-en="Adjuvant Domain Model" data-lang-zh="佐剂领域大模型">Adjuvant Domain Model</span></h3>
-        <p><span class="lang-switch" data-lang-en="A multi-agent synthetic-data pipeline and domain-specific fine-tuning for stronger adjuvant knowledge and reasoning." data-lang-zh="通过多智能体合成数据流水线与领域微调，增强模型的佐剂知识与推理能力。">A multi-agent synthetic-data pipeline and domain-specific fine-tuning for stronger adjuvant knowledge and reasoning.</span></p>
+        <p><span class="lang-switch" data-lang-en="Multi-agent synthetic-data generation and domain-specific fine-tuning for adjuvant knowledge and reasoning." data-lang-zh="面向佐剂知识与推理的多智能体合成数据生成与领域微调。">Multi-agent synthetic-data generation and domain-specific fine-tuning for adjuvant knowledge and reasoning.</span></p>
       </article>
 
       <article class="program-stage-card program-stage-card--verify">
@@ -61,8 +61,8 @@ body_class: adjuvant-program
   <section class="program-outcome" aria-labelledby="program-outcome-title">
     <div>
       <p class="section-kicker"><span class="lang-switch" data-lang-en="Direction" data-lang-zh="长期目标">Direction</span></p>
-      <h2 id="program-outcome-title"><span class="lang-switch" data-lang-en="Toward a verifiable design loop" data-lang-zh="迈向可验证的设计闭环">Toward a verifiable design loop</span></h2>
-      <p><span class="lang-switch" data-lang-en="The goal is not merely to generate candidates, but to make every step inspectable, evidence-grounded, and useful to domain researchers." data-lang-zh="目标不只是生成候选方案，而是让每个环节都可检查、有证据依据，并真正服务于领域研究者。">The goal is not merely to generate candidates, but to make every step inspectable, evidence-grounded, and useful to domain researchers.</span></p>
+      <h2 id="program-outcome-title"><span class="lang-switch" data-lang-en="Verification across the design workflow" data-lang-zh="贯穿设计流程的科学验证">Verification across the design workflow</span></h2>
+      <p><span class="lang-switch" data-lang-en="The framework treats evidence retrieval, candidate generation, mechanistic verification, and iterative planning as explicit, inspectable components." data-lang-zh="该框架将证据检索、候选生成、机制验证与迭代规划作为显式且可检查的组成部分。">The framework treats evidence retrieval, candidate generation, mechanistic verification, and iterative planning as explicit, inspectable components.</span></p>
     </div>
     <div class="program-outcome-actions">
       <a class="button button--light" href="/#publications"><span class="lang-switch" data-lang-en="View publications" data-lang-zh="查看论文">View publications</span></a>
