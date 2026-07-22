@@ -33,12 +33,14 @@ redirect_from:
     <p class="section-kicker"><span class="lang-switch" data-lang-en="About" data-lang-zh="简介">About</span></p>
     <h2 id="about-heading"><span class="lang-switch" data-lang-en="Building scientific AI from structured data" data-lang-zh="以结构化数据构建科学人工智能">Building scientific AI from structured data</span></h2>
   </div>
-  <p class="intro-copy">
-    <span class="lang-switch" data-lang-en="I am a PhD candidate in Pattern Recognition and Intelligent Systems at the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), jointly trained with Zhongguancun Academy. I am advised by Prof. <a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=en'>Cheng-Lin Liu</a>." data-lang-zh="我是中国科学院自动化研究所多模态人工智能系统全国重点实验室（MAIS）与中关村学院联合培养的模式识别与智能系统博士研究生，导师为<a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN'>刘成林</a>研究员。">I am a PhD candidate in Pattern Recognition and Intelligent Systems at the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), jointly trained with Zhongguancun Academy. I am advised by Prof. <a href="https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=en">Cheng-Lin Liu</a>.</span>
-  </p>
-  <p class="intro-copy intro-copy--secondary">
-    <span class="lang-switch" data-lang-en="My broader work on reliable and efficient multimodal models, embodied reasoning, scientific agents, and handwriting intelligence provides a wide technical base for this agenda. The unifying method is structured data modeling across perception, language, scientific knowledge, and action." data-lang-zh="我在可靠高效的多模态模型、具身推理、科学智能体和手写智能方面的研究，为这一议程提供了广泛的技术基础。贯穿这些工作的共同方法是对感知、语言、科学知识与动作进行结构化数据建模。">My broader work on reliable and efficient multimodal models, embodied reasoning, scientific agents, and handwriting intelligence provides a wide technical base for this agenda. The unifying method is structured data modeling across perception, language, scientific knowledge, and action.</span>
-  </p>
+  <div class="intro-copy-stack">
+    <p class="intro-copy">
+      <span class="lang-switch" data-lang-en="I am a PhD candidate in Pattern Recognition and Intelligent Systems at the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), jointly trained with Zhongguancun Academy. I am advised by Prof. <a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=en'>Cheng-Lin Liu</a>." data-lang-zh="我是中国科学院自动化研究所多模态人工智能系统全国重点实验室（MAIS）与中关村学院联合培养的模式识别与智能系统博士研究生，导师为<a href='https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=zh-CN'>刘成林</a>研究员。">I am a PhD candidate in Pattern Recognition and Intelligent Systems at the State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), jointly trained with Zhongguancun Academy. I am advised by Prof. <a href="https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=en">Cheng-Lin Liu</a>.</span>
+    </p>
+    <p class="intro-copy intro-copy--secondary">
+      <span class="lang-switch" data-lang-en="My broader work on reliable and efficient multimodal models, embodied reasoning, scientific agents, and handwriting intelligence provides a wide technical base for this agenda. The unifying method is structured data modeling across perception, language, scientific knowledge, and action." data-lang-zh="我在可靠高效的多模态模型、具身推理、科学智能体和手写智能方面的研究，为这一议程提供了广泛的技术基础。贯穿这些工作的共同方法是对感知、语言、科学知识与动作进行结构化数据建模。">My broader work on reliable and efficient multimodal models, embodied reasoning, scientific agents, and handwriting intelligence provides a wide technical base for this agenda. The unifying method is structured data modeling across perception, language, scientific knowledge, and action.</span>
+    </p>
+  </div>
 </section>
 
 <span class="anchor" id="research-agenda"></span>
@@ -120,7 +122,7 @@ redirect_from:
   <article class="paper-card paper-card--primary">
     <div class="paper-card__media">
       <span class="paper-badge">ICLR 2026</span>
-      <img src="images/adj_bench.png" alt="Overview of the open-ended benchmark and formal framework for adjuvant research" loading="lazy">
+      <img src="/images/adj_bench.png" alt="Overview of the open-ended benchmark and formal framework for adjuvant research" loading="lazy">
     </div>
     <div class="paper-card__body">
       <p class="paper-stage">01 · Problem definition &amp; benchmarking</p>
@@ -137,7 +139,7 @@ redirect_from:
   <article class="paper-card paper-card--primary">
     <div class="paper-card__media">
       <span class="paper-badge">Preprint · 2026</span>
-      <img src="images/SAVANT.png" alt="SAVANT neuro-symbolic verification framework" loading="lazy">
+      <img src="/images/SAVANT.png" alt="SAVANT neuro-symbolic verification framework" loading="lazy">
     </div>
     <div class="paper-card__body">
       <p class="paper-stage">02 · Design generation &amp; verification</p>
@@ -156,7 +158,7 @@ redirect_from:
     <article class="paper-card paper-card--compact">
       <div class="paper-card__media">
         <span class="paper-badge">Preprint · 2026</span>
-        <img src="images/VisTopo.png" alt="VisTopo topology-aware spatial grounding framework" loading="lazy">
+        <img src="/images/VisTopo.png" alt="VisTopo topology-aware spatial grounding framework" loading="lazy">
       </div>
       <div class="paper-card__body">
         <h4>Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners</h4>
@@ -168,7 +170,7 @@ redirect_from:
     <article class="paper-card paper-card--compact">
       <div class="paper-card__media">
         <span class="paper-badge">AAAI 2025</span>
-        <img src="images/Recoverable Compression.png" alt="Recoverable Compression visual token recovery mechanism" loading="lazy">
+        <img src="/images/Recoverable Compression.png" alt="Recoverable Compression visual token recovery mechanism" loading="lazy">
       </div>
       <div class="paper-card__body">
         <h4><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32229">Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information</a></h4>
@@ -198,8 +200,14 @@ redirect_from:
       <div><p>Core research agenda</p><h3>AI for Adjuvant Design</h3></div>
     </div>
     <ul class="publication-list">
-      <li><a href="https://openreview.net/forum?id=moeOrHkDg2">An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM</a>, <strong>Yi Chen*</strong>, Yu Zhang*, Jian Xu, et al. <span class="venue">ICLR 2026</span></li>
-      <li><span class="publication-title">SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</span>, <strong>Yi Chen</strong>, Yu Zhang, Jian Xu, et al. <span class="venue venue--neutral">Preprint 2026</span></li>
+      <li>
+        <div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=moeOrHkDg2">An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM</a></span><span class="publication-entry__authors"><strong>Yi Chen*</strong>, Yu Zhang*, Jian Xu, et al.</span></div>
+        <div class="publication-entry__meta"><span class="venue">ICLR 2026</span></div>
+      </li>
+      <li>
+        <div><span class="publication-entry__title">SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</span><span class="publication-entry__authors"><strong>Yi Chen</strong>, Yu Zhang, Jian Xu, et al.</span></div>
+        <div class="publication-entry__meta"><span class="venue venue--neutral">Preprint 2026</span></div>
+      </li>
     </ul>
   </div>
 
@@ -209,14 +217,14 @@ redirect_from:
       <div><p>Technical foundations</p><h3>Structured Multimodal Modeling &amp; Reasoning</h3></div>
     </div>
     <ul class="publication-list">
-      <li><span class="publication-title">Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners</span>, <strong>Yi Chen</strong>, MingMing Yu, Boran Wang, et al. <span class="venue venue--neutral">Preprint 2026</span></li>
-      <li><a href="https://arxiv.org/abs/2601.08209">Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models</a>, Rongji Li, Jian Xu, <strong>Yi Chen</strong>, et al. <span class="venue venue--neutral">Preprint 2026</span></li>
-      <li><a href="https://openreview.net/forum?id=six75YUGgS">One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models</a>, Wenzhuo Liu, Weijie Yin, Fei Zhu, et al., <strong>Yi Chen</strong>. <span class="venue">ICLR 2026</span></li>
-      <li><span class="publication-title">Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients</span>, Ziwen Xiang, Fanhu Zeng, Hongjian Fang, et al., <strong>Yi Chen</strong>. <span class="venue">CVPR 2026</span></li>
-      <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32229">Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information</a>, <strong>Yi Chen</strong>, Jian Xu, Xu-Yao Zhang, et al. <span class="venue">AAAI 2025</span> <a class="icon-link" href="https://github.com/banjiuyufen/RecoverableCompression" aria-label="Recoverable Compression code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a></li>
-      <li><a href="https://arxiv.org/abs/2409.01162">Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models</a>, <strong>Yi Chen*</strong>, Gao-Tong Yu*, Jian Xu. <span class="venue venue--neutral">Preprint 2024</span></li>
-      <li><a href="https://arxiv.org/abs/2510.24794">MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models</a>, Xinming Wang, Jian Xu, Bin Yu, et al., <strong>Yi Chen</strong>. <span class="venue">ACL 2026 Findings</span></li>
-      <li><span class="publication-title">ElementCheck: Long-Form Text Factuality Evaluation via Sentence-Level Fact Elements</span>, Xinming Wang, Haoran Du, <strong>Yi Chen</strong>, et al. <span class="venue venue--neutral">Preprint 2026</span></li>
+      <li><div><span class="publication-entry__title">Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners</span><span class="publication-entry__authors"><strong>Yi Chen</strong>, MingMing Yu, Boran Wang, et al.</span></div><div class="publication-entry__meta"><span class="venue venue--neutral">Preprint 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2601.08209">Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models</a></span><span class="publication-entry__authors">Rongji Li, Jian Xu, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="venue venue--neutral">Preprint 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=six75YUGgS">One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models</a></span><span class="publication-entry__authors">Wenzhuo Liu, Weijie Yin, Fei Zhu, et al., <strong>Yi Chen</strong>.</span></div><div class="publication-entry__meta"><span class="venue">ICLR 2026</span></div></li>
+      <li><div><span class="publication-entry__title">Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients</span><span class="publication-entry__authors">Ziwen Xiang, Fanhu Zeng, Hongjian Fang, et al., <strong>Yi Chen</strong>.</span></div><div class="publication-entry__meta"><span class="venue">CVPR 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32229">Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information</a></span><span class="publication-entry__authors"><strong>Yi Chen</strong>, Jian Xu, Xu-Yao Zhang, et al.</span></div><div class="publication-entry__meta"><span class="venue">AAAI 2025</span><a class="icon-link" href="https://github.com/banjiuyufen/RecoverableCompression" aria-label="Recoverable Compression code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2409.01162">Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models</a></span><span class="publication-entry__authors"><strong>Yi Chen*</strong>, Gao-Tong Yu*, Jian Xu.</span></div><div class="publication-entry__meta"><span class="venue venue--neutral">Preprint 2024</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2510.24794">MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models</a></span><span class="publication-entry__authors">Xinming Wang, Jian Xu, Bin Yu, et al., <strong>Yi Chen</strong>.</span></div><div class="publication-entry__meta"><span class="venue">ACL 2026 Findings</span></div></li>
+      <li><div><span class="publication-entry__title">ElementCheck: Long-Form Text Factuality Evaluation via Sentence-Level Fact Elements</span><span class="publication-entry__authors">Xinming Wang, Haoran Du, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="venue venue--neutral">Preprint 2026</span></div></li>
     </ul>
   </div>
 
@@ -226,19 +234,19 @@ redirect_from:
       <div><p>Broader capabilities</p><h3>Scientific, Embodied &amp; Domain Work</h3></div>
     </div>
     <ul class="publication-list">
-      <li><span class="topic-label">Science</span><span class="publication-title">An Efficient Strategy for Data-Constrained Machine Learning in Materials Science</span>, ChunTing Shao*, <strong>Yi Chen*</strong>, ShanMan Song, et al. <span class="venue">MGE Advances</span></li>
-      <li><span class="topic-label">Science</span><a href="https://arxiv.org/abs/2508.06859">MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction</a>, Shuo Tang, Jian Xu, Jiadong Zhang, <strong>Yi Chen</strong>, et al. <span class="venue">CVPR 2026</span></li>
-      <li><span class="topic-label">Science</span><a href="https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents">The Hitchhiker's Guide to Scientific Agents: A Journey Through the Cosmos of Research Automation</a>, Xinming Wang, Aslan Feng, Jian Xu, <strong>Yi Chen</strong>, et al. <span class="venue venue--neutral">TechRxiv 2024</span></li>
-      <li><span class="topic-label">Embodied</span><a href="https://arxiv.org/abs/2512.24212">RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation</a>, Ming-Ming Yu, <strong>Yi Chen</strong>, Börje F. Karlsson, Wenjun Wu. <span class="venue">ICRA 2026 · Oral</span></li>
-      <li><span class="topic-label">Agents</span><a href="https://arxiv.org/abs/2512.14040">ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning</a>, Boran Wang, Xinming Wang, <strong>Yi Chen</strong>, et al. <span class="venue">CVPR 2026</span></li>
-      <li><span class="topic-label">Video</span><a href="https://arxiv.org/abs/2507.21507">VAGU &amp; GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding</a>, Shibo Gao, Peipei Yang, <strong>Yi Chen</strong>, et al. <span class="venue">AAAI 2026</span></li>
-      <li><span class="topic-label">Video</span><a href="https://arxiv.org/abs/2507.21649">The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM</a>, Shibo Gao, Peipei Yang, Haiyang Guo, et al., <strong>Yi Chen</strong>. <span class="venue venue--neutral">Preprint 2025</span></li>
-      <li><span class="topic-label">Learning</span><a href="https://doi.org/10.1109/AIHCIR67580.2025.11405062">ManiNet: Manifold Network for Few-Shot Learning</a>, Ruiqi Wang, Hengcan Shi, <strong>Yi Chen</strong>, YaoNan Wang. <span class="venue">AIHCIR 2025 · Best Paper</span></li>
-      <li><span class="topic-label">Handwriting</span><span class="publication-title">CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild</span>, Haijie Yuan, Yiming Zhang, Dekang Ran, <strong>Yi Chen</strong>, et al. <span class="venue venue--neutral">Preprint 2026</span></li>
-      <li><span class="topic-label">Handwriting</span><a href="https://arxiv.org/abs/2410.02309">Decoupling Layout from Glyph in Online Chinese Handwriting Generation</a>, Min-Si Ren, Yan-Ming Zhang, <strong>Yi Chen</strong>. <span class="venue">ICLR 2025</span></li>
-      <li><span class="topic-label">Handwriting</span><a href="https://link.springer.com/chapter/10.1007/978-3-031-78183-4_24">Recognition of Online Handwritten Chinese Texts in Any Writing Direction via Stroke Classification Based Over-Segmentation</a>, <strong>Yi Chen</strong>, Heng Zhang, Min-Si Ren, Cheng-Lin Liu. <span class="venue">ICPR 2024</span></li>
-      <li><span class="topic-label">Handwriting</span><a href="https://link.springer.com/chapter/10.1007/978-3-031-70533-5_9">Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition</a>, Yang-Yang Liu, <strong>Yi Chen</strong>, Fei Yin, Cheng-Lin Liu. <span class="venue">ICDAR 2024</span></li>
-      <li><span class="topic-label">Handwriting</span><a href="https://link.springer.com/chapter/10.1007/978-3-031-41685-9_3">Improved Learning for Online Handwritten Chinese Text Recognition with Convolutional Prototype Network</a>, <strong>Yi Chen</strong>, Heng Zhang, Cheng-Lin Liu. <span class="venue">ICDAR 2023</span></li>
+      <li><div><span class="publication-entry__title">An Efficient Strategy for Data-Constrained Machine Learning in Materials Science</span><span class="publication-entry__authors">ChunTing Shao*, <strong>Yi Chen*</strong>, ShanMan Song, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Science</span><span class="venue">MGE Advances</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2508.06859">MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction</a></span><span class="publication-entry__authors">Shuo Tang, Jian Xu, Jiadong Zhang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Science</span><span class="venue">CVPR 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://www.techrxiv.org/users/951553/articles/1320864-the-hitchhiker-s-guide-to-autonomous-research-a-survey-of-scientific-agents">The Hitchhiker's Guide to Scientific Agents: A Journey Through the Cosmos of Research Automation</a></span><span class="publication-entry__authors">Xinming Wang, Aslan Feng, Jian Xu, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Science</span><span class="venue venue--neutral">TechRxiv 2024</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2512.24212">RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation</a></span><span class="publication-entry__authors">Ming-Ming Yu, <strong>Yi Chen</strong>, Börje F. Karlsson, Wenjun Wu.</span></div><div class="publication-entry__meta"><span class="topic-label">Embodied</span><span class="venue">ICRA 2026 · Oral</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2512.14040">ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning</a></span><span class="publication-entry__authors">Boran Wang, Xinming Wang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Agents</span><span class="venue">CVPR 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2507.21507">VAGU &amp; GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding</a></span><span class="publication-entry__authors">Shibo Gao, Peipei Yang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Video</span><span class="venue">AAAI 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2507.21649">The Evolution of Video Anomaly Detection: A Unified Framework from DNN to MLLM</a></span><span class="publication-entry__authors">Shibo Gao, Peipei Yang, Haiyang Guo, et al., <strong>Yi Chen</strong>.</span></div><div class="publication-entry__meta"><span class="topic-label">Video</span><span class="venue venue--neutral">Preprint 2025</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://doi.org/10.1109/AIHCIR67580.2025.11405062">ManiNet: Manifold Network for Few-Shot Learning</a></span><span class="publication-entry__authors">Ruiqi Wang, Hengcan Shi, <strong>Yi Chen</strong>, YaoNan Wang.</span></div><div class="publication-entry__meta"><span class="topic-label">Learning</span><span class="venue">AIHCIR 2025 · Best Paper</span></div></li>
+      <li><div><span class="publication-entry__title">CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild</span><span class="publication-entry__authors">Haijie Yuan, Yiming Zhang, Dekang Ran, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Handwriting</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2410.02309">Decoupling Layout from Glyph in Online Chinese Handwriting Generation</a></span><span class="publication-entry__authors">Min-Si Ren, Yan-Ming Zhang, <strong>Yi Chen</strong>.</span></div><div class="publication-entry__meta"><span class="topic-label">Handwriting</span><span class="venue">ICLR 2025</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-78183-4_24">Recognition of Online Handwritten Chinese Texts in Any Writing Direction via Stroke Classification Based Over-Segmentation</a></span><span class="publication-entry__authors"><strong>Yi Chen</strong>, Heng Zhang, Min-Si Ren, Cheng-Lin Liu.</span></div><div class="publication-entry__meta"><span class="topic-label">Handwriting</span><span class="venue">ICPR 2024</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-70533-5_9">Context-Aware Confidence Estimation for Rejection in Handwritten Chinese Text Recognition</a></span><span class="publication-entry__authors">Yang-Yang Liu, <strong>Yi Chen</strong>, Fei Yin, Cheng-Lin Liu.</span></div><div class="publication-entry__meta"><span class="topic-label">Handwriting</span><span class="venue">ICDAR 2024</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://link.springer.com/chapter/10.1007/978-3-031-41685-9_3">Improved Learning for Online Handwritten Chinese Text Recognition with Convolutional Prototype Network</a></span><span class="publication-entry__authors"><strong>Yi Chen</strong>, Heng Zhang, Cheng-Lin Liu.</span></div><div class="publication-entry__meta"><span class="topic-label">Handwriting</span><span class="venue">ICDAR 2023</span></div></li>
     </ul>
   </div>
 </section>
