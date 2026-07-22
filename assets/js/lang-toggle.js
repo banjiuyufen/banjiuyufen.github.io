@@ -24,6 +24,10 @@
       toggle.textContent = nextLanguage;
       toggle.setAttribute("aria-label", language === "en" ? "切换至中文" : "Switch to English");
     }
+
+    document.dispatchEvent(new CustomEvent("site:languagechange", {
+      detail: { language: language }
+    }));
   }
 
   document.addEventListener("DOMContentLoaded", function () {

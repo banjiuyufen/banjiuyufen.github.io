@@ -105,7 +105,7 @@ button:focus-visible {
 
 .greedy-nav a {
   color: var(--ink);
-  font-size: 0.86rem;
+  font-size: 0.92rem;
   font-weight: 650;
   letter-spacing: 0.01em;
 }
@@ -160,7 +160,7 @@ button:focus-visible {
 }
 
 .page__content {
-  font-size: 1rem;
+  font-size: 1.04rem;
   line-height: 1.7;
 }
 
@@ -230,7 +230,7 @@ button:focus-visible {
 .section-kicker {
   margin: 0;
   color: var(--teal);
-  font-size: 0.72rem;
+  font-size: 0.82rem;
   font-weight: 800;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -333,12 +333,12 @@ button:focus-visible {
 .intro-copy {
   margin: 0;
   color: #29474c;
-  font-size: 1.06rem;
+  font-size: 1.12rem;
 }
 
 .intro-copy--secondary {
   color: var(--muted);
-  font-size: 0.94rem;
+  font-size: 1rem;
 }
 
 .section-heading {
@@ -363,32 +363,76 @@ button:focus-visible {
 }
 
 .agenda-card {
-  min-height: 235px;
-  padding: 1.45rem;
+  --agenda-lift: 0px;
+  --agenda-rx: 0deg;
+  --agenda-ry: 0deg;
+  --agenda-mx: 50%;
+  --agenda-my: 50%;
+  position: relative;
+  isolation: isolate;
+  min-height: 245px;
+  overflow: hidden;
+  padding: 1.55rem;
   border: 1px solid var(--line);
   border-radius: 1rem;
   background: rgba(255, 254, 249, 0.75);
+  cursor: pointer;
+  transform: perspective(1000px) translateY(var(--agenda-lift)) rotateX(var(--agenda-rx)) rotateY(var(--agenda-ry));
+  transform-style: preserve-3d;
+  transition: transform 0.24s ease, border-color 0.24s ease, background 0.24s ease, box-shadow 0.24s ease;
+  will-change: transform;
 }
 
-.agenda-card--primary {
+.agenda-card::after {
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  background: radial-gradient(circle at var(--agenda-mx) var(--agenda-my), rgba(15, 107, 100, 0.14), transparent 42%);
+  content: "";
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.24s ease;
+}
+
+.agenda-card > * {
+  position: relative;
+  z-index: 1;
+}
+
+.agenda-card:hover,
+.agenda-card:focus-visible,
+.agenda-card.is-active {
+  --agenda-lift: -6px;
   border-color: rgba(15, 107, 100, 0.32);
   background: var(--teal-soft);
+  box-shadow: 0 16px 36px rgba(20, 43, 47, 0.11);
+}
+
+.agenda-card:hover::after,
+.agenda-card:focus-visible::after,
+.agenda-card.is-active::after {
+  opacity: 1;
+}
+
+.agenda-card:focus-visible {
+  outline: 3px solid rgba(215, 148, 53, 0.55);
+  outline-offset: 3px;
 }
 
 .agenda-card h3 {
   margin: 1.65rem 0 0.6rem;
-  font-size: 1.23rem;
+  font-size: clamp(1.28rem, 1.8vw, 1.42rem);
 }
 
 .agenda-card p {
   margin: 0;
   color: var(--muted);
-  font-size: 0.89rem;
+  font-size: 0.96rem;
 }
 
 .agenda-label {
   color: var(--teal-dark);
-  font-size: 0.68rem;
+  font-size: 0.76rem;
   font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -404,6 +448,12 @@ button:focus-visible {
   border-radius: 1rem;
   background: var(--ink);
   color: white;
+  transition: opacity 0.16s ease, transform 0.16s ease;
+}
+
+.research-path.is-updating {
+  opacity: 0.72;
+  transform: translateY(3px);
 }
 
 .path-step {
@@ -415,20 +465,20 @@ button:focus-visible {
 .path-number {
   grid-row: span 2;
   color: #80c6bc;
-  font-size: 0.72rem;
+  font-size: 0.78rem;
   font-weight: 800;
 }
 
 .path-step h3 {
   margin: 0;
   color: white;
-  font-size: 0.95rem;
+  font-size: 1.04rem;
 }
 
 .path-step p {
   margin: 0.2rem 0 0;
   color: #c8d8d9;
-  font-size: 0.75rem;
+  font-size: 0.82rem;
   line-height: 1.45;
 }
 
@@ -531,7 +581,7 @@ button:focus-visible {
 .paper-stage {
   margin: 0 0 0.5rem !important;
   color: var(--teal) !important;
-  font-size: 0.68rem !important;
+  font-size: 0.74rem !important;
   font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -539,7 +589,7 @@ button:focus-visible {
 
 .paper-card h4 {
   margin: 0 0 0.65rem;
-  font-size: clamp(1.02rem, 1.8vw, 1.28rem);
+  font-size: clamp(1.08rem, 1.8vw, 1.34rem);
   line-height: 1.28;
 }
 
@@ -555,7 +605,7 @@ button:focus-visible {
 .paper-authors {
   margin: 0 0 0.8rem !important;
   color: var(--muted);
-  font-size: 0.78rem !important;
+  font-size: 0.84rem !important;
   line-height: 1.55;
 }
 
@@ -563,7 +613,7 @@ button:focus-visible {
   margin: 0.75rem 0 1rem;
   padding-left: 1.05rem;
   color: #345156;
-  font-size: 0.82rem;
+  font-size: 0.88rem;
 }
 
 .paper-contributions li {
@@ -576,7 +626,7 @@ button:focus-visible {
   gap: 0.35rem;
   align-items: center;
   color: var(--teal-dark) !important;
-  font-size: 0.75rem;
+  font-size: 0.82rem;
   font-weight: 780;
   text-decoration: none !important;
 }
@@ -600,7 +650,7 @@ button:focus-visible {
 
 .paper-card--compact .paper-card__body > p:last-of-type {
   color: var(--muted);
-  font-size: 0.82rem;
+  font-size: 0.88rem;
 }
 
 .publication-group {
@@ -617,31 +667,21 @@ button:focus-visible {
 }
 
 .publication-group__heading {
-  display: grid;
-  grid-template-columns: 2.5rem 1fr;
-  gap: 0.8rem;
-  align-items: start;
-  margin-bottom: 1.1rem;
-}
-
-.publication-index {
-  color: var(--amber);
-  font-size: 0.72rem;
-  font-weight: 850;
+  margin-bottom: 1.25rem;
 }
 
 .publication-group__heading p {
   margin: 0 !important;
   color: var(--teal) !important;
-  font-size: 0.65rem !important;
+  font-size: 0.76rem !important;
   font-weight: 800;
   letter-spacing: 0.09em;
   text-transform: uppercase;
 }
 
 .publication-group__heading h3 {
-  margin: 0.15rem 0 0;
-  font-size: 1.2rem;
+  margin: 0.22rem 0 0;
+  font-size: clamp(1.34rem, 2.2vw, 1.58rem);
 }
 
 .publication-list {
@@ -655,17 +695,17 @@ button:focus-visible {
   grid-template-columns: minmax(0, 1fr) auto;
   gap: 0.4rem 1rem;
   align-items: start;
-  padding: 0.95rem 0;
+  padding: 1.08rem 0;
   border-top: 1px solid var(--line);
   color: #3d565a;
-  font-size: 0.8rem !important;
+  font-size: 0.86rem !important;
   line-height: 1.48;
 }
 
 .publication-entry__title {
   display: block;
   color: var(--ink);
-  font-size: 0.87rem;
+  font-size: 0.95rem;
   font-weight: 760;
   line-height: 1.38;
 }
@@ -708,7 +748,7 @@ button:focus-visible {
   border-radius: 999px;
   background: var(--amber-soft);
   color: #855413;
-  font-size: 0.62rem;
+  font-size: 0.67rem;
   font-weight: 820;
   letter-spacing: 0.02em;
   white-space: nowrap;
@@ -747,12 +787,12 @@ button:focus-visible {
 
 .profile-panel h3 {
   margin: 0 0 1rem;
-  font-size: 1rem;
+  font-size: 1.12rem;
 }
 
 .profile-panel > p {
   color: var(--muted);
-  font-size: 0.83rem;
+  font-size: 0.9rem;
 }
 
 .timeline-list,
@@ -773,7 +813,7 @@ button:focus-visible {
 .timeline-list time,
 .detail-list span {
   color: var(--teal);
-  font-size: 0.68rem;
+  font-size: 0.75rem;
   font-weight: 800;
 }
 
@@ -783,13 +823,13 @@ button:focus-visible {
 }
 
 .timeline-list strong {
-  font-size: 0.78rem;
+  font-size: 0.86rem;
 }
 
 .timeline-list div > span {
   margin-top: 0.15rem;
   color: var(--muted);
-  font-size: 0.72rem;
+  font-size: 0.79rem;
 }
 
 .detail-list li {
@@ -801,7 +841,7 @@ button:focus-visible {
 }
 
 .detail-list strong {
-  font-size: 0.76rem;
+  font-size: 0.84rem;
 }
 
 .detail-list--stacked li {
