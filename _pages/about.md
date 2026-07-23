@@ -211,6 +211,9 @@ redirect_from:
       <button class="publication-filter" type="button" data-filter="survey" aria-pressed="false">Survey<span class="publication-filter__count" aria-hidden="true"></span></button>
     </div>
     <p class="publication-filter-status" aria-live="polite"></p>
+    <p class="publication-order-note">
+      <span class="lang-switch" data-lang-en="Order: newest year first; within each year, earlier Yi Chen author positions first." data-lang-zh="排序规则：年份倒序；同年内 Yi Chen 作者位次靠前者优先。">Order: newest year first; within each year, earlier Yi Chen author positions first.</span>
+    </p>
   </div>
 
   <div class="publication-group publication-group--primary">
