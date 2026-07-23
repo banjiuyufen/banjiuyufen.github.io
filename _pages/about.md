@@ -196,7 +196,49 @@ redirect_from:
 
   <div class="publication-filter-panel" data-publication-filter>
     <div class="publication-filters" role="group" aria-label="Filter publications by research area">
-      <button class="publication-filter is-active" type="button" data-filter="all" aria-pressed="true"><span class="lang-switch" data-lang-en="All" data-lang-z…1579 tokens truncated…thors">Xinming Wang, Haoran Du, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">NLP</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
+      <button class="publication-filter is-active" type="button" data-filter="all" aria-pressed="true"><span class="lang-switch" data-lang-en="All" data-lang-zh="全部">All</span><span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="ai-for-science" aria-pressed="false">AI for Science<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="multimodal" aria-pressed="false">Multimodal<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="llms" aria-pressed="false">LLMs<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="nlp" aria-pressed="false">NLP<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="efficient-mllms" aria-pressed="false">Efficient MLLMs<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="embodied-ai" aria-pressed="false">Embodied AI<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="agents" aria-pressed="false">Agents<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="video" aria-pressed="false">Video<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="ocr" aria-pressed="false">OCR<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="machine-learning" aria-pressed="false">Machine Learning<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="generative-modeling" aria-pressed="false">Generative Modeling<span class="publication-filter__count" aria-hidden="true"></span></button>
+      <button class="publication-filter" type="button" data-filter="survey" aria-pressed="false">Survey<span class="publication-filter__count" aria-hidden="true"></span></button>
+    </div>
+    <p class="publication-filter-status" aria-live="polite"></p>
+    <p class="publication-order-note">
+      <span class="lang-switch" data-lang-en="Order: newest year first; within each year, earlier Yi Chen author positions first." data-lang-zh="排序规则：年份倒序；同年内 Yi Chen 作者位次靠前者优先。">Order: newest year first; within each year, earlier Yi Chen author positions first.</span>
+    </p>
+  </div>
+
+  <div class="publication-group publication-group--primary">
+    <div class="publication-group__heading">
+      <div><p>Core research agenda</p><h3>AI for Adjuvant Design</h3></div>
+    </div>
+    <ul class="publication-list">
+      <li>
+        <div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=moeOrHkDg2">An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM</a></span><span class="publication-entry__authors"><strong>Yi Chen*</strong>, Yu Zhang*, Jian Xu, et al.</span></div>
+        <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">ICLR 2026</span></div>
+      </li>
+      <li>
+        <div><span class="publication-entry__title">SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</span><span class="publication-entry__authors"><strong>Yi Chen</strong>, Yu Zhang, Jian Xu, et al.</span></div>
+        <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue venue--neutral">Preprint 2026</span></div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="publication-group">
+    <div class="publication-group__heading">
+      <div><p>Technical foundations</p><h3>Structured Multimodal Modeling &amp; Reasoning</h3></div>
+    </div>
+    <ul class="publication-list">
+      <li><div><span class="publication-entry__title">Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners</span><span class="publication-entry__authors"><strong>Yi Chen</strong>, MingMing Yu, Boran Wang, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
+      <li><div><span class="publication-entry__title">ElementCheck: Long-Form Text Factuality Evaluation via Sentence-Level Fact Elements</span><span class="publication-entry__authors">Xinming Wang, Haoran Du, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">NLP</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2601.08209">Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models</a></span><span class="publication-entry__authors">Rongji Li, Jian Xu, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">LLMs</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title">BioChartBench: A Benchmark for Structured Quantitative Extraction from Biomedical Charts</span><span class="publication-entry__authors">Zequan Lyu, Yu Zhang, Boran Wang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title">OpenFC: Learning Verification Policies for Open-Search Fact Checking</span><span class="publication-entry__authors">Xinming Wang, Kaixiang Qiu, Yansong Lin, Chunji Iv, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">NLP</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
