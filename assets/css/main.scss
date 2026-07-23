@@ -961,20 +961,22 @@ button:focus-visible {
 }
 
 .profile-panel {
-  padding: 1.4rem;
+  padding: clamp(1.5rem, 2.2vw, 1.8rem);
   border: 1px solid var(--line);
   border-radius: 1rem;
   background: var(--paper);
 }
 
 .profile-panel h3 {
-  margin: 0 0 1rem;
-  font-size: 1.12rem;
+  margin: 0 0 1.15rem;
+  font-size: 1.28rem;
+  line-height: 1.25;
 }
 
 .profile-panel > p {
   color: var(--muted);
-  font-size: 0.9rem;
+  font-size: 1rem;
+  line-height: 1.65;
 }
 
 .timeline-list,
@@ -986,17 +988,18 @@ button:focus-visible {
 
 .timeline-list li {
   display: grid;
-  grid-template-columns: 6rem 1fr;
-  gap: 0.7rem;
-  padding: 0.65rem 0;
+  grid-template-columns: 6.8rem 1fr;
+  gap: 0.85rem;
+  padding: 0.82rem 0;
   border-top: 1px solid var(--line);
 }
 
 .timeline-list time,
 .detail-list span {
   color: var(--teal);
-  font-size: 0.75rem;
+  font-size: 0.86rem;
   font-weight: 800;
+  line-height: 1.45;
 }
 
 .timeline-list strong,
@@ -1005,29 +1008,32 @@ button:focus-visible {
 }
 
 .timeline-list strong {
-  font-size: 0.86rem;
+  font-size: 0.98rem;
+  line-height: 1.45;
 }
 
 .timeline-list div > span {
-  margin-top: 0.15rem;
+  margin-top: 0.22rem;
   color: var(--muted);
-  font-size: 0.79rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
 }
 
 .detail-list li {
   display: grid;
-  grid-template-columns: 4rem 1fr;
-  gap: 0.7rem;
-  padding: 0.65rem 0;
+  grid-template-columns: 4.7rem 1fr;
+  gap: 0.85rem;
+  padding: 0.82rem 0;
   border-top: 1px solid var(--line);
 }
 
 .detail-list strong {
-  font-size: 0.84rem;
+  font-size: 0.96rem;
+  line-height: 1.45;
 }
 
 .detail-list--stacked li {
-  grid-template-columns: 7rem 1fr;
+  grid-template-columns: 8rem 1fr;
 }
 
 .contact-banner {
