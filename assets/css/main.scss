@@ -669,9 +669,9 @@ button:focus-visible {
 
 .publication-filter,
 .topic-label {
-  --topic-bg: var(--teal-soft);
-  --topic-ink: var(--teal-dark);
-  --topic-border: rgba(15, 107, 100, 0.24);
+  --topic-bg: #e2f0ed;
+  --topic-ink: #0b625d;
+  --topic-border: #b7d5d0;
 }
 
 .publication-filter {
@@ -739,90 +739,6 @@ button:focus-visible {
   margin: 0.18rem 0 0 !important;
   color: #738286 !important;
   font-size: 0.72rem !important;
-}
-
-.publication-filter[data-filter="ai-for-science"],
-.topic-label[data-topic="ai-for-science"] {
-  --topic-bg: #e9f0e4;
-  --topic-ink: #3f6738;
-  --topic-border: #bdd0b5;
-}
-
-.publication-filter[data-filter="multimodal"],
-.topic-label[data-topic="multimodal"] {
-  --topic-bg: #e5eef6;
-  --topic-ink: #315f86;
-  --topic-border: #b9ccde;
-}
-
-.publication-filter[data-filter="llms"],
-.topic-label[data-topic="llms"] {
-  --topic-bg: #f3e7ec;
-  --topic-ink: #81445a;
-  --topic-border: #dcbac7;
-}
-
-.publication-filter[data-filter="nlp"],
-.topic-label[data-topic="nlp"] {
-  --topic-bg: #dff0ed;
-  --topic-ink: #116c65;
-  --topic-border: #a9d1ca;
-}
-
-.publication-filter[data-filter="efficient-mllms"],
-.topic-label[data-topic="efficient-mllms"] {
-  --topic-bg: #f7ecd8;
-  --topic-ink: #865914;
-  --topic-border: #e1c99d;
-}
-
-.publication-filter[data-filter="embodied-ai"],
-.topic-label[data-topic="embodied-ai"] {
-  --topic-bg: #e6eee1;
-  --topic-ink: #4b6b3e;
-  --topic-border: #bfd0b4;
-}
-
-.publication-filter[data-filter="agents"],
-.topic-label[data-topic="agents"] {
-  --topic-bg: #ece8f5;
-  --topic-ink: #62508b;
-  --topic-border: #c9bfdf;
-}
-
-.publication-filter[data-filter="video"],
-.topic-label[data-topic="video"] {
-  --topic-bg: #e4ecf7;
-  --topic-ink: #3d6092;
-  --topic-border: #b9c9df;
-}
-
-.publication-filter[data-filter="ocr"],
-.topic-label[data-topic="ocr"] {
-  --topic-bg: #f4e8de;
-  --topic-ink: #87502d;
-  --topic-border: #ddc0aa;
-}
-
-.publication-filter[data-filter="machine-learning"],
-.topic-label[data-topic="machine-learning"] {
-  --topic-bg: #e7ecec;
-  --topic-ink: #526569;
-  --topic-border: #c2cecf;
-}
-
-.publication-filter[data-filter="generative-modeling"],
-.topic-label[data-topic="generative-modeling"] {
-  --topic-bg: #f3e5ef;
-  --topic-ink: #82446f;
-  --topic-border: #dbbad1;
-}
-
-.publication-filter[data-filter="survey"],
-.topic-label[data-topic="survey"] {
-  --topic-bg: #eceeef;
-  --topic-ink: #5c656a;
-  --topic-border: #cbd0d2;
 }
 
 .publication-group {
@@ -926,9 +842,10 @@ button:focus-visible {
   display: inline-block;
   margin: 0;
   padding: 0.15rem 0.45rem;
+  border: 1px solid #e2c894;
   border-radius: 999px;
-  background: var(--amber-soft);
-  color: #855413;
+  background: #fff0d6;
+  color: #825312;
   font-size: 0.67rem;
   font-weight: 820;
   letter-spacing: 0.02em;
@@ -936,8 +853,9 @@ button:focus-visible {
 }
 
 .venue--neutral {
-  background: #e8ece9;
-  color: #536568;
+  border-color: #d9cbb6;
+  background: #f4ede3;
+  color: #705c3d;
 }
 
 .topic-label {
