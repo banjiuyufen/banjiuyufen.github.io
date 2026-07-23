@@ -710,6 +710,12 @@ button:focus-visible {
   box-shadow: 0 6px 14px rgba(23, 49, 52, 0.14);
 }
 
+.publication-filter[hidden],
+.publication-group[hidden],
+.publication-list > li[hidden] {
+  display: none !important;
+}
+
 .publication-filter__count {
   display: inline-grid;
   min-width: 1.28rem;
