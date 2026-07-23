@@ -52,6 +52,7 @@
     var section = panel.closest("section");
     var buttons = Array.prototype.slice.call(panel.querySelectorAll("[data-filter]"));
     var groups = Array.prototype.slice.call(section.querySelectorAll(".publication-group"));
+    var primaryGroup = section.querySelector(".publication-group--primary");
     var items = Array.prototype.slice.call(section.querySelectorAll(".publication-list > li"));
     var status = panel.querySelector(".publication-filter-status");
     var counts = {};
@@ -77,7 +78,8 @@
         topics: topics,
         year: yearMatch ? Number(yearMatch[1]) : 0,
         authorRank: authorRanks[title] || 99,
-        originalIndex: originalIndex
+        originalIndex: originalIndex,
+        isPrimary: primaryGroup && item.closest(".publication-group") === primaryGroup
       });
     });
 
@@ -93,12 +95,18 @@
     var resultList = document.createElement("ul");
     resultList.className = "publication-list";
     resultGroup.appendChild(resultList);
-    panel.insertAdjacentElement("afterend", resultGroup);
-    records.forEach(function (record) {
+    if (primaryGroup) {
+      primaryGroup.insertAdjacentElement("afterend", resultGroup);
+    } else {
+      panel.insertAdjacentElement("afterend", resultGroup);
+    }
+    records.filter(function (record) {
+      return !record.isPrimary;
+    }).forEach(function (record) {
       resultList.appendChild(record.item);
     });
     groups.forEach(function (group) {
-      group.hidden = true;
+      if (group !== primaryGroup) group.hidden = true;
     });
 
     buttons.forEach(function (button) {
@@ -127,11 +135,20 @@
     function applyFilter(button) {
       var filter = button.getAttribute("data-filter");
       var visibleCount = 0;
+      var visiblePrimaryCount = 0;
+      var visibleResultCount = 0;
 
       records.forEach(function (record) {
         var visible = filter === "all" || record.topics.indexOf(filter) !== -1;
         record.item.hidden = !visible;
-        if (visible) visibleCount += 1;
+        if (visible) {
+          visibleCount += 1;
+          if (record.isPrimary) {
+            visiblePrimaryCount += 1;
+          } else {
+            visibleResultCount += 1;
+          }
+        }
       });
 
       buttons.forEach(function (candidate) {
@@ -141,7 +158,8 @@
       });
 
       panel.setAttribute("data-active-filter", filter);
-      resultGroup.hidden = visibleCount === 0;
+      if (primaryGroup) primaryGroup.hidden = visiblePrimaryCount === 0;
+      resultGroup.hidden = visibleResultCount === 0;
       updateStatus(filter, visibleCount, button);
     }
 
