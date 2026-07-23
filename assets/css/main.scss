@@ -729,6 +729,12 @@ button:focus-visible {
   font-size: 0.76rem !important;
 }
 
+.publication-order-note {
+  margin: 0.18rem 0 0 !important;
+  color: #738286 !important;
+  font-size: 0.72rem !important;
+}
+
 .publication-filter[data-filter="ai-for-science"],
 .topic-label[data-topic="ai-for-science"] {
   --topic-bg: #e9f0e4;
@@ -824,6 +830,15 @@ button:focus-visible {
 .publication-group--primary {
   border-color: rgba(15, 107, 100, 0.32);
   background: linear-gradient(130deg, var(--teal-soft), rgba(255, 254, 249, 0.82));
+}
+
+.publication-group--results {
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem;
+}
+
+.publication-group--results .publication-list li:first-child {
+  border-top: 0;
 }
 
 .publication-group__heading {
