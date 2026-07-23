@@ -653,6 +653,166 @@ button:focus-visible {
   font-size: 0.88rem;
 }
 
+.publication-filter-panel {
+  margin: -0.2rem 0 1.25rem;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background: rgba(255, 254, 249, 0.76);
+}
+
+.publication-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.48rem;
+}
+
+.publication-filter,
+.topic-label {
+  --topic-bg: var(--teal-soft);
+  --topic-ink: var(--teal-dark);
+  --topic-border: rgba(15, 107, 100, 0.24);
+}
+
+.publication-filter {
+  display: inline-flex;
+  gap: 0.42rem;
+  align-items: center;
+  min-height: 2.1rem;
+  padding: 0.38rem 0.72rem;
+  border: 1px solid var(--topic-border);
+  border-radius: 999px;
+  background: var(--topic-bg);
+  color: var(--topic-ink);
+  font: inherit;
+  font-size: 0.76rem;
+  font-weight: 780;
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: transform 150ms ease, box-shadow 150ms ease, background-color 150ms ease, color 150ms ease;
+}
+
+.publication-filter:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 5px 12px rgba(23, 49, 52, 0.09);
+}
+
+.publication-filter:focus-visible {
+  outline: 3px solid rgba(15, 107, 100, 0.2);
+  outline-offset: 2px;
+}
+
+.publication-filter.is-active {
+  border-color: var(--topic-ink);
+  background: var(--topic-ink);
+  color: #fff;
+  box-shadow: 0 6px 14px rgba(23, 49, 52, 0.14);
+}
+
+.publication-filter__count {
+  display: inline-grid;
+  min-width: 1.28rem;
+  height: 1.28rem;
+  padding: 0 0.25rem;
+  place-items: center;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.68);
+  color: var(--topic-ink);
+  font-size: 0.64rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.publication-filter-status {
+  margin: 0.7rem 0 0 !important;
+  color: var(--muted) !important;
+  font-size: 0.76rem !important;
+}
+
+.publication-filter[data-filter="ai-for-science"],
+.topic-label[data-topic="ai-for-science"] {
+  --topic-bg: #e9f0e4;
+  --topic-ink: #3f6738;
+  --topic-border: #bdd0b5;
+}
+
+.publication-filter[data-filter="multimodal"],
+.topic-label[data-topic="multimodal"] {
+  --topic-bg: #e5eef6;
+  --topic-ink: #315f86;
+  --topic-border: #b9ccde;
+}
+
+.publication-filter[data-filter="llms"],
+.topic-label[data-topic="llms"] {
+  --topic-bg: #f3e7ec;
+  --topic-ink: #81445a;
+  --topic-border: #dcbac7;
+}
+
+.publication-filter[data-filter="nlp"],
+.topic-label[data-topic="nlp"] {
+  --topic-bg: #dff0ed;
+  --topic-ink: #116c65;
+  --topic-border: #a9d1ca;
+}
+
+.publication-filter[data-filter="efficient-mllms"],
+.topic-label[data-topic="efficient-mllms"] {
+  --topic-bg: #f7ecd8;
+  --topic-ink: #865914;
+  --topic-border: #e1c99d;
+}
+
+.publication-filter[data-filter="embodied-ai"],
+.topic-label[data-topic="embodied-ai"] {
+  --topic-bg: #e6eee1;
+  --topic-ink: #4b6b3e;
+  --topic-border: #bfd0b4;
+}
+
+.publication-filter[data-filter="agents"],
+.topic-label[data-topic="agents"] {
+  --topic-bg: #ece8f5;
+  --topic-ink: #62508b;
+  --topic-border: #c9bfdf;
+}
+
+.publication-filter[data-filter="video"],
+.topic-label[data-topic="video"] {
+  --topic-bg: #e4ecf7;
+  --topic-ink: #3d6092;
+  --topic-border: #b9c9df;
+}
+
+.publication-filter[data-filter="ocr"],
+.topic-label[data-topic="ocr"] {
+  --topic-bg: #f4e8de;
+  --topic-ink: #87502d;
+  --topic-border: #ddc0aa;
+}
+
+.publication-filter[data-filter="machine-learning"],
+.topic-label[data-topic="machine-learning"] {
+  --topic-bg: #e7ecec;
+  --topic-ink: #526569;
+  --topic-border: #c2cecf;
+}
+
+.publication-filter[data-filter="generative-modeling"],
+.topic-label[data-topic="generative-modeling"] {
+  --topic-bg: #f3e5ef;
+  --topic-ink: #82446f;
+  --topic-border: #dbbad1;
+}
+
+.publication-filter[data-filter="survey"],
+.topic-label[data-topic="survey"] {
+  --topic-bg: #eceeef;
+  --topic-ink: #5c656a;
+  --topic-border: #cbd0d2;
+}
+
 .publication-group {
   margin-bottom: 1rem;
   padding: clamp(1.25rem, 3vw, 2rem);
@@ -761,8 +921,9 @@ button:focus-visible {
 
 .topic-label {
   margin: 0;
-  background: var(--teal-soft);
-  color: var(--teal-dark);
+  border: 1px solid var(--topic-border);
+  background: var(--topic-bg);
+  color: var(--topic-ink);
   text-transform: uppercase;
 }
 
@@ -1269,6 +1430,23 @@ button:focus-visible {
 
   .publication-group {
     padding: 1.1rem;
+  }
+
+  .publication-filter-panel {
+    margin-inline: -0.1rem;
+    padding: 0.82rem;
+  }
+
+  .publication-filters {
+    flex-wrap: nowrap;
+    padding-bottom: 0.15rem;
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    scrollbar-width: thin;
+  }
+
+  .publication-filter {
+    flex: 0 0 auto;
   }
 
   .venue,
