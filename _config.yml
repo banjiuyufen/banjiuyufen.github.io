@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Yi Chen | AI for Adjuvant Design"
 description              : "Yi Chen develops structured, knowledge-grounded AI systems for adjuvant design, multimodal reasoning, and scientific discovery."
+url                      : "https://banjiuyufen.github.io"
+baseurl                  : ""
 repository               : "banjiuyufen/banjiuyufen.github.io"
 google_scholar_stats_use_cdn : true
 
