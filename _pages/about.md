@@ -101,6 +101,7 @@ redirect_from:
     </div>
   </div>
   <ol class="news-list">
+    <li><time datetime="2026-08">2026.08</time><div><strong>The Hitchhiker's Guide to Autonomous Research: A Survey of Scientific Agents</strong> was accepted to T_PAMI.</div></li>
     <li><time datetime="2026-04">2026.04</time><div><strong>MR-ALIGN</strong> was accepted to ACL 2026 Findings, extending our work on factuality alignment for reasoning models.</div></li>
     <li><time datetime="2026-03">2026.03</time><div><strong>Data-constrained machine learning for materials science</strong> was accepted to Materials Genome Engineering Advances.</div></li>
     <li><time datetime="2026-02">2026.02</time><div><strong>MeteorPred, ChartAgent, and fine-grained VLM quantization</strong> were accepted to CVPR 2026.</div></li>
