@@ -101,7 +101,7 @@ redirect_from:
     </div>
   </div>
   <ol class="news-list">
-    <li><time datetime="2026-08">2026.08</time><div><strong>The Hitchhiker's Guide to Autonomous Research: A Survey of Scientific Agents</strong> was accepted to TPAMI.</div></li>
+    <li><time datetime="2026-08">2026.08</time><div><strong>The Hitchhiker's Guide to Autonomous Research: A Survey of Scientific Agents</strong> was accepted to TPAMI. <strong>SAVANT, ElementCheck, and CL-OCR</strong> were accepted to EMNLP 2026 Findings.</div></li>
     <li><time datetime="2026-04">2026.04</time><div><strong>MR-ALIGN</strong> was accepted to ACL 2026 Findings, extending our work on factuality alignment for reasoning models.</div></li>
     <li><time datetime="2026-03">2026.03</time><div><strong>Data-constrained machine learning for materials science</strong> was accepted to Materials Genome Engineering Advances.</div></li>
     <li><time datetime="2026-02">2026.02</time><div><strong>MeteorPred, ChartAgent, and fine-grained VLM quantization</strong> were accepted to CVPR 2026.</div></li>
@@ -139,17 +139,18 @@ redirect_from:
 
   <article class="paper-card paper-card--primary">
     <div class="paper-card__media">
-      <span class="paper-badge">Preprint · 2026</span>
+      <span class="paper-badge">EMNLP 2026 · Findings</span>
       <img src="/images/SAVANT.png" alt="SAVANT neuro-symbolic verification framework" loading="lazy">
     </div>
     <div class="paper-card__body">
       <p class="paper-stage">Design generation &amp; verification</p>
-      <h4>SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</h4>
+      <h4><a href="https://openreview.net/forum?id=a7kfqTZ5mi">SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</a></h4>
       <p class="paper-authors"><strong>Yi Chen</strong>, Yu Zhang, Jian Xu, Xu-Yao Zhang, Hua Yue, Xinming Wang, Zequan Lyu, Boran Wang, Hongyi Liu, Yan Wang, Peiyuan Cao, Wei Wei, Cheng-Lin Liu</p>
       <ul class="paper-contributions">
         <li>Frames adjuvant design verification as literature-grounded mechanistic proof checking.</li>
         <li>Checks precedent, immune outcomes, and mechanism chains while exposing evidence gaps.</li>
       </ul>
+      <div class="paper-actions"><a href="https://openreview.net/forum?id=a7kfqTZ5mi">Paper <span aria-hidden="true">↗</span></a></div>
     </div>
   </article>
 
@@ -227,8 +228,8 @@ redirect_from:
         <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">ICLR 2026</span></div>
       </li>
       <li>
-        <div><span class="publication-entry__title">SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</span><span class="publication-entry__authors"><strong>Yi Chen</strong>, Yu Zhang, Jian Xu, et al.</span></div>
-        <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue venue--neutral">Preprint 2026</span></div>
+        <div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=a7kfqTZ5mi">SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</a></span><span class="publication-entry__authors"><strong>Yi Chen</strong>, Yu Zhang, Jian Xu, et al.</span></div>
+        <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">EMNLP 2026 Findings</span></div>
       </li>
     </ul>
   </div>
@@ -239,7 +240,7 @@ redirect_from:
     </div>
     <ul class="publication-list">
       <li><div><span class="publication-entry__title">Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners</span><span class="publication-entry__authors"><strong>Yi Chen</strong>, MingMing Yu, Boran Wang, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
-      <li><div><span class="publication-entry__title">ElementCheck: Long-Form Text Factuality Evaluation via Sentence-Level Fact Elements</span><span class="publication-entry__authors">Xinming Wang, Haoran Du, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">NLP</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=dSm02notDw">ElementCheck: Complexity-Aware Long-Form Text Factuality Evaluation via Sentence Elements</a></span><span class="publication-entry__authors">Xinming Wang, Haoran Du, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">NLP</span><span class="venue">EMNLP 2026 Findings</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2601.08209">Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models</a></span><span class="publication-entry__authors">Rongji Li, Jian Xu, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">LLMs</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title">BioChartBench: A Benchmark for Structured Quantitative Extraction from Biomedical Charts</span><span class="publication-entry__authors">Zequan Lyu, Yu Zhang, Boran Wang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title">OpenFC: Learning Verification Policies for Open-Search Fact Checking</span><span class="publication-entry__authors">Xinming Wang, Kaixiang Qiu, Yansong Lin, Chunji Iv, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">NLP</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
@@ -261,7 +262,7 @@ redirect_from:
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2512.14040">ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning</a></span><span class="publication-entry__authors">Boran Wang, Xinming Wang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Agents</span><span class="venue">CVPR 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2507.21507">VAGU &amp; GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding</a></span><span class="publication-entry__authors">Shibo Gao, Peipei Yang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Video</span><span class="venue">AAAI 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2508.06859">MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction</a></span><span class="publication-entry__authors">Shuo Tang, Jian Xu, Jiadong Zhang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">CVPR 2026 · Highlight</span></div></li>
-      <li><div><span class="publication-entry__title">CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild</span><span class="publication-entry__authors">Haijie Yuan, Yiming Zhang, Dekang Ran, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">OCR</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=E3p8ih8RS8">CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild</a></span><span class="publication-entry__authors">Haijie Yuan, Yiming Zhang, Dekang Ran, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">OCR</span><span class="venue">EMNLP 2026 Findings</span></div></li>
       <li><div><span class="publication-entry__title">MapGPT: A Map-Centric Multimodal Model and Benchmark for Indoor Spatial Reasoning</span><span class="publication-entry__authors">MingMing Yu, Yu Bai, Yanghong Mei, Ziyi Bai, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Embodied AI</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://doi.org/10.1109/AIHCIR67580.2025.11405062">ManiNet: Manifold Network for Few-Shot Learning</a></span><span class="publication-entry__authors">Ruiqi Wang, Hengcan Shi, <strong>Yi Chen</strong>, YaoNan Wang.</span></div><div class="publication-entry__meta"><span class="topic-label">Machine Learning</span><span class="venue">AIHCIR 2025 · Best Paper</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2410.02309">Decoupling Layout from Glyph in Online Chinese Handwriting Generation</a></span><span class="publication-entry__authors">Min-Si Ren, Yan-Ming Zhang, <strong>Yi Chen</strong>.</span></div><div class="publication-entry__meta"><span class="topic-label">Generative Modeling</span><span class="venue">ICLR 2025</span></div></li>
