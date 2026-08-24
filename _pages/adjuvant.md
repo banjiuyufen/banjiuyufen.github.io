@@ -48,6 +48,7 @@ body_class: adjuvant-program
         <div class="stage-card-meta"><span class="stage-number">03</span><span class="stage-state"><span class="lang-switch" data-lang-en="Verification" data-lang-zh="科学验证">Verification</span></span></div>
         <h3><span class="lang-switch" data-lang-en="Neuro-Symbolic Verifier" data-lang-zh="神经符号验证器">Neuro-Symbolic Verifier</span></h3>
         <p><span class="lang-switch" data-lang-en="SAVANT combines literature evidence, immune outcomes, and symbolic mechanism chains to inspect generated designs." data-lang-zh="以SAVANT为代表，结合文献证据、免疫结果与符号化机制链，对生成设计进行检验。">SAVANT combines literature evidence, immune outcomes, and symbolic mechanism chains to inspect generated designs.</span></p>
+        <a class="stage-link" href="https://openreview.net/forum?id=a7kfqTZ5mi"><span class="lang-switch" data-lang-en="View SAVANT · EMNLP 2026 Findings" data-lang-zh="查看 SAVANT · EMNLP 2026 Findings">View SAVANT · EMNLP 2026 Findings</span> <span aria-hidden="true">↗</span></a>
       </article>
 
       <article class="program-stage-card program-stage-card--agent">
