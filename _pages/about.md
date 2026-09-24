@@ -308,7 +308,7 @@ redirect_from:
       <ul class="detail-list detail-list--stacked">
         <li><span>Journals</span><strong>IEEE TCSVT, TMLR</strong></li>
         <li><span>Program committee</span><strong>AAAI 2026, AAAI 2027</strong></li>
-        <li><span>Conference reviewer</span><strong>ICLR 2026, CVPR 2026, ICML 2026, ECCV 2026</strong></li>
+        <li><span>Conference reviewer</span><strong>ICLR 2026, CVPR 2026, ICML 2026, ECCV 2026, ICLR 2027</strong></li>
       </ul>
     </section>
 
