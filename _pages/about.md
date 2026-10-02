@@ -156,6 +156,26 @@ redirect_from:
 
   <h3 class="work-group-title work-group-title--secondary">Selected Technical Foundations</h3>
 
+  <article class="paper-card paper-card--flashback">
+    <div class="paper-card__media">
+      <span class="paper-badge">Preprint · 2026</span>
+      <img src="/images/FlashBack.png" alt="FlashBack selective-memory framework: multi-level memory, temporal-evidence routing, and isolated Side-KV recall" width="1736" height="961" loading="lazy">
+    </div>
+    <div class="paper-card__body">
+      <p class="paper-stage">Selective memory for streaming VLMs</p>
+      <h4><a href="https://arxiv.org/abs/2610.01192">FlashBack: Knowing When to Remember in Streaming Vision-Language Models</a></h4>
+      <p class="paper-authors"><strong>Yi Chen</strong>, MingMing Yu, Rui-Qi Wang, Boran Wang, Xiaohang Cao, Chu Tang, Jingmin Chen, Jie Gu</p>
+      <ul class="paper-contributions">
+        <li>Uses a frozen VLM to decide when historical recall is needed, improving long-horizon and memory-dependent tasks without additional training.</li>
+        <li>Combines recent context with query-relevant history through isolated Side-KV recall, leaving the native streaming state unchanged and largely preserving real-time perception.</li>
+      </ul>
+      <div class="paper-actions">
+        <a href="https://arxiv.org/abs/2610.01192">Paper <span aria-hidden="true">↗</span></a>
+        <a href="/images/FlashBack.png">Figure <span aria-hidden="true">↗</span></a>
+      </div>
+    </div>
+  </article>
+
   <div class="paper-card-grid">
     <article class="paper-card paper-card--compact">
       <div class="paper-card__media">
@@ -231,6 +251,10 @@ redirect_from:
         <div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=a7kfqTZ5mi">SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</a></span><span class="publication-entry__authors"><strong>Yi Chen</strong>, Yu Zhang, Jian Xu, et al.</span></div>
         <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">EMNLP 2026 Findings</span></div>
       </li>
+      <li>
+        <div><span class="publication-entry__title">AdjuvantChart: Benchmarking Multi-Panel Relational Understanding in Real-World Scientific Charts</span><span class="publication-entry__authors">Boran Wang, Xinming Wang, <strong>Yi Chen</strong>, Zequan Lyu, Jian Xu, Xiawei Yue, Xiang Li, Yu Zhang, Jing Yuan, Xu-Yao Zhang, Cheng-Lin Liu</span></div>
+        <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div>
+      </li>
     </ul>
   </div>
 
@@ -239,6 +263,7 @@ redirect_from:
       <div><p>Technical foundations</p><h3>Structured Multimodal Modeling &amp; Reasoning</h3></div>
     </div>
     <ul class="publication-list">
+      <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2610.01192">FlashBack: Knowing When to Remember in Streaming Vision-Language Models</a></span><span class="publication-entry__authors"><strong>Yi Chen</strong>, MingMing Yu, Rui-Qi Wang, Boran Wang, Xiaohang Cao, Chu Tang, Jingmin Chen, Jie Gu</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="topic-label">Video</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title">Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners</span><span class="publication-entry__authors"><strong>Yi Chen</strong>, MingMing Yu, Boran Wang, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=dSm02notDw">ElementCheck: Complexity-Aware Long-Form Text Factuality Evaluation via Sentence Elements</a></span><span class="publication-entry__authors">Xinming Wang, Haoran Du, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">NLP</span><span class="venue">EMNLP 2026 Findings</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2601.08209">Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models</a></span><span class="publication-entry__authors">Rongji Li, Jian Xu, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">LLMs</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
@@ -257,10 +282,12 @@ redirect_from:
       <div><p>Broader capabilities</p><h3>Scientific, Embodied &amp; Domain Work</h3></div>
     </div>
     <ul class="publication-list">
+      <li><div><span class="publication-entry__title">Balancing Invariance and Information Preservation in Single-Cell JEPA</span><span class="publication-entry__authors">Minsi Ren, <strong>Yi Chen</strong>, Tingjun Hou, Zheng Wang, Tailin Wu, Yong He</span></div><div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title">An Efficient Strategy for Data-Constrained Machine Learning in Materials Science</span><span class="publication-entry__authors">ChunTing Shao*, <strong>Yi Chen*</strong>, ShanMan Song, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">MGE Advances 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2512.24212">RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation</a></span><span class="publication-entry__authors">Ming-Ming Yu, <strong>Yi Chen</strong>, Börje F. Karlsson, Wenjun Wu.</span></div><div class="publication-entry__meta"><span class="topic-label">Embodied AI</span><span class="venue">ICRA 2026 · Oral</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2512.14040">ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning</a></span><span class="publication-entry__authors">Boran Wang, Xinming Wang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Agents</span><span class="venue">CVPR 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2507.21507">VAGU &amp; GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding</a></span><span class="publication-entry__authors">Shibo Gao, Peipei Yang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Video</span><span class="venue">AAAI 2026</span></div></li>
+      <li><div><span class="publication-entry__title">OmniMapNav: Map-Guided Multimodal Goal Navigation via Dual-Grounding Map Reading and Lightweight Semantic World Modeling</span><span class="publication-entry__authors">MingMing Yu, Longteng Guo, Yanghong Mei, <strong>Yi Chen</strong>, Guiyu Zhao, Jiabin Lou, Rongtao Xu, Wenjun Wu, Jing Liu</span></div><div class="publication-entry__meta"><span class="topic-label">Embodied AI</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2508.06859">MeteorPred: A Meteorological Multimodal Large Model and Dataset for Severe Weather Event Prediction</a></span><span class="publication-entry__authors">Shuo Tang, Jian Xu, Jiadong Zhang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">CVPR 2026 · Highlight</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=E3p8ih8RS8">CL-OCR: Fusing Layout Analysis and Adapting Recognition for Document Parsing in the Wild</a></span><span class="publication-entry__authors">Haijie Yuan, Yiming Zhang, Dekang Ran, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">OCR</span><span class="venue">EMNLP 2026 Findings</span></div></li>
       <li><div><span class="publication-entry__title">MapGPT: A Map-Centric Multimodal Model and Benchmark for Indoor Spatial Reasoning</span><span class="publication-entry__authors">MingMing Yu, Yu Bai, Yanghong Mei, Ziyi Bai, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Embodied AI</span><span class="venue venue--neutral">Preprint 2026</span></div></li>

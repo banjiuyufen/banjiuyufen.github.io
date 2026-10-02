@@ -574,6 +574,24 @@ button:focus-visible {
   letter-spacing: 0.04em;
 }
 
+.paper-card--flashback .paper-card__media {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.65rem;
+  padding: 0.85rem;
+  aspect-ratio: auto;
+}
+
+.paper-card--flashback .paper-badge {
+  position: static;
+  align-self: flex-start;
+}
+
+.paper-card--flashback .paper-card__media img {
+  height: auto;
+}
+
 .paper-card__body {
   padding: clamp(1.3rem, 3vw, 2rem);
 }
