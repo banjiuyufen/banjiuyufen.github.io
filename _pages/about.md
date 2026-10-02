@@ -250,10 +250,6 @@ redirect_from:
         <div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=a7kfqTZ5mi">SAVANT: A Neuro-Symbolic Verification Framework for Adjuvant Design</a></span><span class="publication-entry__authors"><strong>Yi Chen</strong>, Yu Zhang, Jian Xu, et al.</span></div>
         <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">EMNLP 2026 Findings</span></div>
       </li>
-      <li>
-        <div><span class="publication-entry__title">AdjuvantChart: Benchmarking Multi-Panel Relational Understanding in Real-World Scientific Charts</span><span class="publication-entry__authors">Boran Wang, Xinming Wang, <strong>Yi Chen</strong>, Zequan Lyu, Jian Xu, Xiawei Yue, Xiang Li, Yu Zhang, Jing Yuan, Xu-Yao Zhang, Cheng-Lin Liu</span></div>
-        <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div>
-      </li>
     </ul>
   </div>
 
@@ -264,6 +260,10 @@ redirect_from:
     <ul class="publication-list">
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2610.01192">FlashBack: Knowing When to Remember in Streaming Vision-Language Models</a></span><span class="publication-entry__authors"><strong>Yi Chen</strong>, MingMing Yu, Rui-Qi Wang, Boran Wang, Xiaohang Cao, Chu Tang, Jingmin Chen, Jie Gu</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="topic-label">Video</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title">Topology-Aware Visual Prompts are Weakly Supervised Spatial Grounding Learners</span><span class="publication-entry__authors"><strong>Yi Chen</strong>, MingMing Yu, Boran Wang, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
+      <li>
+        <div><span class="publication-entry__title">AdjuvantChart: Benchmarking Multi-Panel Relational Understanding in Real-World Scientific Charts</span><span class="publication-entry__authors">Boran Wang, Xinming Wang, <strong>Yi Chen</strong>, Zequan Lyu, Jian Xu, Xiawei Yue, Xiang Li, Yu Zhang, Jing Yuan, Xu-Yao Zhang, Cheng-Lin Liu</span></div>
+        <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div>
+      </li>
       <li><div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=dSm02notDw">ElementCheck: Complexity-Aware Long-Form Text Factuality Evaluation via Sentence Elements</a></span><span class="publication-entry__authors">Xinming Wang, Haoran Du, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">NLP</span><span class="venue">EMNLP 2026 Findings</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2601.08209">Generation-Augmented Generation: A Plug-and-Play Framework for Private Knowledge Injection in Large Language Models</a></span><span class="publication-entry__authors">Rongji Li, Jian Xu, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">LLMs</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title">BioChartBench: A Benchmark for Structured Quantitative Extraction from Biomedical Charts</span><span class="publication-entry__authors">Zequan Lyu, Yu Zhang, Boran Wang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
