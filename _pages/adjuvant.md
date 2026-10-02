@@ -35,7 +35,7 @@ body_class: adjuvant-program
         <div class="stage-card-meta"><span class="stage-number">01</span><span class="stage-state"><span class="lang-switch" data-lang-en="Foundation" data-lang-zh="基础设施">Foundation</span></span></div>
         <h3><span class="lang-switch" data-lang-en="Benchmarks &amp; Infrastructure" data-lang-zh="Benchmark 与基础设施">Benchmarks &amp; Infrastructure</span></h3>
         <p><span class="lang-switch" data-lang-en="Formal task definitions, structured domain knowledge, datasets, and evaluation protocols for adjuvant research." data-lang-zh="面向佐剂研究的问题定义、结构化领域知识、数据集与评测体系。">Formal task definitions, structured domain knowledge, datasets, and evaluation protocols for adjuvant research.</span></p>
-        <a class="stage-link" href="https://openreview.net/forum?id=moeOrHkDg2"><span class="lang-switch" data-lang-en="View benchmark" data-lang-zh="查看Benchmark">View benchmark</span> <span aria-hidden="true">↗</span></a>
+        <a class="stage-link" href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/c1397359f98b2f6b4e6b980dc7e935f8-Abstract-Conference.html"><span class="lang-switch" data-lang-en="View benchmark" data-lang-zh="查看Benchmark">View benchmark</span> <span aria-hidden="true">↗</span></a>
       </article>
 
       <article class="program-stage-card program-stage-card--model">

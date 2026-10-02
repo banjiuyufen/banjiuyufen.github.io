@@ -127,13 +127,13 @@ redirect_from:
     </div>
     <div class="paper-card__body">
       <p class="paper-stage">Problem definition &amp; benchmarking</p>
-      <h4><a href="https://openreview.net/forum?id=moeOrHkDg2">An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM</a></h4>
-      <p class="paper-authors"><strong>Yi Chen*</strong>, Yu Zhang*, Jian Xu, Xu-Yao Zhang, Hua Yue, Xinming Wang, Zequan Lyu, Wei Wei, Cheng-Lin Liu</p>
+      <h4><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/c1397359f98b2f6b4e6b980dc7e935f8-Abstract-Conference.html">An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM</a></h4>
+      <p class="paper-authors"><strong>Yi Chen*</strong>, Yu Zhang*, Jian Xu, Hua Yue, Xinming Wang, Zequan Lyu, Xu-Yao Zhang, Wei Wei, Cheng-Lin Liu</p>
       <ul class="paper-contributions">
         <li>Introduces an open-ended benchmark dedicated to multimodal adjuvant research.</li>
         <li>Formalizes adjuvant design principles and immune mechanisms for evaluation.</li>
       </ul>
-      <div class="paper-actions"><a href="https://openreview.net/forum?id=moeOrHkDg2">Paper <span aria-hidden="true">↗</span></a></div>
+      <div class="paper-actions"><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/c1397359f98b2f6b4e6b980dc7e935f8-Abstract-Conference.html">Paper <span aria-hidden="true">↗</span></a></div>
     </div>
   </article>
 
@@ -166,12 +166,11 @@ redirect_from:
       <h4><a href="https://arxiv.org/abs/2610.01192">FlashBack: Knowing When to Remember in Streaming Vision-Language Models</a></h4>
       <p class="paper-authors"><strong>Yi Chen</strong>, MingMing Yu, Rui-Qi Wang, Boran Wang, Xiaohang Cao, Chu Tang, Jingmin Chen, Jie Gu</p>
       <ul class="paper-contributions">
-        <li>Uses a frozen VLM to decide when historical recall is needed, improving long-horizon and memory-dependent tasks without additional training.</li>
-        <li>Combines recent context with query-relevant history through isolated Side-KV recall, leaving the native streaming state unchanged and largely preserving real-time perception.</li>
+        <li>Uses a VLM's native semantic understanding to determine when a question requires historical evidence, enabling selective memory access without additional training.</li>
+        <li>Combines recent context with relevant long-term memory through a separate recall pathway, improving memory-dependent tasks while largely preserving real-time perception and leaving the ongoing streaming state unchanged.</li>
       </ul>
       <div class="paper-actions">
         <a href="https://arxiv.org/abs/2610.01192">Paper <span aria-hidden="true">↗</span></a>
-        <a href="/images/FlashBack.png">Figure <span aria-hidden="true">↗</span></a>
       </div>
     </div>
   </article>
@@ -244,7 +243,7 @@ redirect_from:
     </div>
     <ul class="publication-list">
       <li>
-        <div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=moeOrHkDg2">An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM</a></span><span class="publication-entry__authors"><strong>Yi Chen*</strong>, Yu Zhang*, Jian Xu, et al.</span></div>
+        <div><span class="publication-entry__title"><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/c1397359f98b2f6b4e6b980dc7e935f8-Abstract-Conference.html">An Open-Ended Benchmark and Formal Framework for Adjuvant Research with MLLM</a></span><span class="publication-entry__authors"><strong>Yi Chen*</strong>, Yu Zhang*, Jian Xu, et al.</span></div>
         <div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">ICLR 2026</span></div>
       </li>
       <li>
@@ -270,7 +269,7 @@ redirect_from:
       <li><div><span class="publication-entry__title">BioChartBench: A Benchmark for Structured Quantitative Extraction from Biomedical Charts</span><span class="publication-entry__authors">Zequan Lyu, Yu Zhang, Boran Wang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title">OpenFC: Learning Verification Policies for Open-Search Fact Checking</span><span class="publication-entry__authors">Xinming Wang, Kaixiang Qiu, Yansong Lin, Chunji Iv, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">NLP</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://openreview.net/forum?id=six75YUGgS">One Patch Doesn't Fit All: Adaptive Patching for Native-Resolution Multimodal Large Language Models</a></span><span class="publication-entry__authors">Wenzhuo Liu, Weijie Yin, Fei Zhu, Shijie Ma, Haiyang Guo, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Multimodal</span><span class="venue">ICLR 2026</span></div></li>
-      <li><div><span class="publication-entry__title">Fine-Grained Post-Training Quantization for Large Vision Language Models with Integrated Gradients</span><span class="publication-entry__authors">Ziwen Xiang, Fanhu Zeng, Hongjian Fang, Rui-Qi Wang, Renxing Chen, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Efficient MLLMs</span><span class="venue">CVPR 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Xiang_Fine-Grained_Post-Training_Quantization_for_Large_Vision_Language_Models_with_Quantization-Aware_CVPR_2026_paper.html">Fine-Grained Post-Training Quantization for Large Vision Language Models with Quantization-Aware Integrated Gradients</a></span><span class="publication-entry__authors">Ziwei Xiang, Fanhu Zeng, Hongjian Fang, Rui-Qi Wang, Renxing Chen, Yanan Zhu, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Efficient MLLMs</span><span class="venue">CVPR 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2510.24794">MR-ALIGN: Meta-Reasoning Informed Factuality Alignment for Large Reasoning Models</a></span><span class="publication-entry__authors">Xinming Wang, Jian Xu, Bin Yu, Sheng Lian, Hongzhu Yi, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">LLMs</span><span class="venue">ACL 2026 Findings</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/32229">Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information</a></span><span class="publication-entry__authors"><strong>Yi Chen</strong>, Jian Xu, Xu-Yao Zhang, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Efficient MLLMs</span><span class="venue">AAAI 2025</span><a class="icon-link" href="https://github.com/banjiuyufen/RecoverableCompression" aria-label="Recoverable Compression code on GitHub"><i class="fab fa-github" aria-hidden="true"></i></a></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2409.01162">Sparsity Meets Similarity: Leveraging Long-Tail Distribution for Dynamic Optimized Token Representation in Multimodal Large Language Models</a></span><span class="publication-entry__authors"><strong>Yi Chen*</strong>, Gao-Tong Yu*, Jian Xu.</span></div><div class="publication-entry__meta"><span class="topic-label">Efficient MLLMs</span><span class="venue venue--neutral">Preprint 2024</span></div></li>
@@ -283,7 +282,7 @@ redirect_from:
     </div>
     <ul class="publication-list">
       <li><div><span class="publication-entry__title">Balancing Invariance and Information Preservation in Single-Cell JEPA</span><span class="publication-entry__authors">Minsi Ren, <strong>Yi Chen</strong>, Tingjun Hou, Zheng Wang, Tailin Wu, Yong He</span></div><div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue venue--neutral">Preprint 2026</span></div></li>
-      <li><div><span class="publication-entry__title">An Efficient Strategy for Data-Constrained Machine Learning in Materials Science</span><span class="publication-entry__authors">ChunTing Shao*, <strong>Yi Chen*</strong>, ShanMan Song, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">MGE Advances 2026</span></div></li>
+      <li><div><span class="publication-entry__title"><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mgea.70065">A Synergistic Strategy for Data-Constrained Deep Learning in Materials Science</a></span><span class="publication-entry__authors">Chun Ting Shao*, <strong>Yi Chen*</strong>, Shan Man Song, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">AI for Science</span><span class="venue">MGE Advances 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2512.24212">RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Visual Contextual Adaptation</a></span><span class="publication-entry__authors">Ming-Ming Yu, <strong>Yi Chen</strong>, Börje F. Karlsson, Wenjun Wu.</span></div><div class="publication-entry__meta"><span class="topic-label">Embodied AI</span><span class="venue">ICRA 2026 · Oral</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2512.14040">ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning</a></span><span class="publication-entry__authors">Boran Wang, Xinming Wang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Agents</span><span class="venue">CVPR 2026</span></div></li>
       <li><div><span class="publication-entry__title"><a href="https://arxiv.org/abs/2507.21507">VAGU &amp; GtS: LLM-Based Benchmark and Framework for Joint Video Anomaly Grounding and Understanding</a></span><span class="publication-entry__authors">Shibo Gao, Peipei Yang, <strong>Yi Chen</strong>, et al.</span></div><div class="publication-entry__meta"><span class="topic-label">Video</span><span class="venue">AAAI 2026</span></div></li>
